@@ -1,0 +1,38 @@
+### Marcas ###
+
+:m_Peugeot rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Peugeot".
+
+:m_Nissan rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Nissan".
+
+:m_Dacia rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Dacia".
+
+:m_Citroen rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Citroen".
+
+:m_Mitsubishi rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Mitsubishi".
+
+:m_Volkswagen rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Volkswagen".
+
+:m_Skoda rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Skoda".
+
+:m_Seat rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Seat".
+
+:m_Audi rdf:type owl:NamedIndividual , :Marca; 
+	:descricao "";
+	:nome "Audi".
+

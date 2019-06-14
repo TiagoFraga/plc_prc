@@ -1,0 +1,482 @@
+### Pneus ###
+
+:pn_15_185_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 185 ;
+	:jante 65 .
+
+:pn_16_195_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 195 ;
+	:jante 45 .
+
+:pn_14_175_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 14 ;
+	:jante 175 ;
+	:jante 65 .
+
+:pn_15_185_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 185 ;
+	:jante 55 .
+
+:pn_15_165_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 165 ;
+	:jante 65 .
+
+:pn_15_185_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 185 ;
+	:jante 60 .
+
+:pn_16_195_50 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 195 ;
+	:jante 50 .
+
+:pn_17_215_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 215 ;
+	:jante 45 .
+
+:pn_16_205_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 205 ;
+	:jante 60 .
+
+:pn_16_185_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 185 ;
+	:jante 55 .
+
+:pn_15_195_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 195 ;
+	:jante 65 .
+
+:pn_16_205_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 205 ;
+	:jante 55 .
+
+:pn_17_205_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 205 ;
+	:jante 45 .
+
+:pn_17_205_50 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 205 ;
+	:jante 50 .
+
+:pn_17_225_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 225 ;
+	:jante 45 .
+
+:pn_15_165_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 165 ;
+	:jante 55 .
+
+:pn_16_195_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 195 ;
+	:jante 65 .
+
+:pn_18_225_40 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 225 ;
+	:jante 40 .
+
+:pn_18_235_40 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 235 ;
+	:jante 40 .
+
+:pn_15_205_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 205 ;
+	:jante 60 .
+
+:pn_17_225_50 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 225 ;
+	:jante 50 .
+
+:pn__195_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante  ;
+	:jante 195 ;
+	:jante 65 .
+
+:pn__205_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante  ;
+	:jante 205 ;
+	:jante 55 .
+
+:pn_17_225_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 225 ;
+	:jante 60 .
+
+:pn_17_225_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 225 ;
+	:jante 55 .
+
+:pn_17_255_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 255 ;
+	:jante 55 .
+
+:pn_18_245_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 245 ;
+	:jante 45 .
+
+:pn_16_225_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 225 ;
+	:jante 60 .
+
+:pn_16_195_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 195 ;
+	:jante 60 .
+
+:pn_17_215_50 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 215 ;
+	:jante 50 .
+
+:pn_18_225_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 225 ;
+	:jante 45 .
+
+:pn_14_155_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 14 ;
+	:jante 155 ;
+	:jante 65 .
+
+:pn_16_215_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 215 ;
+	:jante 60 .
+
+:pn_15_205_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 205 ;
+	:jante 65 .
+
+:pn_15_215_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 215 ;
+	:jante 65 .
+
+:pn_16_225_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 225 ;
+	:jante 55 .
+
+:pn_16_215_70 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 215 ;
+	:jante 70 .
+
+:pn_18_225_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 225 ;
+	:jante 55 .
+
+:pn_17_215_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 215 ;
+	:jante 55 .
+
+:pn_18_235_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 235 ;
+	:jante 45 .
+
+:pn_16_215_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 215 ;
+	:jante 55 .
+
+:pn_16_195_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 195 ;
+	:jante 55 .
+
+:pn_14_165_70 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 14 ;
+	:jante 165 ;
+	:jante 70 .
+
+:pn_15_175_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 175 ;
+	:jante 60 .
+
+:pn_16_185_50 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 185 ;
+	:jante 50 .
+
+:pn_18_225_50 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 225 ;
+	:jante 50 .
+
+:pn_20_225_40 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 20 ;
+	:jante 225 ;
+	:jante 40 .
+
+:pn_16_215_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 215 ;
+	:jante 65 .
+
+:pn_17_215_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 215 ;
+	:jante 60 .
+
+:pn_18_215_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 215 ;
+	:jante 55 .
+
+:pn_17_215_46 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 215 ;
+	:jante 46 .
+
+:pn_17_255_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 255 ;
+	:jante 65 .
+
+:pn_18_225_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 225 ;
+	:jante 65 .
+
+:pn_15_195_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 195 ;
+	:jante 60 .
+
+:pn_18_215_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 215 ;
+	:jante 45 .
+
+:pn_15_195_50 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 195 ;
+	:jante 50 .
+
+:pn_16_205_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 205 ;
+	:jante 45 .
+
+:pn_18_245_40 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 245 ;
+	:jante 40 .
+
+:pn_17_265_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 265 ;
+	:jante 65 .
+
+:pn_18_265_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 265 ;
+	:jante 60 .
+
+:pn_16_245_70 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 245 ;
+	:jante 70 .
+
+:pn_14_185_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 14 ;
+	:jante 185 ;
+	:jante 60 .
+
+:pn_17_215_40 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 215 ;
+	:jante 40 .
+
+:pn_14_175_70 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 14 ;
+	:jante 175 ;
+	:jante 70 .
+
+:pn_17_235_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 235 ;
+	:jante 45 .
+
+:pn_17_235_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 235 ;
+	:jante 55 .
+
+:pn_18_255_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 255 ;
+	:jante 45 .
+
+:pn_16_235_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 235 ;
+	:jante 60 .
+
+:pn_19_255_40 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 19 ;
+	:jante 255 ;
+	:jante 40 .
+
+:pn_18_255_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 255 ;
+	:jante 55 .
+
+:pn_18_275_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 275 ;
+	:jante 45 .
+
+:pn_19_275_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 19 ;
+	:jante 275 ;
+	:jante 45 .
+
+:pn_21_295_35 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 21 ;
+	:jante 295 ;
+	:jante 35 .
+
+:pn_15_195_55 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 15 ;
+	:jante 195 ;
+	:jante 55 .
+
+:pn_17_205_40 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 205 ;
+	:jante 40 .
+
+:pn___ rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante  ;
+	:jante  ;
+	:jante  .
+
+:pn_16_215_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 16 ;
+	:jante 215 ;
+	:jante 45 .
+
+:pn_17_245_45 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 245 ;
+	:jante 45 .
+
+:pn_17_235_65 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 17 ;
+	:jante 235 ;
+	:jante 65 .
+
+:pn_18_235_60 rdf:type owl:NamedIndividual , :Pneu; 
+	:descricao "";
+	:jante 18 ;
+	:jante 235 ;
+	:jante 60 .
+

@@ -1,0 +1,1256 @@
+"Brand","Vehicle","Engine","Engine code","Power","Torque (Nm/rpm)","Displacement","Average fuel consumption (l/100 km)","CO2 (g/km)","Weight(3p/5p) kg","Compression ratio","GearBox type","Traction type","Block material","Cylinder head","Jante","Largura","Ratio"
+"Renault","Twingo","1.2L 60 hp","D7F","58/5250","93/2500",1149,5.6,130,"1000",9.6,"MT","2wd","cast iron","aluminium","R14",165,65
+"Renault","Twingo","1.2L 75 hp","D4F","75/5500","108/4250",1149,5.1,120,"1025",9.8,"MT","2wd","cast iron","aluminium","R14",165,65
+"Renault","Twingo","1.5L dCi 65 hp","K9KBP","65/3750","160/1900",1461,4.3,113,"1055",17.9,"MT","2wd","cast iron","aluminium","R14",165,65
+"Renault","Twingo","1.2L 75 hp AT","D4F","75/5500","108/4250",1149,5.6,132,"1030",9.8,"AT 5","2wd","cast iron","aluminium","R14",165,65
+"Renault","Twingo","1.5L dCi 85 hp","K9KHP","84/3750","200/1750",1461,4.0,104,"1055",17.9,"MT","2wd","cast iron","aluminium","R14",165,65
+"Renault","Twingo","1.2L TCe 100 hp","D4FT","104/5500","145/3000",1149,5.9,138,"1055",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Renault","Twingo","1.6L 130 hp","K4MRS","133/6750","160/4400",1598,7.0,165,"1124",11.0,"MT","2wd","cast iron","aluminium","R16",195,45
+"Renault","Clio Campus 3p Exp","1.5L dCi 65 hp","K9KBP","65/4000","160/2000",1461,4.3,,"960",18.8,"MT","2wd","cast iron","aluminium","R14",175,65
+"Renault","Clio Campus 3p Dyn","1.5L dCi 65 hp","K9KBP","65/4000","160/2000",1461,4.3,,"960",18.8,"MT","2wd","cast iron","aluminium","R15",185,55
+"Renault","Clio Campus 5p Exp","1.5L dCi 65 hp","K9KBP","65/4000","160/2000",1461,4.3,,"980",18.8,"MT","2wd","cast iron","aluminium","R14",175,65
+"Renault","Clio Campus 5p Dyn","1.5L dCi 65 hp","K9KBP","65/4000","160/2000",1461,4.3,,"980",18.8,"MT","2wd","cast iron","aluminium","R15",185,55
+"Renault","Clio","1.2L 75 hp","D4F","75/5500","105/4250",1149,5.9,139,"1155/1165",9.8,"MT","2wd","cast iron","aluminium","R15",165,65
+"Renault","Clio","1.5L dCi 70 hp","K9KBP","68/4000","160/1700",1461,4.5,120,"1230/1240",17.9,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Clio","1.2L TCe 100 hp","D4FT","101/5500","145/3000",1149,5.8,137,"1165/1175",9.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Clio","1.5L dCi 85 hp","K9KHP","86/3750","200/1900",1461,4.4,117,"1240/1250",17.9,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Clio Exc","1.2L TCe 100 hp","D4FT","101/5500","145/3000",1149,5.8,137,"1165/1175",9.5,"MT","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio Exc","1.5L dCi 85 hp","K9KHP","86/3750","200/1900",1461,4.4,117,"1240/1250",17.9,"MT","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio Exc","1.6L 110 hp AT","K4M","112/6000","151/4250",1598,7.5,179,"1255/1265",9.8,"AT 4","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio  Exc","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000-2500",1461,4.3,123,"1275/1285",15.6,"MT 6","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio GT 3p.","1.6L 130 hp","K4MRS","128/6750","155/4250",1598,6.9,160,"1215",,"MT 6","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio RS 3p.","2.0L 200 hp","F4R","201/7100","215/5400",1998,8.3,195,"1279",,"MT 6","2wd","cast iron","aluminium","R17",215,45
+"Renault","Clio Grand Tour","1.2L 75 hp","D4F","75/5500","105/4250",1149,5.9,139,"1185",9.8,"MT","2wd","cast iron","aluminium","R15",165,65
+"Renault","Clio Grand Tour","1.5L dCi 70 hp","K9KBP","68/4000","160/1700",1461,4.5,120,"1260",17.9,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Clio Grand Tour","1.2L TCe 100 hp","D4FT","101/5500","145/3000",1149,5.8,137,"1195",9.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Clio Grand Tour","1.5L dCi 85 hp","K9KHP","86/3750","200/1900",1461,4.4,117,"1270",17.9,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Clio Grand Tour Exc","1.2L TCe 100 hp","D4FT","101/5500","145/3000",1149,5.8,137,"1195",9.5,"MT","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio Grand Tour Exc","1.5L dCi 85 hp","K9KHP","86/3750","200/1900",1461,4.4,117,"1270",17.9,"MT","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio Grand Tour Exc","1.6L 110 hp AT","K4M","112/6000","151/4250",1598,7.5,179,"1285",9.8,"AT 4","2wd","cast iron","aluminium","R16",195,50
+"Renault","Clio Grand Tour Exc","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000-2500",1461,4.3,123,"1310",15.6,"MT 6","2wd","cast iron","aluminium","R16",195,50
+"Renault","Kangoo Bebop","1.6L 105 hp","K4M","106/5750","148/3750",1598,7.7,186,"1435",10.0,"MT","2wd","cast iron","aluminium","R16",205,60
+"Renault","Kangoo Bebop","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,5.4,142,"1468",15.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Modus","1.2L 75 hp","D4F","75/5500","105/4250",1149,5.9,140,"1225",9.8,"MT","2wd","cast iron","aluminium","R15",165,65
+"Renault","Modus","1.5L dCi 65 hp","K9KBP","65/4000","160/1700",1461,4.7,119,"1255",17.9,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Modus","1.2L TCe 100 hp","D4FT","101/5500","145/3000",1149,5.9,140,"1235",9.8,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Modus","1.5L dCi 85 hp","K9KHP","86/3750","200/1900",1461,4.5,119,"1290",17.9,"MT","2wd","cast iron","aluminium","R15",185,60
+"Renault","Modus Exc","1.2L TCe 100 hp","D4FT","101/5500","145/3000",1149,5.9,140,"1235",9.8,"MT","2wd","cast iron","aluminium","R16",185,55
+"Renault","Modus Exc","1.5L dCi 85 hp","K9KHP","86/3750","200/1900",1461,4.5,119,"1290",17.9,"MT","2wd","cast iron","aluminium","R16",185,55
+"Renault","Modus Exc","1.6L 110 hp AT","K4M","112/6000","151/4250",1598,7.6,179,"1310",10.0,"AT 4","2wd","cast iron","aluminium","R16",185,55
+"Renault","Modus","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.7,124,"1305",15.6,"MT 6","2wd","cast iron","aluminium","R15",185,60
+"Renault","Modus Exc","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.7,124,"1305",15.6,"MT 6","2wd","cast iron","aluminium","R16",185,55
+"Renault","Megane 3 Berline","1.6L 100 hp","K4M","101/5500","148/4250",1598,6.7,159,"1280",9.8,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 3 Berline","1.5L dCi 85 hp","K9KHP","86/3750","200/1750",1461,4.5,118,"1290",17.6,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 3 Berline","1.6L 110 hp","K4M","110/6000","151/4250",1598,6.9,163,"1290",9.7,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 3 Berline Dyn","1.6L 110 hp","K4M","110/6000","151/4250",1598,6.9,163,"1290",9.7,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 3 Berline","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.5,120,"1290",15.3,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 3 Berline Dyn","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.5,120,"1290",15.3,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 3 Berline Dyn","2.0L 140 hp hpT","M4R","140/6000","195/3750",1997,7.6,176,"1356",10.2,"hpT","2wd","aluminium","aluminium","R16",205,55
+"Renault","Megane 3 Berline Dyn","2.0L TCe 180 hp","F4RTK","180/5500","300/2250",1998,7.6,178,"1405",9.3,"MT 6","2wd","cast iron","aluminium","R17",205,45
+"Renault","Megane 3 Berline Dyn","1.9L dCi 130 hp","F9Q","131/3750","300/1750",1870,5.1,134,"1385",16.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 3 Coupé","1.6L 110 hp","K4M","110/6000","151/4250",1598,6.9,163,"1290",9.7,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 3 Coupé","1.5L dCi 85 hp","K9KHP","86/3750","200/1750",1461,4.5,118,"1280",17.6,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 3 Coupé Dyn","1.6L 110 hp","K4M","110/6000","151/4250",1598,6.9,163,"1290",9.7,"MT 6","2wd","cast iron","aluminium","R17",205,50
+"Renault","Megane 3 Coupé","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.5,120,"1280",15.3,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 3 Coupé Dyn","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.5,120,"1280",15.3,"MT 6","2wd","cast iron","aluminium","R17",205,50
+"Renault","Megane 3 Coupé Dyn","2.0L 140 hp hpT","M4R","140/6000","195/3750",1997,7.6,176,"1356",10.2,"hpT","2wd","aluminium","aluminium","R16",205,55
+"Renault","Megane 3 Coupé Dyn","2.0L TCe 180 hp","F4RTK","180/5500","300/2250",1998,7.6,178,"1405",9.3,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Renault","Megane 3 Coupé Dyn","1.9L dCi 130 hp","F9Q","131/3750","300/1750",1870,5.1,134,"1385",16.6,"MT 6","2wd","cast iron","aluminium","R17",205,50
+"Renault","Megane 2 (2003)","1.4L 100 hp","K7J","98/6000","127/3750",1390,6.7,,"1220/1240",10.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 (2003) Dyn","1.4L 100 hp","K7J","98/6000","127/3750",1390,6.7,,"1220/1240",10.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 (2003)","1.6L 110 hp","K4M","113/6000","152/4200",1598,6.8,,"1230/1250",10.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 (2003) Dyn","1.6L 110 hp","K4M","113/6000","152/4200",1598,6.8,,"1230/1250",10.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 (2003)","2.0L 130 hp","F4R","134/5500","191/3750",1998,8.0,,"1305/1325",9.8,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 (2003)","1.5L dCi 80 hp","K9KHP","82/4000","185/2000",1461,4.6,,"1250/1270",18.8,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 (2003) Dyn","1.5L dCi 80 hp","K9KHP","82/4000","185/2000",1461,4.6,,"1250/1270",18.8,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 (2003)","1.9L dCi 120 hp","F9Q","120/4000","270/2000",1870,5.4,,"1250/1270",18.3,"MT 6","2wd","cast iron","aluminium","R15",165,55
+"Renault","Megane 2 (2003) Dyn","1.9L dCi 120 hp","F9Q","120/4000","270/2000",1870,5.4,,"1250/1270",18.3,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 (2006)","1.5L dCi 100 hp","K9KTHP","101/4000","200/1900",1461,4.5,,"1250/1270",18.8,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 (2006) Dyn","1.5L dCi 100 hp","K9KTHP","101/4000","200/1900",1461,4.5,,"1250/1270",18.8,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 Grand Tour","1.4L 100 hp","K7J","98/6000","127/3750",1390,7.0,,"1285",10.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 Grand Tour Dyn","1.4L 100 hp","K7J","98/6000","127/3750",1390,7.0,,"1285",10.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 Grand Tour","1.6L 110 hp","K4M","113/6000","152/4200",1598,6.9,,"1290",10.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 Grand Tour Proactiva","1.6L 110 hp AT","K4M","113/6000","152/4200",1598,6.9,,"1290",10.0,"AT 4","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 Grand Tour Dyn","1.6L 110 hp","K4M","113/6000","152/4200",1598,6.9,,"1290",10.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 Grand Tour Dyn Proactiva","1.6L 110 hp AT","K4M","113/6000","152/4000",1598,7.7,,"1335",10.0,"AT 4","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 Grand Tour","2.0L 130 hp","F4R","134/5500","191/3750",1998,8.0,,"1365",9.8,"MT 6","2wd","cast iron","aluminium","R16",195,65
+"Renault","Megane 2 Grand Tour Proactiva","2.0L 130 hp AT","F4R","134/5500","191/3750",1998,8.4,,"1380",9.8,"AT 4","2wd","cast iron","aluminium","R16",195,65
+"Renault","Megane 2 Grand Tour Dyn","2.0L 130 hp","F4R","134/5500","191/3750",1998,8.8,,"1365",9.8,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 Grand Tour Dyn Proactiva","2.0L 130 hp AT","F4R","134/5500","191/3750",1998,9.2,,"1380",9.8,"AT 4","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 Grand Tour","1.5L dCi 80 hp","K9KHP","82/4000","185/2000",1461,4.6,,"1310",18.8,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 Grand Tour Dyn","1.5L dCi 80 hp","K9KHP","82/4000","185/2000",1461,4.6,,"1310",18.8,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 Grand Tour","1.9L dCi 120 hp","F9Q","120/4000","270/2000",1870,5.4,,"1385",18.3,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 Grand Tour Dyn","1.9L dCi 120 hp","F9Q","120/4000","270/2000",1870,5.4,,"1385",18.3,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 (2006)","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,5.4,144,"1390",15.7,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 (2006) Dyn","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,5.4,144,"1390",15.7,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 RS","2.0L T 225 hp","F4RT","224/5500","300/3000",1998,8.8,,"1430/1450",9.0,"MT 6","2wd","cast iron","aluminium","R18",225,40
+"Renault","Megane 2 R26.R","2.0L T 230 hp","F4RT","230/5500","310/3000",1998,8.5,199,"1305",9.0,"MT 6","2wd","cast iron","aluminium","R18",235,40
+"Renault","Megane 2 CC","1.6L 110 hp","K4M","113/6000","152/4200",1598,6.9,,"1395",10.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 CC Dyn","1.6L 110 hp","K4M","113/6000","152/4200",1598,6.9,,"1395",10.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 CC Dyn","2.0L 130 hp","F4R","134/5500","191/3750",1998,8.2,,"1465",9.8,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Megane 2 CC","1.9L dCi 120 hp","F9Q","120/4000","300/2000",1870,5.5,,"1500",18.3,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Renault","Megane 2 CC Dyn","1.9L dCi 120 hp","F9Q","120/4000","300/2000",1870,5.5,,"1500",18.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Megane 2 CC","2.0L T 160 hp","F4RT","163/5000","270/3250",1998,8.0,,"1490",9.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Scenic","1.6L 110 hp","K4M","110/6000","151/4250",1598,7.5,177,"1395",9.7,"MT 6","2wd","cast iron","aluminium","R15",205,60
+"Renault","Scenic","1.5L dCi 85 hp","K9KHP","86/3750","200/1750",1461,4.9,130,"1460",17.6,"MT 6","2wd","cast iron","aluminium","R15",205,60
+"Renault","Scenic","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.9,130,"1460",15.3,"MT 6","2wd","cast iron","aluminium","R15",205,60
+"Renault","Scenic Dyn","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,4.9,130,"1460",15.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Scenic","1.4L Tce 130 hp","H4JT","131/5500","190/2250",1397,7.1,168,"1395",9.1,"MT 6","2wd","aluminium","aluminium","R16",205,60
+"Renault","Scenic","2.0L 140 hp hpT","F4R","140/6000","195/3750",1997,7.7,183,"1503",10.2,"hpT","2wd","aluminium","aluminium","R16",205,60
+"Renault","Scenic","1.9L dCi 130 hp","F9Q","131/3750","300/1750",1870,5.5,145,"1505",16.6,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Scenic","2.0L dCi 160 hp","M9RB","160/3750","380/2000",1995,6.6,173,"1595",15.5,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Renault","Scenic","2.0L dCi 150 hp AT","M9RB","150/3750","360/2000",1995,7.0,184,"1615",15.5,"AT 6","2wd","cast iron","aluminium","R17",225,50
+"Renault","Grand Scénic 5 pl.","1.6L 110 hp","K4M","110/6000","151/4250",1598,7.5,177,"1482",9.7,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic 7 pl.","1.6L 110 hp","K4M","110/6000","151/4250",1598,7.5,177,"1519",9.7,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic 5 pl.","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,5.1,134,"1526",15.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic 7 pl.","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000",1461,5.1,135,"1563",15.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic 7 pl. Dyn","1.4L TCe 130 hp","H4JT","131/5500","190/2250",1397,7.2,170,"1532",9.1,"MT 6","2wd","aluminium","aluminium","R16",205,60
+"Renault","Grand Scénic 5 pl. Dyn","1.9L dCi 130 hp","F9Q","131/3750","300/1750",1870,5.5,145,"1568",16.6,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic 7 pl. Dyn","1.9L dCi 130 hp","F9Q","131/3750","300/1750",1870,5.6,149,"1605",16.6,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic 7 pl.","2.0L 140 hp hpT","F4R","140/6000","195/3750",1997,7.7,183,"1580",10.2,"hpT","2wd","aluminium","aluminium","R16",205,60
+"Renault","Grand Scénic 7 pl.","2.0L dCi 160 hp","M9RB","160/3750","380/2000",1995,6.6,173,"1703",15.5,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Renault","Grand Scénic 7 pl.","2.0L dCi 150 hp AT","M9RB","150/3750","360/2000",1995,7.0,184,"1722",15.5,"AT 6","2wd","cast iron","aluminium","R17",225,50
+"Renault","Scénic (2006) 5 pl.","1.4L 100 hp","K7J","98/5700","127/3750",1390,7.2,173,"1390",10.0,"MT","2wd","cast iron","aluminium","R",195,65
+"Renault","Scénic (2006) 5 pl.","1.6L 110 hp","K4M","112/6000","152/4200",1598,7.6,182,"1395",10.0,"MT","2wd","cast iron","aluminium","R",195,65
+"Renault","Scénic (2006) 5 pl. Dyn","1.6L 110 hp","K4M","112/6000","152/4200",1598,7.6,182,"1395",10.0,"MT","2wd","cast iron","aluminium","R",205,55
+"Renault","Scénic (2006) 5 pl.","1.6L 110 hp AT","K4M","112/6000","152/4200",1598,8.0,191,"1445",10.0,"AT 4","2wd","cast iron","aluminium","R",205,55
+"Renault","Scénic (2006) 5 pl.","2.0L 135 hp","F4R","134/5500","191/3750",1998,8.0,192,"1475",9.8,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Scénic (2006) 5 pl.","2.0L T 165 hp","F4RT","163/5000","270/3250",1998,8.1,194,"1500",9.5,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Scénic (2006) 5 pl.","1.5L dCi 85 hp","K9KHP","86/4000","185/2000",1461,5.1,137,"1415",17.9,"MT","2wd","cast iron","aluminium","R15",195,65
+"Renault","Scénic (2006) 5 pl.","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000-2500",1461,5.2,138,"1440",15.6,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Renault","Scénic (2006) 5 pl. Dyn","1.5L dCi 85 hp","K9KHP","86/4000","185/2000",1461,5.1,137,"1415",17.9,"MT","2wd","cast iron","aluminium","R16",205,55
+"Renault","Scénic (2006) 5 pl. Dyn","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000-2500",1461,5.2,138,"1440",15.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Renault","Scénic (2006) 5 pl.","1.9L dCi 130 hp","F9Q","131/4000","300/2000",1870,6.0,159,"1505",18.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Scénic (2006) 5 pl. Dyn","1.9L dCi 130 hp AT","F9Q","131/4000","300/2000",1870,7.1,188,"1505",18.3,"AT 4","2wd","cast iron","aluminium","R16",205,60
+"Renault","Scénic (2006) 5 pl. Dyn","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,5.8,154,"1540",15.7,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Scénic (2006) 5 pl. Dyn","2.0L dCi 150 hp AT","M9RA","150/4000","340/2000",1995,7.0,186,"1580",15.7,"AT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","1.6L 110 hp","K4M","112/6000","152/4200",1598,7.8,185,"1490",10.0,"MT","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","2.0L 135 hp","F4R","134/5500","191/3750",1998,8.2,193,"1555",9.8,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","2.0L T 165 hp","F4RT","163/5000","270/3250",1998,8.1,194,"1580",9.5,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","2.0L 135 hp AT","F4R","134/5500","191/3750",1998,8.6,205,"1575",9.8,"AT 4","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000-2500",1461,5.4,144,"1535",15.6,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","1.9L dCi 130 hp","F9Q","131/4000","300/2000",1870,6.0,159,"1575",18.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","1.9L dCi 130 hp AT","F9Q","131/4000","300/2000",1870,7.1,188,"1585",18.3,"AT 4","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,5.8,154,"1605",15.7,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 5 pl.","2.0L dCi 150 hp AT","M9RA","150/4000","340/2000",1995,7.2,190,"1645",15.7,"AT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","1.6L 110 hp","K4M","112/6000","152/4200",1598,7.9,189,"1520",10.0,"MT","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","2.0L 135 hp","F4R","134/5500","191/3750",1998,8.2,193,"1585",9.8,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","2.0L T 165 hp","F4RT","163/5000","270/3250",1998,8.1,194,"1610",9.5,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","2.0L 135 hp AT","F4R","134/5500","191/3750",1998,8.6,205,"1605",9.8,"AT 4","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","1.5L dCi 105 hp","K9KTHP","106/4000","240/2000-2500",1461,5.4,144,"1565",15.6,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","1.9L dCi 130 hp","F9Q","131/4000","300/2000",1870,6.0,159,"1605",18.3,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","1.9L dCi 130 hp AT","F9Q","131/4000","300/2000",1870,7.1,188,"1615",18.3,"AT 4","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,5.8,154,"1635",15.7,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Grand Scénic (2006) 7 pl.","2.0L dCi 150 hp AT","M9RA","150/4000","340/2000",1995,7.2,190,"1705",15.7,"AT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Koleos","2.5L 170 hp 4x2",,"171/6000","226/4400",2488,9.6,227,"1639",9.6,"MT 6","2wd","aluminium","aluminium","R17",225,60
+"Renault","Koleos","2.0L dCi 150 hp 4x2","M9RA","150/4000","320/2000",1995,6.8,179,"1724",15.7,"MT 6","2wd","cast iron","aluminium","R17",225,60
+"Renault","Koleos","2.5L 170 hp 4x4",,"171/6000","226/4400",2488,9.6,227,"1697",9.6,"MT 6","4wd","aluminium","aluminium","R17",225,60
+"Renault","Koleos","2.0L dCi 150 hp 4x4","M9RA","150/4000","320/2000",1995,7.3,191,"1730",15.7,"MT 6","4wd","cast iron","aluminium","R17",225,60
+"Renault","Koleos","2.0L dCi 175 hp 4x4","M9RB","173/3750","360/2000",1995,7.5,197,"1730",15.7,"MT 6","4wd","cast iron","aluminium","R17",225,60
+"Renault","Koleos","2.0L dCi 150 hp 4x4 AT","M9RA","150/4000","320/2000",1995,7.9,209,"1784",15.7,"AT 6","4wd","cast iron","aluminium","R17",225,60
+"Renault","Vel Satis","2.0L T 170 hp","F4RT","170/5000","270/3250",1998,9.4,225,"1640",9.5,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Vel Satis","2.0L T 170 hp AT","F4RT","170/5000","270/3250",1998,9.9,237,"1660",9.5,"AT 5","2wd","cast iron","aluminium","R17",255,55
+"Renault","Vel Satis","3.5L V6 240 hp AT","V4Y","241/6000","330/3600",3498,11.5,275,"1720",10.3,"AT 5","2wd","aluminium","aluminium","R18",245,45
+"Renault","Vel Satis","2.2L dCi 150 hp AT","G9T","150/4000","320/1750",2188,8.4,,"1690",18.0,"AT 5","2wd","cast iron","aluminium","R17",225,55
+"Renault","Vel Satis","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,7.3,194,"1665",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Vel Satis","2.0L dCi 175 hp","M9RB","173/3750","360/1750",1995,7.3,194,"1665",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Vel Satis","3.0L dCi V6 180 hp AT","P9X","181/4000","400/1800",2959,8.7,232,"1735",18.5,"AT 6","2wd","aluminium","aluminium","R17",225,55
+"Renault","Espace","2.0L 136 hp","F4R","136/5500","191/3750",1998,9.4,223,"1740",9.8,"MT 6","2wd","cast iron","aluminium","R16",225,60
+"Renault","Espace","2.0L T 170 hp","F4RT","170/5000","270/3250",1998,9.6,227,"1760",9.8,"MT 6","2wd","cast iron","aluminium","R16",225,60
+"Renault","Espace Imp.","2.0L T 170 hp","F4RT","170/5000","270/3250",1998,9.6,227,"1760",9.8,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Espace","2.0L T 170 hp AT","F4RT","170/5000","270/3250",1998,10.3,243,"1780",9.8,"AT 5","2wd","cast iron","aluminium","R17",225,55
+"Renault","Espace","3.5L V6 240 hp AT","V4Y","241/6000","330/3600",3498,12.0,284,"1845",10.3,"AT 5","2wd","aluminium","aluminium","R17",225,55
+"Renault","Espace","2.0L dCi 130 hp","M9RA","131/4000","320/2000",1995,6.8,187,"1832",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Espace","2.2L dCi 140 hp AT","G9T","139/4000","320/1750",2188,9.2,244,"1885",18.0,"AT 5","2wd","cast iron","aluminium","R17",225,55
+"Renault","Espace","2.0L dCi 150 hp","M9RB","150/4000","340/2000",1995,7.4,191,"1855",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Espace","2.2L dCi 150 hp","G9T","150/4000","320/1750",2188,7.6,200,"1850",18.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Espace","2.0L dCi 175 hp","M9RB","173/3750","360/1750",1995,7.4,197,"1855",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Espace Pri.","2.0L dCi 175 hp","M9RB","173/3750","360/1750",1995,7.4,197,"1855",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Grand Espace","2.0L T 170 hp","F4RT","170/5000","270/3250",1998,9.6,227,"1815",9.8,"MT 6","2wd","cast iron","aluminium","R16",225,60
+"Renault","Grand Espace","2.0L T 170 hp","F4RT","170/5000","270/3250",1998,9.6,227,"1815",9.8,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Grand Espace","2.0L T 170 hp AT","F4RT","170/5000","270/3250",1998,10.3,243,"1840",9.8,"AT 5","2wd","cast iron","aluminium","R16",225,60
+"Renault","Grand Espace","3.5L V6 240 hp AT","V4Y","241/6000","330/3600",3498,12.2,289,"1890",10.3,"AT 5","2wd","aluminium","aluminium","R17",225,55
+"Renault","Grand Espace","2.2L dCi 140 hp AT","G9T","139/4000","320/1750",2188,9.2,244,"1935",18.0,"AT 5","2wd","cast iron","aluminium","R17",225,55
+"Renault","Grand Espace","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,7.4,191,"1905",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Grand Espace","2.0L dCi 175 hp","M9RB","173/3750","360/1750",1995,7.6,200,"1905",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Grand Espace Pri.","2.0L dCi 175 hp","M9RB","173/3750","360/1750",1995,7.6,200,"1905",16.0,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Renault","Laguna","1.6L 110 hp","K4M","112/6000","151/4250",1598,7.6,180,"1430",9.8,"MT 6","2wd","cast iron","aluminium","R16",195,60
+"Renault","Laguna","1.5L dCi 110 hp","K9KTHP","110/4000","240/2000",1461,4.9,130,"1461",15.6,"MT 6","2wd","cast iron","aluminium","R16",195,60
+"Renault","Laguna","2.0L dCi 130 hp","M9RA","131/4000","320/2000",1995,6.0,157,"1537",16.0,"MT 6","2wd","cast iron","aluminium","R16",195,60
+"Renault","Laguna","2.0L 140 hp","F4R","140/6000","195/3750",1997,7.6,180,"1444",10.2,"MT 6","2wd","aluminium","aluminium","R16",205,60
+"Renault","Laguna Exp. Techno","1.5L dCi 110 hp","K9KTHP","110/4000","240/2000",1461,4.9,130,"1461",15.6,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Laguna Dyn.","2.0L 140 hp","F4R","140/6000","195/3750",1997,7.9,185,"1444",10.2,"MT 6","2wd","aluminium","aluminium","R17",215,50
+"Renault","Laguna Exp. Techno","2.0L dCi 130 hp","M9RA","131/4000","320/2000",1995,6.0,157,"1537",16.0,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Laguna Dyn.","2.0L dCi 130 hp","M9RA","131/4000","320/2000",1995,6.0,157,"1537",16.0,"MT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,6.0,157,"1537",16.0,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Renault","Laguna Dyn.","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,6.0,157,"1537",16.0,"MT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna Dyn.","2.0L dCi 150 hp AT","M9RA","150/4000","340/2000",1995,7.0,185,"1611",16.0,"AT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna","2.0L dCi 175 hp","M9RB","173/3750","380/2000",1995,6.5,150,"1567",16.0,"MT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna Pri.","2.0L dCi 150 hp AT","M9RA","150/4000","340/2000",1995,7.0,185,"1611",16.0,"AT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna","2.0L T 170 hp AT","F4RT","170/5000","270/3250",1998,8.8,207,"1542",9.5,"AT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna GT","2.0L dCi 180 hp","M9RB","178/3750","380/2000",1995,6.5,172,"1567",16.0,"MT 6","4wdir","cast iron","aluminium","R18",225,45
+"Renault","Laguna GT","2.0L T 205 hp","F4RT","204/5000","300/3000",1998,8.2,194,"1542",9.0,"MT 6","4wdir","cast iron","aluminium","R18",225,45
+"Renault","Laguna Coupé","2.0L dCi 150 hp","M9RA","150/4000","340/2000",1995,6.0,157,"1561",15.7,"MT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna Coupé","2.0L dCi 175 hp","M9RB","173/3750","380/2000",1995,5.7,150,"1561",16.0,"MT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna Coupé","2.0L dCi 150 hp AT","M9RA","150/4000","340/2000",1995,7.0,185,"1614",15.7,"AT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna Coupé GT","2.0L dCi 180 hp","M9RB","178/3750","400/2000",1995,6.5,172,"1614",16.0,"MT 6","4wdir","cast iron","aluminium","R18",225,45
+"Renault","Laguna Coupé","2.0L T 205 hp","F4RT","204/5000","300/3000",1998,8.2,194,"1503",9.0,"MT 6","2wd","cast iron","aluminium","R17",215,50
+"Renault","Laguna Coupé GT","2.0L T 205 hp","F4RT","204/5000","300/3000",1998,8.2,194,"1503",9.0,"MT 6","4wdir","cast iron","aluminium","R18",225,45
+"Renault","Laguna Coupé","3.5L V6 240 hp AT","V4Y","238/6000","330/4400",3498,10.0,238,"1597",10.3,"AT 6","2wd","aluminium","aluminium","R17",215,50
+"Renault","Laguna Coupé","3.0L V6 dCi 235 hp AT","V9X","235/3750","450/1500",2993,7.2,192,"1705",16.0,"AT 6","2wd","cast iron","aluminium","R17",215,50
+"Peugeot","107 2-Tronic","1.0L 68 hp 3 Cyl.","1KR-FE","68/6000","93/3600",998,4.6,107,"900/915",10.5,"AT 5","2wd","aluminium","aluminium","R14",155,65
+"Peugeot","107","1.4L HDi 54 hp","DV4 TD","54/4000","130/1750",1399,4.1,109,"965/965",17.9,"MT","2wd","aluminium","aluminium","R14",155,65
+"Peugeot","107 Urb.","1.0L 68 hp 3 Cyl.","1KR-FE","68/6000","93/3600",998,4.5,106,"865/880",10.5,"MT","2wd","aluminium","aluminium","R14",155,65
+"Peugeot","206+","1.1L 60 hp","TU1","60/5500","94/3300",1124,5.7,135,"1013/1020",,"MT","2wd","aluminium","aluminium","R14",175,65
+"Peugeot","206+","1.4L 75 hp","TU3","75/5500","120/3400",1361,6.3,150,"1016/1027",10.2,"MT","2wd","aluminium","aluminium","R14",175,65
+"Peugeot","206+","1.4L HDi 70 hp","DV4 TD","68/4000","160/2000",1399,4.2,110,"1042/1055",17.9,"MT","2wd","aluminium","aluminium","R14",175,65
+"Peugeot","3008","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,7.1,165,"1474",11.0,"MT","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","3008","1.6L THP 150 hp","EP6 DT","150/5800","240/1400",1598,7.4,176,"1534",10.5,"MT 6","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","3008","1.6L HDi FAP 110 hp","DV6 TED4","109/4000","240/1750",1560,5.1,137,"1500",18.0,"MT 6","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","3008","1.6L HDi FAP 110 hp AMT","DV6 TED4","109/4000","240/1750",1560,4.9,130,"1500",18.0,"AMT 6","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","3008","2.0L HDi FAP 150 hp","DW10","150/3750","340/2000",1997,5.6,146,"1604",,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Peugeot","3008","2.0L HDi FAP 163 hp AT","DW10","163/3750","340/2000",1997,6.7,176,"1614",,"AT 6","2wd","cast iron","aluminium","R16",215,60
+"Peugeot","1007","1.4L HDi 70 hp","DV4 TD","68/4000","160/2000",1399,4.5,120,"1243",17.9,"MT","2wd","aluminium","aluminium","R16",195,50
+"Peugeot","1007 2-Tronic","1.6L 110 hp","TU5","109/5750","147/4000",1587,6.6,156,"1216",11.0,"AMT 5","2wd","cast iron","aluminium","R16",195,50
+"Peugeot","1007","1.6L HDi FAP 110 hp","DV6 TED4","109/4000","240/1750",1560,4.8,125,"1348",18.0,"MT","2wd","aluminium","aluminium","R16",195,50
+"Peugeot","807 (2002) SR","2.0L 136 hp","EW10 J4","136/6000","190/4100",1997,9.1,,"1570",10.8,"MT","2wd","aluminium","aluminium","R15",205,65
+"Peugeot","807 (2002) ST","2.0L 136 hp","EW10 J4","136/6000","190/4100",1997,9.0,,"1570",10.8,"MT","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","807 (2002) ST","2.2L 158 hp","EW12 J4","158/5650","217/3900",2231,9.7,,"1606",10.8,"MT","2wd","aluminium","aluminium","R15",215,65
+"Peugeot","807 (2002) SV","3.0L V6 204 hp AT","ES9","204/6000","285/3750",2946,11.5,,"1762",10.9,"AT 4","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","807 (2002) Pullman","3.0L V6 204 hp AT","ES9","204/6000","285/3750",2946,11.5,,"1784",10.9,"AT 4","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","807 (2002) SR","2.0L HDi 110 hp","DW10 ATED","107/4000","270/1750",1997,7.2,,"1668",17.0,"MT","2wd","cast iron","aluminium","R15",215,65
+"Peugeot","807 (2002) ST","2.0L HDi 110 hp","DW10 ATED","107/4000","270/1750",1997,7.0,186,"1743",17.0,"MT","2wd","cast iron","aluminium","R16",215,60
+"Peugeot","807 (2002) SV","2.2L HDi 130 hp","DW12A","128/4000","314/2000",2179,7.3,195,"1783",18.0,"MT 6","2wd","cast iron","aluminium","R15",215,65
+"Peugeot","807","2.0L 140 hp","EW10 J4","140/6000","195/4000",1997,9.0,213,"1709",,"MT","2wd","aluminium","aluminium","R16",215,60
+"Peugeot","807","2.0L HDi 120 hp","DW10","120/4000","300/2000",1997,6.9,182,"1811",17.3,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Peugeot","807","2.0L HDi 136 hp FAP","DW10 TED4","136/4000","320/2000",1997,7.1,188,"1818",17.6,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Peugeot","807","2.2L HDi 170 hp FAP","DW12B","170/4000","370/1500",2179,7.2,191,"1865",16.6,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Peugeot","807","2.2L HDi 170 hp FAP AT","DW12B","170/4000","370/1500",2179,8.2,218,"1893",16.6,"AT 6","2wd","cast iron","aluminium","R16",215,60
+"Peugeot","607 (2002)","2.2L HDi 130 hp","DW12A","133/4000","314/2000",2179,6.7,,"1535",18.0,"MT","2wd","cast iron","aluminium","R16",225,55
+"Peugeot","607","2.2L 160 hp","EW12 J4","158/5650","217/3900",2231,9.2,,"1496",10.8,"MT","2wd","aluminium","aluminium","R17",225,50
+"Peugeot","607","3.0L V6 210 hp AT","ES9","211/6000","290/3750",2946,10.2,242,"1719",10.9,"AT 6","2wd","aluminium","aluminium","R17",225,50
+"Peugeot","607","2.0L HDi FAP 110 hp","DW10 ATED","107/4000","250/1750",1997,,,,17.6,"MT","2wd","cast iron","aluminium","R17",225,50
+"Peugeot","607","2.2L HDi FAP 130 hp","DW12A","133/4000","314/2000",2179,6.6,,,18.0,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Peugeot","607","2.7L V6 HDi 200 hp FAP AT","DT17TED4 (LionV6)","204/4000","440/1900",2721,8.4,223,"1798",17.3,"AT 6","2wd","cast iron","aluminium","R17",225,50
+"Peugeot","4007","2.2L HDi 156 hp FAP","DW12B","156/4000","380/2000",2179,7.2,191,"1822",16.6,"MT 6","4wd","cast iron","aluminium","R16",215,70
+"Peugeot","4007 Sport Pack.","2.2L HDi 156 hp FAP","DW12B","156/4000","380/2000",2179,7.3,194,"1822",16.6,"MT 6","4wd","cast iron","aluminium","R18",225,55
+"Peugeot","4007","2.4L 170 hp hpT","4B12","170/6000","232/4100",2360,9.3,222,"1715",10.5,"hpT","4wd","aluminium","aluminium","R18",225,55
+"Peugeot","407","1.8L 125 hp","EW7 J4","125/6000","170/3750",1749,7.7,181,"1475",10.8,"MT","2wd","aluminium","aluminium","R16",205,60
+"Peugeot","407","1.6L Hdi FAP 110 hp","DV6 TED4","109/4000","240/1750",1560,4.9,129,"1505",18.0,"MT","2wd","aluminium","aluminium","R16",205,60
+"Peugeot","407","2.0L 140 hp","EW10","140/6000","200/4000",1997,8.1,192,"1490",10.8,"MT","2wd","aluminium","aluminium","R17",215,55
+"Peugeot","407","2.0L HDi FAP 140 hp","DW10","140/4000","320/2000",1997,5.7,150,"1580",17.6,"MT 6","2wd","cast iron","aluminium","R17",215,55
+"Peugeot","407","2.2L HDi FAP 170 hp","DW12B","170/4000","370/1500",2179,6.1,159,"1699",16.6,"MT 6","2wd","cast iron","aluminium","R17",215,55
+"Peugeot","407","2.0L HDi FAP 136 hp AT","DW10 TED4","136/4000","320/2000",1997,7.1,186,"1636",17.6,"AT 6","2wd","cast iron","aluminium","R17",215,55
+"Peugeot","407","2.2L 163 hp","EW12 J4","163/5875","220/4150",2231,9.0,214,"1555",10.8,"MT 6","2wd","aluminium","aluminium","R17",215,55
+"Peugeot","407","3.0L V6 211 hp AT","ES9 /A","211/6000","290/3750",2946,9.8,233,"1660",10.9,"AT 6","2wd","aluminium","aluminium","R18",235,45
+"Peugeot","407","2.7L V6 HDi FAP 204 hp AT","DT17TED4 (LionV6)","204/4000","440/1900",2721,8.4,223,"1802",17.3,"AT 6","2wd","cast iron","aluminium","R18",235,45
+"Peugeot","407 SW","2.0L 140 hp","EW10","140/6000","200/4000",1997,8.3,196,"1533",10.8,"MT","2wd","aluminium","aluminium","R17",215,55
+"Peugeot","407 SW","1.6L HDi FAP 110 hp","DV6 TED4","109/4000","240/1750",1560,4.9,129,"1545",18.0,"MT","2wd","aluminium","aluminium","R16",205,60
+"Peugeot","407 SW","2.0L HDi FAP 140 hp","DW10","140/4000","320/2000",1997,5.7,150,"1620",17.6,"MT 6","2wd","cast iron","aluminium","R17",215,55
+"Peugeot","407 SW","2.2L 163 hp","EW12 J4","163/5875","220/4150",2231,9.2,219,"1610",10.8,"MT 6","2wd","aluminium","aluminium","R17",215,55
+"Peugeot","407 SW","2.0L HDi FAP 136 hp AT","DW10 TED4","136/4000","320/2000",1997,7.2,192,"1676",17.6,"AT 6","2wd","cast iron","aluminium","R17",215,55
+"Peugeot","407 SW","2.2L HDi FAP 170 hp","DW12B","170/4000","370/1500",2179,6.2,165,"1750",16.6,"MT 6","2wd","cast iron","aluminium","R17",215,55
+"Peugeot","407 SW","3.0L V6 211 hp AT","ES9 /A","211/6000","290/3750",2946,9.9,236,"1715",10.9,"AT 6","2wd","aluminium","aluminium","R18",235,45
+"Peugeot","407 SW","2.7L V6 HDi FAP 204 hp AT","DT17TED4 (LionV6)","204/4000","440/1900",2721,8.5,225,"1852",17.3,"AT 6","2wd","cast iron","aluminium","R18",235,45
+"Peugeot","407 coupé","2.2L 163 hp","EW12 J4","163/5875","220/4150",2231,9.2,219,"1600",10.8,"MT 6","2wd","aluminium","aluminium","R17",215,55
+"Peugeot","407 coupé Pack.","2.2L 163 hp","EW12 J4","163/5875","220/4150",2231,9.2,219,"1600",10.8,"MT 6","2wd","aluminium","aluminium","R18",235,45
+"Peugeot","407 coupé","3.0L V6 210 hp","ES9","211/6000","290/3750",2946,10.2,242,"1687",10.9,"MT 6","2wd","aluminium","aluminium","R18",235,45
+"Peugeot","407 coupé","3.0L V6 210 hp AT","ES9","211/6000","290/3750",2946,10.2,242,"1712",10.9,"AT 6","2wd","aluminium","aluminium","R18",235,45
+"Peugeot","407 coupé","2.7L HDi V6 204 hp FAP AT","DT17TED4 (LionV6)","204/4000","440/1900",2721,8.5,226,"1799",17.3,"AT 6","2wd","cast iron","aluminium","R18",235,45
+"Peugeot","308","1.4L VTi 95 hp","EP3","95/6000","136/4000",1397,6.5,155,"1337/1346",11.0,"MT","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.5,120,"1368/1378",18.0,"MT","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308 Sport","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.5,120,"1368/1378",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.7,159,"1352/1362",11.0,"MT","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308 Sport","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.7,159,"1352/1362",11.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308 Prem. 5p","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.7,159,"1362",11.0,"MT","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308 Sport 5p","1.6L VTi 120 hp AT","EP6","120/6000","160/4250",1598,7.0,165,"1387",11.0,"AT 4","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.5,120,"?/?",18.0,"MT","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308 Sport","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.5,120,"?/?",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308 Prem. 5p","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.9,130,"1397",18.0,"MT 6","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.0,165,"?/?",10.5,"MT 6","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308 Sport","1.6L HDi FAP 110 hp CMP","DV6","109/4000","240/1750",1560,4.5,120,"1399/1409",18.0,"AT 6","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308","2.0L HDi FAP 136 hp","DW10","136/4000","320/2000",1997,5.3,140,"1483/1496",17.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Peugeot","308 Prem. 5p","2.0L HDi FAP 136 hp","DW10","136/4000","320/2000",1997,5.5,146,"1496",17.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Peugeot","308 GT","2.0L HDi FAP 136 hp","DW10","136/4000","320/2000",1997,5.5,146,"1483",17.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Peugeot","308 Prem. 5p","2.0L HDi FAP 136 hp AT","DW10","136/4000","320/2000",1997,6.8,180,"1522",17.6,"AT 6","2wd","cast iron","aluminium","R17",225,45
+"Peugeot","308 Prem. 5p","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.2,171,,10.5,"MT 6","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308 GT","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.2,171,,10.5,"MT 6","2wd","aluminium","aluminium","R18",225,40
+"Peugeot","308 GT","1.6L THP 175 hp","EP6T","174/6000","240/1600-4500",1598,7.6,180,"1446",10.5,"MT 6","2wd","aluminium","aluminium","R18",225,40
+"Peugeot","308 SW","1.4L VTi 95 hp","EP3","95/6000","136/4000",1397,6.7,159,"1426",11.0,"MT","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308 SW","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.7,125,"1453",18.0,"MT","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308 SW","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.9,164,"1515",11.0,"MT","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308 SW Sport","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.9,164,"1515",11.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308 SW","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.9,129,"1482 or 1570",18.0,"MT 6","2wd","aluminium","aluminium","R15",195,65
+"Peugeot","308 SW Sport","1.6L VTi 120 hp AT","DV6","120/6000","160/4250",1598,7.7,182,"1541",11.0,"AT 4","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308 SW Prem.","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.9,164,"1515",11.0,"MT","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308 SW","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.5,177,"1561",10.5,"MT 6","2wd","aluminium","aluminium","R16",215,55
+"Peugeot","308 SW Sport","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.9,130,"1570",18.0,"MT 6","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","308 SW Prem.","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.5,177,"1561",10.5,"MT 6","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308 SW","2.0L HDi FAP 136 hp","DW10","136/4000","320/2000",1997,5.9,155,"1650",17.6,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Peugeot","308 SW Prem.","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.9,130,"1570",18.0,"MT 6","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308 SW Prem.","1.6L THP 140 hp AT","EP6T","140/6000","240/1400-3500",1598,8.2,194,"1577",10.5,"AT 4","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308 SW Prem.","2.0L HDi FAP 136 hp","DW10","136/4000","320/2000",1997,5.9,155,"1650",17.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Peugeot","308 SW Sport","2.0L HDi FAP 136 hp AT","DW10","136/4000","320/2000",1997,7.1,187,"1675",17.6,"AT 6","2wd","cast iron","aluminium","R16",215,55
+"Peugeot","308 SW Prem.","2.0L HDi FAP 136 hp AT","DW10","136/4000","320/2000",1997,7.1,187,"1675",17.6,"AT 6","2wd","cast iron","aluminium","R17",225,45
+"Peugeot","308 CC","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.5,177,"1587",10.5,"MT 6","2wd","aluminium","aluminium","R17",225,45
+"Peugeot","308 CC","2.0L HDi FAP 140 hp","DW10","140/4000","320/2000",1997,5.9,155,"1674",17.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Peugeot","308 CC Sport","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.5,177,"1587",10.5,"MT 6","2wd","aluminium","aluminium","R18",225,40
+"Peugeot","308 CC Sport","1.6L THP 140 hp AT","EP6T","140/6000","240/1400-3500",1598,8.1,192,"1598",10.5,"AT 4","2wd","aluminium","aluminium","R18",225,40
+"Peugeot","308 CC","2.0L HDi FAP 140 hp","DW10","140/4000","320/2000",1997,5.9,155,"1674",17.6,"MT 6","2wd","cast iron","aluminium","R18",225,40
+"Peugeot","308 CC Sport","2.0L HDi FAP 136 hp AT","DW10","136/4000","320/2000",1997,7.0,185,"1695",17.6,"AT 6","2wd","cast iron","aluminium","R18",225,40
+"Peugeot","207","1.4L 75 hp","TU3","73/5400","118/3300",1361,6.3,150,"1213/1223",10.5,"MT","2wd","aluminium","aluminium","R15",185,65
+"Peugeot","207","1.4L HDi 70 hp","DV4 TD","68/4000","160/2000",1399,4.4,115,"1251/1261",17.9,"MT","2wd","aluminium","aluminium","R15",185,65
+"Peugeot","207","1.4L VTi 95 hp","EP3","95/6000","136/4000",1397,5.9,140,"1240/1253",11.0,"MT","2wd","aluminium","aluminium","R15",185,65
+"Peugeot","207","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.4,117,"1272/1280",18.0,"MT","2wd","aluminium","aluminium","R15",185,65
+"Peugeot","207 Sport","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.1,145,"1275/1275",11.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 Sport","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.3,115,"1272/1280",18.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.5,120,"1319/1328",18.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 Sport","1.6L VTi 120 hp AT","EP6","120/6000","160/4250",1598,7.0,167,"1321",11.0,"AT 4","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 GT","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.5,120,"1319/1328",18.0,"MT","2wd","aluminium","aluminium","R17",205,45
+"Peugeot","207 GT","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.0,164,"1356",10.5,"MT","2wd","aluminium","aluminium","R17",205,45
+"Peugeot","207 RC","1.6L THP 175 hp","EP6T","174/6000","240/1600-4500",1598,7.2,171,"1325",10.5,"MT","2wd","aluminium","aluminium","R17",205,45
+"Peugeot","207 CC","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.5,155,"1427",11.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 CC","1.6L VTi 120 hp AT","EP6","120/6000","160/4250",1598,7.2,173,"1466",11.0,"AT 4","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 CC","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,5.2,130,"1488",18.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 CC","1.6L THP 150 hp","EP6T","150/5800","240/1400-3500",1598,7.2,171,"1493",10.5,"MT","2wd","aluminium","aluminium","R17",205,45
+"Peugeot","207 CC Sport","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,5.2,130,"1488",18.0,"MT","2wd","aluminium","aluminium","R17",205,45
+"Peugeot","207 SW","1.4L 75 hp","TU3","73/5400","118/3300",1361,6.5,155,"1271",10.5,"MT","2wd","aluminium","aluminium","R15",185,65
+"Peugeot","207 SW","1.4L VTi 95 hp","EP3","95/6000","136/4000",1397,6.3,150,"1290",11.0,"MT","2wd","aluminium","aluminium","R15",185,65
+"Peugeot","207 SW","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.5,119,"1339",18.0,"MT","2wd","aluminium","aluminium","R15",185,65
+"Peugeot","207 SW","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.3,150,"1302",11.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 SW Sport","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.5,117,"1339",18.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 SW Outdoor","1.6L VTi 120 hp","EP6","120/6000","160/4250",1598,6.4,152,"1329",11.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","207 SW","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,4.5,120,"1350",18.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 SW Outdoor","1.6L HDi 90 hp","DV6","90/4000","215/1750",1560,4.7,125,"1373",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Peugeot","207 SW","1.6L VTi 120 hp AT","EP6","120/6000","160/4250",1598,7.0,165,"1335",11.0,"AT 4","2wd","aluminium","aluminium","R16",195,55
+"Peugeot","207 SW Outdoor","1.6L HDi FAP 110 hp","DV6","109/4000","240/1750",1560,5.0,130,"1387",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Nissan","Pixo","1.0L 70 hp",,"68/6000","90/3400",997,4.4,103,"925",11.0,"MT","2wd","aluminium","aluminium","R14",155,65
+"Nissan","Pixo","1.0L 70 hp AT",,"68/6000","90/3400",997,5.0,128,,11.0,"AT 4","2wd","aluminium","aluminium","R14",155,65
+"Nissan","Micra","1.2L 80 hp",,"80/5200","110/3600",1240,5.9,139,"1021/1021",9.9,"MT","2wd","aluminium","aluminium","R14",165,70
+"Nissan","Micra","1.4L 88 hp",,"88/5200","128/3200",1386,6.3,150,"1032/1032",9.9,"MT","2wd","aluminium","aluminium","R15",175,60
+"Nissan","Micra","1.5L dCi 86 hp",,"86/3750","200/1900",1461,4.6,120,"1136",18.8,"MT","2wd","cast iron","aluminium","R14",165,70
+"Nissan","Micra","1.2L 80 hp AT",,"80/5200","110/3600",1240,6.6,159,"1032",9.9,"AT 4","2wd","aluminium","aluminium","R15",175,60
+"Nissan","Micra 25 An.","1.5L dCi 86 hp",,"86/3750","200/1900",1461,4.6,120,"1136",18.8,"MT","2wd","cast iron","aluminium","R15",175,60
+"Nissan","Micra Tekna","1.4L 88 hp",,"88/5200","128/3200",1386,6.3,150,"1032",9.9,"MT","2wd","aluminium","aluminium","R16",185,50
+"Nissan","Micra Tekna","1.4L 88 hp AT",,"88/5200","128/3200",1386,6.8,163,"1032",9.9,"AT 4","2wd","aluminium","aluminium","R16",185,50
+"Nissan","Micra Tekna","1.5L dCi 86 hp",,"86/3750","200/1900",1461,4.6,120,"1136",18.8,"MT","2wd","cast iron","aluminium","R16",185,50
+"Nissan","Micra C+C","1.4L 88 hp",,"88/5200","128/3200",1386,6.6,158,"1210",9.9,"MT","2wd","aluminium","aluminium","R15",175,60
+"Nissan","Micra C+C","1.6L 110 hp",,"110/6000","153/4400",1598,6.7,160,"1225",10.7,"MT","2wd","aluminium","aluminium","R16",185,50
+"Nissan","Note","1.4L 88 hp",,"88/5200","128/3200",1386,6.3,150,"1167",9.9,"MT","2wd","aluminium","aluminium","R15",185,65
+"Nissan","Note","1.5L dCi 86 hp",,"86/3750","200/1900",1461,4.9,129,"1240",18.8,"MT","2wd","cast iron","aluminium","R15",185,65
+"Nissan","Note","1.6L 110 hp",,"110/6000","153/4400",1598,6.6,155,"1182",10.7,"MT","2wd","aluminium","aluminium","R15",185,65
+"Nissan","Note Tekna","1.6L 110 hp",,"110/6000","153/4400",1598,6.6,156,"1182",10.7,"MT","2wd","aluminium","aluminium","R16",185,55
+"Nissan","Note Tekna","1.6L 110 hp AT",,"110/6000","153/4400",1598,6.8,159,"1206",10.7,"AT 4","2wd","aluminium","aluminium","R16",185,55
+"Nissan","Note Tekna","1.5L dCi 86 hp",,"86/3750","200/1900",1461,4.9,129,"1240",18.8,"MT","2wd","cast iron","aluminium","R16",185,55
+"Nissan","Note","1.5L dCi 105 hp",,"103/4000","240/2000",1461,5.1,136,"1353",15.3,"MT 6","2wd","cast iron","aluminium","R15",185,65
+"Nissan","Note Tekna","1.5L dCi 105 hp",,"103/4000","240/2000",1461,5.1,136,"1353",15.3,"MT 6","2wd","cast iron","aluminium","R16",185,55
+"Nissan","Tiida","1.6L 110 hp",,"110/6000","153/4400",1598,6.9,165,"1278",10.7,"MT","2wd","aluminium","aluminium","R15",195,65
+"Nissan","Tiida","1.8L 126 hp",,"126/5200","173/4800",1798,7.8,188,"1307",9.9,"MT 6","2wd","aluminium","aluminium","R15",195,65
+"Nissan","Tiida","1.5L dCi 105 hp",,"106/4000","240/2000",1461,5.2,138,"1389",15.3,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Nissan","Tiida","1.6L 110 hp AT",,"110/6000","153/4400",1598,7.4,178,"1299",10.7,"AT 4","2wd","aluminium","aluminium","R15",195,65
+"Nissan","370Z","3.7L V6 330 hp",,"330/7000","366/5200",3696,10.5,249,"1571",11.0,"MT 6","Av/Ar","aluminium","aluminium","R18",225,50
+"Nissan","370Z","3.7L V6 330 hp AT",,"330/7000","366/5200",3696,10.4,247,"1583",11.0,"AT 7","Av/Ar","aluminium","aluminium","R18",225,50
+"Nissan","GT-R","3.8L V6 490 hp AT",,"486/6400","588/3200-5200",3799,12.2,298,"1815",9.0,"AT 6","4wd","aluminium","aluminium","R20",225,40
+"Nissan","GT-R Premium","3.8L V6 490 hp AT",,"486/6400","588/3200-5200",3799,12.2,298,"1815",9.0,"AT 6","4wd","aluminium","aluminium","R20",225,40
+"Nissan","Qashqai","1.6L 115 hp",,"114/6000","156/4400",1598,6.7,159,"1372",10.7,"MT","2wd","aluminium","aluminium","R16",215,65
+"Nissan","Qashqai Acenta","1.6L 115 hp",,"114/6000","156/4400",1598,6.7,159,"1372",10.7,"MT","2wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","1.6L 115 hp",,"114/6000","156/4400",1598,6.7,159,"1372",10.7,"MT","2wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai","2.0L 140 hp",,"141/6000","196/4800",1997,8.1,192,"1431",10.2,"MT 6","2wd","aluminium","aluminium","R16",215,65
+"Nissan","Qashqai Acenta","2.0L 140 hp",,"141/6000","196/4800",1997,8.1,192,"1431",10.2,"MT 6","2wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","2.0L 140 hp",,"141/6000","196/4800",1997,8.1,192,"1431",10.2,"MT 6","2wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai","2.0L 140 hp hpT",,"141/6000","196/4800",1997,7.9,189,"1453",10.2,"hpT","2wd","aluminium","aluminium","R16",215,65
+"Nissan","Qashqai Acenta","2.0L 140 hp hpT",,"141/6000","196/4800",1997,7.9,189,"1453",10.2,"hpT","2wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","2.0L 140 hp hpT",,"141/6000","196/4800",1997,7.9,189,"1453",10.2,"hpT","2wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai","1.5L dCi 105 hp",,"106/4000","240/2000",1461,5.2,139,"1482",15.3,"MT 6","2wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai Acenta","1.5L dCi 105 hp",,"106/4000","240/2000",1461,5.2,139,"1482",15.3,"MT 6","2wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","1.5L dCi 105 hp",,"106/4000","240/2000",1461,5.2,139,"1482",15.3,"MT 6","2wd","cast iron","aluminium","R18",215,55
+"Nissan","Qashqai","2.0L dCi 150 hp",,"150/4000","340/2000",1995,6.6,174,"1595",16.0,"MT 6","2wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai Acenta","2.0L dCi 150 hp",,"150/4000","340/2000",1995,6.6,174,"1595",16.0,"MT 6","2wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","2.0L dCi 150 hp",,"150/4000","340/2000",1995,6.6,174,"1595",16.0,"MT 6","2wd","cast iron","aluminium","R18",215,55
+"Nissan","Qashqai Acenta","2.0L 140 hp 4x4",,"141/6000","196/4800",1997,8.4,199,"1490",10.2,"MT 6","4wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","2.0L 140 hp 4x4",,"141/6000","196/4800",1997,8.4,199,"1490",10.2,"MT 6","4wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai Acenta","2.0L 140 hp hpT 4x4",,"141/6000","196/4800",1997,8.3,198,"1529",10.2,"hpT","4wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","2.0L 140 hp hpT 4x4",,"141/6000","196/4800",1997,8.3,198,"1529",10.2,"hpT","4wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai","2.0L dCi 150 hp 4x4",,"150/4000","340/2000",1995,6.9,184,"1657",16.0,"MT 6","4wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai Acenta","2.0L dCi 150 hp 4x4",,"150/4000","340/2000",1995,6.9,184,"1657",16.0,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","2.0L dCi 150 hp 4x4",,"150/4000","340/2000",1995,6.9,184,"1657",16.0,"MT 6","4wd","cast iron","aluminium","R18",215,55
+"Nissan","Qashqai","2.0L dCi 150 hp 4x4 AT",,"150/4000","340/2000",1995,7.8,208,"1689",16.0,"AT 6","4wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai Acenta","2.0L dCi 150 hp 4x4 AT",,"150/4000","340/2000",1995,7.8,208,"1689",16.0,"AT 6","4wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai Tekna Sp.","2.0L dCi 150 hp 4x4 AT",,"150/4000","340/2000",1995,7.8,208,"1689",16.0,"AT 6","4wd","cast iron","aluminium","R18",215,55
+"Nissan","Qashqai +2","1.6L 115 hp",,"114/6000","156/4400",1598,7.0,165,"1604",10.7,"MT","2wd","aluminium","aluminium","R16",215,65
+"Nissan","Qashqai +2 Acenta","1.6L 115 hp",,"114/6000","156/4400",1598,7.0,165,"1604",10.7,"MT","2wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","1.6L 115 hp",,"114/6000","156/4400",1598,7.0,165,"1604",10.7,"MT","2wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai +2","2.0L 140 hp",,"141/6000","196/4800",1997,8.4,197,"1551",10.2,"MT 6","2wd","aluminium","aluminium","R16",215,65
+"Nissan","Qashqai +2 Acenta","2.0L 140 hp",,"141/6000","196/4800",1997,8.4,197,"1551",10.2,"MT 6","2wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","2.0L 140 hp",,"141/6000","196/4800",1997,8.4,197,"1551",10.2,"MT 6","2wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai +2","1.5L dCi 105 hp",,"106/4000","240/2000",1461,5.7,149,"1586",15.3,"MT 6","2wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai +2 Acenta","1.5L dCi 105 hp",,"106/4000","240/2000",1461,5.7,149,"1586",15.3,"MT 6","2wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","1.5L dCi 105 hp",,"106/4000","240/2000",1461,5.7,149,"1586",15.3,"MT 6","2wd","cast iron","aluminium","R18",215,55
+"Nissan","Qashqai +2","2.0L dCi 150 hp",,"150/4000","340/2000",1995,6.7,177,"1706",15.6,"MT 6","2wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai +2 Acenta","2.0L dCi 150 hp",,"150/4000","340/2000",1995,6.7,177,"1706",15.6,"MT 6","2wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","2.0L dCi 150 hp",,"150/4000","340/2000",1995,6.7,177,"1706",15.6,"MT 6","2wd","cast iron","aluminium","R18",215,55
+"Nissan","Qashqai +2 Acenta","2.0L 140 hp 4x4",,"141/6000","196/4800",1997,8.6,205,"1604",10.2,"MT 6","4wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","2.0L 140 hp 4x4",,"141/6000","196/4800",1997,8.6,205,"1604",10.2,"MT 6","4wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai +2 Acenta","2.0L 140 hp hpT 4x4",,"141/6000","196/4800",1997,8.5,199,"1604",10.2,"hpT","4wd","aluminium","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","2.0L 140 hp hpT 4x4",,"141/6000","196/4800",1997,8.5,199,"1604",10.2,"hpT","4wd","aluminium","aluminium","R18",215,55
+"Nissan","Qashqai +2","2.0L dCi 150 hp 4x4",,"150/4000","340/2000",1995,7.0,188,"1771",15.6,"MT 6","4wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai +2 Acenta","2.0L dCi 150 hp 4x4",,"150/4000","340/2000",1995,7.0,188,"1771",15.6,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","2.0L dCi 150 hp 4x4",,"150/4000","340/2000",1995,7.0,188,"1771",15.6,"MT 6","4wd","cast iron","aluminium","R18",215,55
+"Nissan","Qashqai +2","2.0L dCi 150 hp 4x4 AT",,"150/4000","340/2000",1995,7.9,209,"1807",15.6,"AT 6","4wd","cast iron","aluminium","R16",215,65
+"Nissan","Qashqai +2 Acenta","2.0L dCi 150 hp 4x4 AT",,"150/4000","340/2000",1995,7.9,209,"1807",15.6,"AT 6","4wd","cast iron","aluminium","R17",215,60
+"Nissan","Qashqai +2 Tekna Sp.","2.0L dCi 150 hp 4x4 AT",,"150/4000","340/2000",1995,7.9,209,"1807",15.6,"AT 6","4wd","cast iron","aluminium","R18",215,55
+"Nissan","X-Trail XE","2.0L 141 hp",,"141/6000","196/4800",1997,8.7,208,"1557",10.2,"MT 6","4wd","aluminium","aluminium","R16",215,65
+"Nissan","X-Trail SE","2.0L 141 hp",,"141/6000","196/4800",1997,8.7,208,"1557",10.2,"MT 6","4wd","aluminium","aluminium","R17",215,46
+"Nissan","X-Trail XE","2.0L dCi 150 hp",,"150/4000","320/2000",1998,7.1,190,"1700",15.6,"MT 6","4wd","cast iron","aluminium","R16",215,65
+"Nissan","X-Trail SE","2.0L dCi 150 hp",,"150/4000","320/2000",1998,7.1,190,"1700",15.6,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Nissan","X-Trail Plat.","2.0L dCi 150 hp",,"150/4000","320/2000",1998,7.1,190,"1700",15.6,"MT 6","4wd","cast iron","aluminium","R18",215,55
+"Nissan","X-Trail SE","2.0L dCi 150 hp AT",,"150/4000","320/2000",1995,8.1,216,"1712",15.6,"AT 6","4wd","cast iron","aluminium","R17",215,60
+"Nissan","X-Trail Plat.","2.0L dCi 150 hp AT",,"150/4000","320/2000",1995,8.1,216,"1712",15.6,"AT 6","4wd","cast iron","aluminium","R18",215,55
+"Nissan","Pathfinder 5 pl.","2.5L dCi 171 hp",,"171/4000","403/2000",2488,9.8,264,,16.5,"MT 6 with reductor (2.6)","4wd","cast iron","aluminium","R17",255,65
+"Nissan","Pathfinder 7 pl.","2.5L dCi 171 hp",,"171/4000","403/2000",2488,9.8,264,,16.5,"MT 6 with reductor (2.6)","4wd","cast iron","aluminium","R17",255,65
+"Nissan","Pathfinder 7 pl.","2.5L dCi 171 hp AT",,"171/4000","403/2000",2488,10.2,276,,16.5,"AT 5 with reductor (2.6)","4wd","cast iron","aluminium","R17",255,65
+"Nissan","Murano","3.5L V6 S-hpT 256 hp",,"256/6000","334/4400",3498,10.9,261,,10.3,"hpT","4wd","aluminium","aluminium","R18",225,65
+"Nissan","Murano (2005)","3.5L V6 234 hp hpT",,"234/6000","318/3600",3498,12.3,295,"1945",10.3,"hpT","4wd","aluminium","aluminium","R18",225,65
+"Dacia","Sandero","1.4L 75 hp",,"75/5500","112/3000",1390,7.0,165,"1050",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Sandero","1.2L 75 hp",,"75/5500","108/4250",1149,5.9,139,"1050",9.8,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Sandero","1.6L 90 hp",,"87/5500","128/3000",1598,7.2,170,"1055",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Sandero","1.5L dCi 70 hp",,"68/4000","160/1700",1461,4.5,120,"1165",17.6,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Sandero","1.5L dCi 85 hp",,"86/3750","200/1900",1461,4.6,120,"1165",17.6,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan (2005 & 2007)","1.4L 75 hp",,"75/5500","112/3000",1390,6.9,166,"1050",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan (2005 & 2007)","1.6L 90 hp",,"87/5500","128/3000",1598,7.3,175,"1055",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan (2007)","1.6L 105 hp",,"105/5750","148/3750",1598,7.1,170,"1190",9.8,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan (2007)","1.5L dCi 70 hp",,"68/4000","160/1700",1461,4.7,125,"1140",17.9,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007)","1.4L 75 hp",,"75/5500","112/3000",1390,7.6,179,"1240",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007)","1.6L 90 hp",,"87/5500","128/3000",1598,7.6,180,"1240",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007) 7 pl.","1.6L 90 hp",,"87/5500","128/3000",1598,7.8,185,"1270",9.5,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007)","1.5L dCi 70 hp",,"68/4000","160/1700",1461,5.3,140,"1280",17.9,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007) 7 pl.","1.5L dCi 70 hp",,"68/4000","160/1700",1461,5.3,140,"1320",17.9,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007)","1.6L 105 hp",,"105/5750","148/3750",1598,7.5,178,"1270",9.8,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007) 7 pl.","1.6L 105 hp",,"105/5750","148/3750",1598,7.5,178,"1300",9.8,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007)","1.5L dCi 85 hp",,"86/3750","200/1900",1461,5.2,137,"1280",17.6,"MT","2wd","cast iron","aluminium","R15",185,65
+"Dacia","Logan Break (2007) 7 pl.","1.5L dCi 85 hp",,"86/3750","200/1900",1461,5.2,137,"1330",17.6,"MT","2wd","cast iron","aluminium","R15",185,65
+"Citroen","C1","1.0L 68 hp",,"68/6000","93/3600",998,4.5,106,"865/875",10.5,"MT","2wd","aluminium","aluminium","R14",155,65
+"Citroen","C1 sensodrive","1.0L 68 hp AMT",,"68/6000","93/3600",998,4.6,107,"900/910",10.5,"AMT 5","2wd","aluminium","aluminium","R14",155,65
+"Citroen","C1","1.4L HDi 55 hp",,"54/4000","130/1750",1399,4.1,109,"955/965",17.9,"MT","2wd","aluminium","aluminium","R14",155,65
+"Citroen","Xsara Picasso","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.1,136,"1398",18.0,"MT","2wd","aluminium","aluminium","R15",185,65
+"Citroen","Xsara Picasso Satisf.","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,4.9,,"1313",18.0,"MT","2wd","aluminium","aluminium","R15",185,65
+"Citroen","Xsara Picasso Excl.","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.1,136,"1468",18.0,"MT","2wd","aluminium","aluminium","R15",185,65
+"Citroen","C2 (2006/2008)","1.1L 60 hp",,"60/5500","94/3200",1124,5.8,138,"1031",10.5,"MT","2wd","aluminium","aluminium","R14",175,65
+"Citroen","C2 (2006/2008)","1.4L 73 hp",,"73/5400","118/3300",1361,6.0,143,"1065",10.5,"MT","2wd","aluminium","aluminium","R14",175,65
+"Citroen","C2 VTR (2006)","1.4L 73 hp",,"73/5400","118/3300",1361,6.0,143,"1065",10.5,"MT","2wd","aluminium","aluminium","R15",185,55
+"Citroen","C2 SensoDrive (2006)","1.4L 73 hp",,"73/5400","118/3300",1361,5.8,138,"1070",10.5,"AMT 5","2wd","aluminium","aluminium","R15",185,55
+"Citroen","C2 Stop&Start (2006)","1.4L 90 hp",,"88/5250","133/3250",1361,5.6,133,"1088",10.2,"AT 5","2wd","aluminium","aluminium","R15",185,55
+"Citroen","C2 Sensodrive (2006)","1.6L 110 hp",,"109/5750","147/4000",1587,6.3,151,"1146",11.0,"AMT 5","2wd","cast iron","aluminium","R16",195,45
+"Citroen","C2 VTS (2006/2008)","1.6L 120 hp",,"122/6500","143/3750",1587,6.9,163,"1159",,"MT","2wd","cast iron","aluminium","R16",195,45
+"Citroen","C2 (2006/2008)","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.3,113,"1078",17.9,"MT","2wd","aluminium","aluminium","R14",175,65
+"Citroen","C2 VTR (2006)","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.3,113,"1078",17.9,"MT","2wd","aluminium","aluminium","R15",185,55
+"Citroen","C2 VTR Sensodrive (2006)","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.2,111,"1116",17.9,"AMT 5","2wd","aluminium","aluminium","R15",185,55
+"Citroen","C2 VTR (2008)","1.4L 73 hp",,"73/5400","118/3300",1361,6.0,143,"1065",10.5,"MT","2wd","aluminium","aluminium","R15",185,55
+"Citroen","C2 VTS (2008)","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,4.4,119,"1197",18.0,"MT","2wd","aluminium","aluminium","R16",195,45
+"Citroen","C3 Picasso","1.4L VTi 95 hp",,"95/6000","136/4000",1397,6.9,159,"1334",11.0,"MT","2wd","aluminium","aluminium","R15",195,60
+"Citroen","C3 Picasso","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.8,128,"1364",17.6,"MT","2wd","aluminium","aluminium","R15",195,60
+"Citroen","C3 Picasso","1.6L VTi 120 hp",,"120/6000","160/4250",1598,6.9,159,"1365",11.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Citroen","C3 Picasso Excl.","1.4L VTi 95 hp",,"95/6000","136/4000",1397,6.8,157,"1334",11.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Citroen","C3 Picasso Excl.","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.7,125,"1364",17.6,"MT","2wd","aluminium","aluminium","R16",195,55
+"Citroen","C3 Picasso","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,4.9,130,"1408",18.0,"MT","2wd","aluminium","aluminium","R16",195,55
+"Citroen","C-Crosser","2.2L HDi FAP 160 hp",,"156/4000","380/2000",2179,7.2,191,"1825",16.6,"MT 6","4wd","cast iron","aluminium","R16",215,70
+"Citroen","C-Crosser Excl.","2.2L HDi FAP 160 hp",,"156/4000","380/2000",2179,7.3,194,,16.6,"MT 6","4wd","cast iron","aluminium","R18",225,55
+"Citroen","C-Crosser","2.4L 170 hp hpT",,"170/6000","232/4000",2360,9.3,222,"1715",10.5,"hpT","4wd","aluminium","aluminium","R18",225,55
+"Citroen","C6","2.2L HDi FAP 170 hp",,"170/4000","370/1500",2179,7.6,199,"1923",16.6,"AT 6","2wd","cast iron","aluminium","R18",245,45
+"Citroen","C6","3.0L V6 210 hp",,"211/6000","290/3750",2946,11.2,266,"1891",10.9,"AT 6","2wd","aluminium","aluminium","R18",245,45
+"Citroen","C6","2.7L V6 HDi 205 hp",,"204/4000","440/1900",2721,8.7,230,"1946",17.3,"AT 6","2wd","cast iron","aluminium","R18",245,45
+"Citroen","C8 (2002)","2.0L 136 hp",,"136/6000","190/4100",1997,9.1,,"1645",10.8,"MT","2wd","aluminium","aluminium","R16",215,60
+"Citroen","C8 (2002)","2.0L 136 hp AT",,"136/6000","190/4100",1997,9.6,,"1612",10.8,"AT 4","2wd","aluminium","aluminium","R15",205,65
+"Citroen","C8 (2002)","2.2L 160 hp",,"158/5650","217/3900",2231,9.7,,"1681",10.8,"MT","2wd","aluminium","aluminium","R16",215,60
+"Citroen","C8 (2002)","3.0L V6 205 hp",,"204/6000","285/3750",2946,11.5,,"1837",10.9,"AT 4","2wd","aluminium","aluminium","R16",215,60
+"Citroen","C8 Captain chairs (2002)","3.0L V6 205 hp",,"204/6000","285/3750",2946,11.5,,"1859",10.9,"AT 4","2wd","aluminium","aluminium","R16",215,60
+"Citroen","C8 (2002)","2.0L HDi FAP 110 hp",,"107/4000","270/1750",1997,7.2,,"1743",17.0,"MT","2wd","cast iron","aluminium","R15",215,65
+"Citroen","C8 (2002)","2.2L HDi 130 hp",,"128/4000","314/2000",2179,7.4,,"1783",18.0,"MT","2wd","cast iron","aluminium","R15",215,65
+"Citroen","C8 Captain chairs (2002)","2.2L HDi 130 hp",,"128/4000","314/2000",2179,7.4,,"1825",18.0,"MT","2wd","cast iron","aluminium","R15",215,65
+"Citroen","C8","2.0L HDi 120 hp",,"120/4000","300/2000",1997,6.9,182,"1846",17.3,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Citroen","C8","2.0L 143 hp",,"140/6250","195/4000",1997,9.0,213,"1706",11.4,"MT 6","2wd","aluminium","aluminium","R16",215,60
+"Citroen","C8","2.0L HDi FAP 138 hp",,"136/4000","320/2000",1997,7.1,188,"1818",17.6,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Citroen","C8","2.2L HDi FAP 173 hp",,"170/4000","370/1500",2179,7.2,191,"1865",16.6,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Citroen","C8","2.2L HDi FAP 173 hp AT",,"170/4000","370/1500",2179,8.2,218,"1893",16.6,"AT 6","2wd","cast iron","aluminium","R16",215,60
+"Citroen","C3 (2002)","1.1L 60 hp",,"60/5500","94/3200",1124,6.0,,"978",10.5,"MT","2wd","aluminium","aluminium","R14",165,70
+"Citroen","C3 (2002)","1.4L 73 hp",,"73/5400","118/3300",1361,6.2,,"1005",10.5,"MT","2wd","aluminium","aluminium","R14",165,70
+"Citroen","C3 (2002)","1.4L 73 hp AT",,"73/5400","118/3300",1361,7.1,,"1039",10.5,"AT 4","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3 (2002) Excl.","1.4L 73 hp",,"73/5400","118/3300",1361,6.2,,"1005",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3 (2002)","1.6L 110 hp",,"109/5750","147/4000",1587,6.5,,"1138",11.0,"MT","2wd","cast iron","aluminium","R15",185,60
+"Citroen","C3 (2002)","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.2,,"1022",17.9,"MT","2wd","aluminium","aluminium","R14",165,70
+"Citroen","C3 (2002) Excl.","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.2,,"1022",17.9,"MT","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3","1.1L 60 hp",,"60/5500","94/3200",1124,6.0,143,"1085",10.5,"MT","2wd","aluminium","aluminium","R14",175,65
+"Citroen","C3","1.4L 73 hp",,"73/5400","118/3300",1361,6.1,145,"1089",10.5,"MT","2wd","aluminium","aluminium","R14",175,65
+"Citroen","C3 Excl.","1.4L 73 hp",,"73/5400","118/3300",1361,6.1,145,"1089",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3 Sensodrive Stop&Start","1.4L 90 hp",,"88/5250","133/3250",1361,5.7,135,"1132",10.2,"AMT 5","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3 Sensodrive XTR","1.4L 90 hp",,"88/5250","133/3250",1361,6.0,143,"1149",10.2,"AMT 5","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3","1.6L 110 hp",,"109/5750","147/4000",1587,6.5,155,"1159",11.0,"MT","2wd","cast iron","aluminium","R16",195,50
+"Citroen","C3 Sensodrive","1.6L 110 hp",,"109/5750","147/4000",1587,6.2,148,"1179",11.0,"AMT 5","2wd","cast iron","aluminium","R16",195,50
+"Citroen","C3","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.4,115,"1022",17.9,"MT","2wd","aluminium","aluminium","R14",175,65
+"Citroen","C3 Sensodrive","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.3,113,"1022",17.9,"AMT 5","2wd","aluminium","aluminium","R14",175,65
+"Citroen","C3 Excl.","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.4,115,"1022",17.9,"MT","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3 XTR","1.4L HDi 70 hp",,"68/4000","150/1750",1399,4.4,115,"1075",17.9,"MT","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,118,"1179",17.6,"MT","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3 XTR","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,118,"1193",17.6,"MT","2wd","aluminium","aluminium","R15",185,60
+"Citroen","C3 VTR","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,118,"1179",17.6,"MT","2wd","aluminium","aluminium","R16",195,50
+"Citroen","C3","1.6L HDi 110 hp",,"109/4000","240/1750",1560,4.5,120,"1202",18.0,"MT","2wd","aluminium","aluminium","R16",195,50
+"Citroen","C3 pluriel (2002)","1.4L 70 hp",,"73/5400","118/3300",1361,6.8,,"1211",10.5,"MT","2wd","aluminium","aluminium","R15",185,65
+"Citroen","C3 pluriel (2002) Sensodrive","1.6L 110 hp",,"109/5750","147/4000",1587,6.6,,"1252",11.0,"AMT 5","2wd","cast iron","aluminium","R15",185,65
+"Citroen","C3 pluriel (2008)",,,"?/?",,,,,,,,,,,,,
+"Citroen","C4 coupé","1.4L 90 hp",,"88/5250","133/3250",1361,6.4,153,"1256",10.2,"MT","2wd","aluminium","aluminium","R15",195,65
+"Citroen","C4 coupé","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,117,"1330",17.6,"MT","2wd","aluminium","aluminium","R15",195,65
+"Citroen","C4 coupé Cool","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,117,"1330",17.6,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 coupé VTN@V","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,117,"1330",17.6,"MT","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4 coupé Cool","1.4L 90 hp",,"88/5250","133/3250",1361,6.4,153,"1256",10.2,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 coupé Cool","1.6L VTi 120 hp",,"120/6000","160/4250",1598,6.7,159,"1292",11.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 coupé VTS","1.6L VTi 120 hp",,"120/6000","160/4250",1598,6.7,159,"1292",11.0,"MT","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4 coupé","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,4.5,119,"1344",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 coupé VTS","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,4.5,119,"1344",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 coupé VTS","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,4.5,120,"1368",18.0,"AMT 6","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4 coupé","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,4.5,120,"1368",18.0,"AMT 6","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 coupé VTS","1.6L THP 150 hp",,"150/5800","240/1400-3500",1598,6.9,164,"1346",10.5,"MT 6","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4 coupé VTS","2.0L HDi FAP 140 hp",,"140/4000","320/2000",1997,5.3,139,"1454",17.6,"MT 6","2wd","cast iron","aluminium","R17",205,50
+"Citroen","C4 coupé VTS +","2.0L HDi FAP 140 hp",,"140/4000","320/2000",1997,5.3,139,"1454",17.6,"MT 6","2wd","cast iron","aluminium","R17",205,50
+"Citroen","C4","1.4L 90 hp",,"88/5250","133/3250",1361,6.4,153,"1257",10.2,"MT","2wd","aluminium","aluminium","R15",195,65
+"Citroen","C4","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,117,"1332",17.6,"MT","2wd","aluminium","aluminium","R15",195,65
+"Citroen","C4 Cool","1.4L 90 hp",,"88/5250","133/3250",1361,6.4,153,"1257",10.2,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 Cool","1.6L VTi 120 hp",,"120/6000","160/4250",1598,6.7,159,"1295",11.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 Cool","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,117,"1332",17.6,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 Excl.","1.6L VTi 120 hp",,"120/6000","160/4250",1598,6.7,159,"1295",11.0,"MT","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4 Excl. +","1.6L VTi 120 hp",,"120/6000","160/4250",1598,6.7,159,"1295",11.0,"MT","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,4.5,119,"1345",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 VTN@V","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,4.5,119,"1345",18.0,"MT","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 VTN@V","1.6L HDi 90 hp",,"90/4000","215/1750",1560,4.4,117,"1332",17.6,"MT","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,4.5,120,"1368",18.0,"AMT 6","2wd","aluminium","aluminium","R16",205,55
+"Citroen","C4 VTN@V","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,4.5,120,"1368",18.0,"AMT 6","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4","1.6L THP 150 hp",,"150/5800","240/1400-3500",1598,6.9,164,"1351",10.5,"MT 6","2wd","aluminium","aluminium","R17",205,50
+"Citroen","C4","2.0L HDi FAP 140 hp",,"140/4000","320/2000",1997,5.3,139,"1456",17.6,"MT 6","2wd","cast iron","aluminium","R17",205,50
+"Citroen","C4","2.0L HDi FAP 135 hp AT",,"136/4000","320/2000",1997,6.6,175,"1491",17.6,"AT 6","2wd","cast iron","aluminium","R17",205,50
+"Citroen","C4 Picasso","1.6L VTi 120 hp",,"120/6000","160/4250",1598,7.4,174,"1533",11.0,"MT","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V","1.6L VTi 120 hp",,"120/6000","160/4250",1598,7.5,177,"1533",11.0,"MT","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.5,145,"1564",18.0,"MT","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.6,147,"1564",18.0,"MT","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. +","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.6,147,"1564",18.0,"MT","2wd","aluminium","aluminium","R18",215,45
+"Citroen","C4 Picasso","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,5.3,140,"1574",18.0,"AMT 6","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso Excl.","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,5.4,142,"1574",18.0,"AMT 6","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. +","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,5.4,142,"1574",18.0,"AMT 6","2wd","aluminium","aluminium","R18",215,45
+"Citroen","C4 Picasso","1.6L THP 150 hp AMT",,"150/5800","240/1400-3500",1598,7.3,173,"1581",10.5,"AMT 6","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V","1.6L THP 150 hp AMT",,"150/5800","240/1400-3500",1598,7.4,176,"1581",10.5,"AMT 6","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. +","1.6L THP 150 hp AMT",,"150/5800","240/1400-3500",1598,7.4,176,"1581",10.5,"AMT 6","2wd","aluminium","aluminium","R18",215,45
+"Citroen","C4 Picasso","2.0L HDi FAP 135 hp AMT",,"136/4000","320/2000",1997,5.9,155,"1656",17.6,"AMT 6","2wd","cast iron","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V","2.0L HDi FAP 135 hp AMT",,"136/4000","320/2000",1997,6.0,157,"1656",17.6,"AMT 6","2wd","cast iron","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. +","2.0L HDi FAP 135 hp AMT",,"136/4000","320/2000",1997,6.0,157,"1656",17.6,"AMT 6","2wd","cast iron","aluminium","R18",215,45
+"Citroen","C4 Picasso Excl. +","2.0L HDi FAP 135 hp AT",,"136/4000","320/2000",1997,7.4,195,"1715",17.6,"AT 6","2wd","cast iron","aluminium","R18",215,45
+"Citroen","C4 Picasso 7 pl.","1.6L VTi 120 hp",,"120/6000","160/4250",1598,7.4,174,"1561",11.0,"MT","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V 7 pl.","1.6L VTi 120 hp",,"120/6000","160/4250",1598,7.5,177,"1561",11.0,"MT","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso 7 pl.","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.5,145,"1605",18.0,"MT","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V 7 pl.","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.6,147,"1605",18.0,"MT","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. + 7 pl.","1.6L HDi FAP 110 hp",,"109/4000","240/1750",1560,5.6,147,"1605",18.0,"MT","2wd","aluminium","aluminium","R18",215,45
+"Citroen","C4 Picasso 7 pl.","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,5.3,140,"1614",18.0,"AMT 6","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso Excl. 7 pl.","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,5.4,142,"1614",18.0,"AMT 6","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. + 7 pl.","1.6L HDi FAP 110 hp AMT",,"109/4000","240/1750",1560,5.4,142,"1614",18.0,"AMT 6","2wd","aluminium","aluminium","R18",215,45
+"Citroen","C4 Picasso 7 pl.","1.6L THP 150 hp AMT",,"150/5800","240/1400-3500",1598,7.3,173,"1605",10.5,"AMT 6","2wd","aluminium","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V 7 pl.","1.6L THP 150 hp AMT",,"150/5800","240/1400-3500",1598,7.4,176,"1605",10.5,"AMT 6","2wd","aluminium","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. + 7 pl.","1.6L THP 150 hp AMT",,"150/5800","240/1400-3500",1598,7.4,176,"1605",10.5,"AMT 6","2wd","aluminium","aluminium","R18",215,45
+"Citroen","C4 Picasso 7 pl.","2.0L HDi FAP 135 hp AMT",,"136/4000","320/2000",1997,5.9,155,"1695",17.6,"AMT 6","2wd","cast iron","aluminium","R16",215,55
+"Citroen","C4 Picasso VTN@V 7 pl.","2.0L HDi FAP 135 hp AMT",,"136/4000","320/2000",1997,6.0,157,"1695",17.6,"AMT 6","2wd","cast iron","aluminium","R17",215,50
+"Citroen","C4 Picasso Excl. + 7 pl.","2.0L HDi FAP 135 hp AMT",,"136/4000","320/2000",1997,6.0,157,"1695",17.6,"AMT 6","2wd","cast iron","aluminium","R18",215,45
+"Citroen","C4 Picasso Excl. + 7 pl.","2.0L HDi FAP 135 hp AT",,"136/4000","320/2000",1997,7.4,195,"1725",17.6,"AT 6","2wd","cast iron","aluminium","R18",215,45
+"Citroen","C5","2.0L 140 hp AT",,"140/6000","200/4000",1997,8.9,212,"1658",10.8,"AT 4","2wd","aluminium","aluminium","R16",225,60
+"Citroen","C5","2.0L 140 hp",,"140/6000","200/4000",1997,8.4,198,"1596",10.8,"MT","2wd","aluminium","aluminium","R16",225,60
+"Citroen","C5 S","2.0L 140 hp",,"140/6000","200/4000",1997,8.4,198,"1596",10.8,"MT","2wd","aluminium","aluminium","R17",225,55
+"Citroen","C5","1.8L 127 hp",,"125/6000","170/3750",1749,7.9,188,"1585",11.0,"MT","2wd","aluminium","aluminium","R16",225,60
+"Citroen","C5 Busi.","1.8L 127 hp",,"125/6000","170/3750",1749,7.9,188,"1585",11.0,"MT","2wd","aluminium","aluminium","R17",225,55
+"Citroen","C5","1.6L HDi FAP 110 hp",,"109/4000","240/1750-2000",1560,5.6,149,"1578",18.0,"MT","2wd","aluminium","aluminium","R16",225,60
+"Citroen","C5 S","1.6L HDi FAP 110 hp",,"109/4000","240/1750-2000",1560,5.6,149,"1578",18.0,"MT","2wd","aluminium","aluminium","R17",225,55
+"Citroen","C5","2.0L HDi FAP 138 hp",,"136/4000","320/2000",1997,6.0,157,"1683",17.6,"MT 6","2wd","cast iron","aluminium","R16",225,60
+"Citroen","C5 S","2.0L HDi FAP 138 hp",,"136/4000","320/2000",1997,6.0,157,"1683",17.6,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Citroen","C5","2.0L HDi FAP 138 hp AT",,"136/4000","320/2000",1997,7.1,189,"1733",17.6,"AT 6","2wd","cast iron","aluminium","R16",225,60
+"Citroen","C5 Excl.","2.0L HDi FAP 138 hp AT",,"136/4000","320/2000",1997,7.1,189,"1733",17.6,"AT 6","2wd","cast iron","aluminium","R17",225,55
+"Citroen","C5","2.0L HDi FAP 140 hp",,"140/4000","320/2000",1997,5.8,153,"1683",17.6,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Citroen","C5","2.2L HDi FAP 170 hp",,"170/4000","370/1500",2179,6.5,172,"1804",16.6,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Citroen","C5","3.0L V6 215 hp AT",,"211/6000","290/3750",2946,10.5,248,"1800",10.9,"AT 6","2wd","aluminium","aluminium","R18",245,45
+"Citroen","C5","2.7L HDi V6 FAP 208 hp AT",,"204/4000","440/1900",2721,8.5,223,"1841",17.3,"AT 6","2wd","cast iron","aluminium","R18",245,45
+"Citroen","C5 Tourer","1.6L HDi FAP 110 hp",,"109/4000","240/1750-2000",1560,5.7,150,"1612",18.0,"MT","2wd","aluminium","aluminium","R16",225,60
+"Citroen","C5 Tourer S","1.6L HDi FAP 110 hp",,"109/4000","240/1750-2000",1560,5.7,150,"1612",18.0,"MT","2wd","aluminium","aluminium","R17",225,55
+"Citroen","C5 Tourer","2.0L 140 hp",,"140/6000","200/4000",1997,8.5,200,"1653",10.8,"MT","2wd","aluminium","aluminium","R17",225,55
+"Citroen","C5 Tourer","2.0L HDi FAP 140 hp",,"140/4000","320/2000",1997,5.9,155,"1730",17.6,"MT 6",,"cast iron","aluminium","R16",225,60
+"Citroen","C5 Tourer Busi.","2.0L HDi FAP 140 hp",,"140/4000","320/2000",1997,5.9,155,"1730",17.6,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Citroen","C5 Tourer","2.0L HDi FAP 138 hp AT",,"136/4000","320/2000",1997,7.2,191,"1770",17.6,"AT 6","2wd","cast iron","aluminium","R17",225,55
+"Citroen","C5 Tourer","2.2L HDi FAP 170 hp",,"170/4000","370/1500",2179,6.6,175,"1840",16.6,"MT 6","2wd","cast iron","aluminium","R17",225,55
+"Mitsubishi","Colt CZ3 (2004)","1.1L 75 hp",,"75/6000","100/3500",1124,5.5,130,"930",10.5,"MT","2wd","aluminium","aluminium","R14",175,65
+"Mitsubishi","Colt CZ3 Invite (2004)","1.1L 75 hp",,"75/6000","100/3500",1124,5.5,130,"930",10.5,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt CZ3 (2004)","1.3L 95 hp",,"95/6000","125/4000",1332,6.0,143,"955",10.5,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt CZ3 (2004)","1.5L 110 hp",,"109/6000","145/4000",1499,6.1,,"960",10.5,"MT","2wd","aluminium","aluminium","R16",205,45
+"Mitsubishi","Colt CZ3 (2004)","1.5L DI-D 95 hp",,"95/4000","210/1800",1493,4.8,129,"1070",18.0,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt CZ3 Instyle (2004)","1.5L DI-D 95 hp",,"95/4000","210/1800",1493,4.8,129,"1070",18.0,"MT","2wd","aluminium","aluminium","R16",205,45
+"Mitsubishi","Colt CZT (2004)","1.5L Turbo",,"?/?",,,,,,,,"2wd",,,,,
+"Mitsubishi","Colt (2004)","1.1L 75 hp",,"75/6000","100/3500",1124,5.5,130,"965",10.5,"MT","2wd","aluminium","aluminium","R14",175,65
+"Mitsubishi","Colt Invite (2004)","1.1L 75 hp",,"75/6000","100/3500",1124,5.5,130,"965",10.5,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt (2004)","1.3L 95 hp",,"95/6000","125/4000",1332,5.8,138,"970",10.5,"MT","2wd","aluminium","aluminium","R14",175,65
+"Mitsubishi","Colt Invite (2004)","1.3L 95 hp",,"95/6000","125/4000",1332,5.8,138,"970",10.5,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt (2004)","1.5L 110 hp",,"109/6000","145/4000",1499,6.2,,"990",10.5,"MT","2wd","aluminium","aluminium","R16",205,45
+"Mitsubishi","Colt Allshift (2004)","1.5L 110 hp",,"109/6000","145/4000",1499,5.9,,"995",10.5,"AMT 6","2wd","aluminium","aluminium","R16",205,45
+"Mitsubishi","Colt (2004)","1.5L DI-D 95 hp",,"95/4000","210/1800",1493,4.6,,"1085",18.0,"MT","2wd","aluminium","aluminium","R14",175,65
+"Mitsubishi","Colt Invite (2004)","1.5L DI-D 95 hp",,"95/4000","210/1800",1493,4.6,,"1085",18.0,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt Instyle (2004)","1.5L DI-D 95 hp",,"95/4000","210/1800",1493,4.6,,"1085",18.0,"MT","2wd","aluminium","aluminium","R16",205,45
+"Mitsubishi","Colt Allshift Instyle (2004)","1.5L DI-D 95 hp",,"95/4000","210/1800",1493,4.4,,"1090",18.0,"AMT 6","2wd","aluminium","aluminium","R16",205,45
+"Mitsubishi","Colt CZC","1.5L 110 hp",,"109/6000","145/4000",1499,6.6,157,"1185",10.5,"MT","2wd","aluminium","aluminium","R16",205,45
+"Mitsubishi","Colt CZC","1.5L T 145 hp",,"145/6000","210/3500",1468,7.1,168,"1275",9.0,"MT","2wd","cast iron","aluminium","R16",205,45
+"Mitsubishi","Colt","1.1L 75 hp",,"75/6000","100/4000",1124,4.9,115,"1015/1045",11.0,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt","1.3L 95 hp",,"95/6000","125/4000",1332,5.0,119,"1020/1050",11.0,"MT","2wd","aluminium","aluminium","R15",195,50
+"Mitsubishi","Colt Ralliart","1.5L T 150 hp",,"150/6000","210/3500",1468,6.8,161,"1135",9.0,"MT","2wd","cast iron","aluminium","R16",205,45
+"Mitsubishi","Lancer Sportback","1.8L 140 hp",,"143/6000","178/4250",1798,7.9,188,"1430",10.5,"MT","2wd","aluminium","aluminium","R16",205,60
+"Mitsubishi","Lancer Sportback Motion","1.8L 140 hp",,"143/6000","178/4250",1798,7.9,188,"1460",10.5,"MT","2wd","aluminium","aluminium","R18",215,45
+"Mitsubishi","Lancer Sportback","1.8L 140 hp hpT",,"143/6000","178/4250",1798,8.3,198,"1490",10.5,"hpT","2wd","aluminium","aluminium","R18",215,45
+"Mitsubishi","Lancer Sportback","2.0L DI-D 140 hp",,"140/4000","310/1750",1968,6.3,165,"1540",18.0,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Mitsubishi","Lancer Sportback Motion","2.0L DI-D 140 hp",,"140/4000","310/1750",1968,6.5,173,"1565",18.0,"MT 6","2wd","cast iron","aluminium","R18",215,45
+"Mitsubishi","Lancer Sportback Ralliart","2.0L T 240 hp",,"241/6000","343/2500-4750",1998,10.2,243,"1670",9.0,"DCT 6","4wd","aluminium","aluminium","R18",215,45
+"Mitsubishi","Lancer","2.0L DI-D 140 hp",,"140/4000","310/1750",1968,5.9,157,"1500",18.0,"MT 6","2wd","cast iron","aluminium","R16",205,60
+"Mitsubishi","Lancer Instyle","2.0L DI-D 140 hp",,"140/4000","310/1750",1968,6.3,165,"1525",18.0,"MT 6","2wd","cast iron","aluminium","R18",215,45
+"Mitsubishi","Lancer","1.8L 140 hp hpT",,"143/6000","178/4250",1798,7.9,188,"1455",10.5,"hpT","2wd","aluminium","aluminium","R18",215,45
+"Mitsubishi","Lancer Evolution GSR","2.0L T 295 hp",,"295/6500","366/3500",1998,10.2,243,"1635",9.0,"MT","4wd","aluminium","aluminium","R18",245,40
+"Mitsubishi","Lancer Evolution MR TC-SST","2.0L T 295 hp",,"295/6500","366/3500",1998,10.5,250,"1675",9.0,"DCT 6","4wd","aluminium","aluminium","R18",245,40
+"Mitsubishi","Lancer Ralliart","2.0L T 240 hp",,"241/6000","343/2500-4750",1998,10.0,238,"1625",9.0,"DCT 6","4wd","aluminium","aluminium","R18",215,45
+"Mitsubishi","Grandis","2.0L DI-D 140 hp",,"136/4000","310/1750",1968,6.6,176,"1785",18.0,"MT 6","2wd","cast iron","aluminium","R16",215,60
+"Mitsubishi","Grandis Invite","2.0L DI-D 140 hp",,"136/4000","310/1750",1968,6.6,176,"1785",18.0,"MT 6","2wd","cast iron","aluminium","R17",215,55
+"Mitsubishi","Outlander","2.0L DI-D 140 hp",,"140/4000","310/1750",1968,6.7,177,"1730",18.0,"MT 6","4wd","cast iron","aluminium","R16",215,70
+"Mitsubishi","Outlander Intense +","2.0L DI-D 140 hp",,"140/4000","310/1750",1968,6.9,183,"1765",18.0,"MT 6","4wd","cast iron","aluminium","R18",225,55
+"Mitsubishi","Outlander","2.2L DI-D 140 hp",,"156/4000","380/2000",2179,7.3,194,"1810",16.6,"MT 6","4wd","cast iron","aluminium","R18",225,55
+"Mitsubishi","Outlander","2.4L 170 hp",,"170/6000","232/4100",2360,9.2,220,"1570",10.5,"MT","2wd","aluminium","aluminium","R16",215,70
+"Mitsubishi","Outlander","2.4L 170 hp hpT",,"170/6000","232/4100",2360,9.3,222,"1700",10.5,"hpT","4wd","aluminium","aluminium","R18",225,55
+"Mitsubishi","Pajero 3p.","3.2L DI-D 160 hp",,"160/3800","381/2000",3200,9.2,244,"2160",17.0,"MT with reductor (1.9)","4wd","cast iron","aluminium","R17",265,65
+"Mitsubishi","Pajero 3p. Intense","3.2L DI-D 160 hp",,"160/3800","381/2000",3200,9.2,244,"2160",17.0,"MT with reductor (1.9)","4wd","cast iron","aluminium","R18",265,60
+"Mitsubishi","Pajero 3p.","3.2L DI-D 170 hp AT",,"170/3800","373/2000",3200,10.5,278,"2150",17.0,"AT with reductor (1.9)","4wd","cast iron","aluminium","R18",265,60
+"Mitsubishi","Pajero 5p.","3.2L DI-D 160 hp",,"160/3800","381/2000",3200,9.3,246,"2340",17.0,"MT with reductor (1.9)","4wd","cast iron","aluminium","R17",265,65
+"Mitsubishi","Pajero 5p. Intense","3.2L DI-D 160 hp",,"160/3800","381/2000",3200,9.3,246,"2340",17.0,"MT with reductor (1.9)","4wd","cast iron","aluminium","R18",265,60
+"Mitsubishi","Pajero 5p.","3.2L DI-D 170 hp AT",,"170/3800","373/2000",3200,10.6,280,"2330",17.0,"AT with reductor (1.9)","4wd","cast iron","aluminium","R18",265,60
+"Mitsubishi","Pajero 5p.","3.8L V6 250 hp",,"250/6000","329/2750",3828,13.5,324,"2290",9.8,"AT with reductor (1.9)","4wd","cast iron","aluminium","R18",265,60
+"Mitsubishi","L200 Double Cab.","2.5L DI-D 136 hp",,"136/4000","314/2000",2477,8.6,228,"1955",17.5,"MT with reductor (1.9)","4wd","cast iron","aluminium","R16",245,70
+"Volkswagen","Fox","1.2L 55 hp 3 cyl.",,"54/4750","108/3000",1198,6.1,146,"998",10.3,"MT","2wd","aluminium","aluminium","R14",165,70
+"Volkswagen","Fox","1.4L 75 hp",,"75/5000","124/2750",1390,6.7,161,"1012",10.5,"MT","2wd","cast iron","aluminium","R14",165,70
+"Volkswagen","Fox","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/1600-2800",1422,4.9,132,"1085",19.5,"MT","2wd","cast iron","aluminium","R14",185,60
+"Volkswagen","Polo","1.2L 60 hp 3 cyl.",,"60/5200","108/3000",1198,5.8,138,,10.3,"MT","2wd","aluminium","aluminium","R14",165,70
+"Volkswagen","Polo","1.4L 80 hp",,"80/5000","132/3800",1390,6.3,150,"1038",10.5,"MT","2wd","aluminium","aluminium","R14",165,70
+"Volkswagen","Polo GT","1.4L 80 hp",,"80/5000","132/3800",1390,6.3,150,"1038",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Volkswagen","Polo","1.4L 80 hp AT",,"80/5000","132/3800",1390,6.9,163,,10.5,"AT 6","2wd","aluminium","aluminium","R14",165,70
+"Volkswagen","Polo","1.6L 105 hp",,"105/5600","153/3800",1598,6.7,159,"1056",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Volkswagen","Polo","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/1600-2800",1422,4.5,119,,19.5,"MT",,"cast iron","aluminium","R14",165,70
+"Volkswagen","Polo","1.4L TDI 80 hp",,"80/4000","195/2200",1422,4.5,119,,19.5,"MT",,"cast iron","aluminium","R14",165,70
+"Volkswagen","Polo BlueMotion","1.4L TDI DPF 80 hp",,"80/4000","195/1800-2200",1422,3.8,99,"1109",19.5,"MT",,"cast iron","aluminium","R14",165,70
+"Volkswagen","Polo GT","1.4L TDI 80 hp",,"80/4000","195/2200",1422,4.5,119,,19.5,"MT",,"cast iron","aluminium","R14",185,60
+"Volkswagen","Polo","1.9L TDI 100 hp",,"101/4000","240/1800-2400",1896,4.8,127,,19.0,"MT","2wd","cast iron","aluminium","R14",185,60
+"Volkswagen","Polo GTI","1.8L T 150 hp",,"150/5800","220/1950-4500",1781,7.8,186,"1164/?",9.5,"MT","2wd","cast iron","aluminium","R16",205,45
+"Volkswagen","Crosspolo","1.4L 75 hp",,"75/5000","126/3800",1390,6.7,161,"1087",10.5,"MT","2wd","aluminium","aluminium","R17",215,40
+"Volkswagen","Crosspolo","1.4L 100 hp",,"101/6000","126/4400",1390,6.8,163,"1097",10.5,"MT","2wd","aluminium","aluminium","R17",215,40
+"Volkswagen","Crosspolo","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/1600-2800",1422,4.9,132,"1155",19.5,"MT","2wd","cast iron","aluminium","R17",215,40
+"Volkswagen","Crosspolo","1.9L TDI 100 hp",,"101/4000","240/1800-2400",1896,5.1,138,"1190",19.0,"MT","2wd","cast iron","aluminium","R17",215,40
+"Volkswagen","Polo (2009)","1.2L 60 hp 3 cyl.",,"60/5200","108/3000",1198,5.5,128,"1068",10.5,"MT","2wd","aluminium","aluminium","R14",175,70
+"Volkswagen","Polo (2009)","1.2L 69 hp 3 cyl.",,"69/5400","112/3000",1198,5.5,128,"1068",10.5,"MT","2wd","aluminium","aluminium","R14",175,70
+"Volkswagen","Polo (2009)","1.4L 86 hp",,"86/5000","132/3800",1390,5.9,139,"1071",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Volkswagen","Polo (2009)","1.4L 86 hp DSG 7",,"86/5000","132/3800",1390,5.8,135,"1104",10.5,"DCT 7","2wd","aluminium","aluminium","R15",185,60
+"Volkswagen","Polo (2009)","1.2L TSI 105 hp",,"105/?",,,5.5,129,,,"MT 6","2wd",,,"R15",185,60
+"Volkswagen","Polo (2009)","1.6L TDI 75 hp",,"75/4000","195/1500-2000",1598,4.2,109,"1157",16.5,"MT","2wd","cast iron","aluminium","R14",175,70
+"Volkswagen","Polo (2009)","1.6L TDI 90 hp",,"90/4200","230/1500-2500",1598,4.2,109,"1157",16.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Volkswagen","Polo (2009)","1.6L TDI 90 hp DSG 7",,"90/4200","230/1500-2500",1598,4.3,112,"1179",16.5,"DCT 7","2wd","cast iron","aluminium","R15",185,60
+"Volkswagen","Polo (2009) Bluemotion","1.6L TDI 90 hp",,"90/4200","230/1500-2500",1598,3.8,96,,16.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Volkswagen","Polo (2009)","1.6L TDI 105 hp",,"105/4400","250/1500-2500",1598,4.2,109,"1165",16.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Volkswagen","Scirocco","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.4,149,"1319",10.0,"MT 6","2wd","cast iron","aluminium","R17",205,50
+"Volkswagen","Scirocco","1.4L TSI 160 hp",,"160/5800","240/1500-4500",1390,6.6,154,"1346",10.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco","1.4L TSI 160 hp DSG 7",,"160/5800","240/1500-4500",1390,6.3,147,"1360",10.0,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco","2.0L TSI 200 hp",,"200/5100","280/1700-5000",1984,7.6,179,"1373",9.8,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco","2.0L TSI 200 hp DSG 6",,"200/5100","280/1700-5000",1984,7.6,179,"1393",9.8,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco","2.0L TDI 140 hp",,"140/4200","320/1750-2500",1968,5.1,134,"1379",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco","2.0L TDI 140 hp DSG 6",,"140/4200","320/1750-2500",1968,5.5,145,"1395",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco","2.0L TDI 170 hp",,"170/4200","350/1750-2500",1968,5.3,139,"1395",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco","2.0L TDI 170 hp DSG 6",,"170/4200","350/1750-2500",1968,5.6,147,"1421",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Scirocco R","2.0L TSI 265 hp",,"265/6000","350/2500-5000",1984,8.3,194,"1408",9.8,"MT 6","2wd","cast iron","aluminium","R18",235,40
+"Volkswagen","Scirocco R","2.0L TSI 265 hp DSG 6",,"265/6000","350/2500-5000",1984,8.2,192,"1428",9.8,"DCT 6","2wd","cast iron","aluminium","R18",235,40
+"Volkswagen","New Beetle Cab.","1.6L 100 hp",,"102/5600","148/3800",1595,7.7,,"1292",10.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","New Beetle Cab.","2.0L 116 hp",,"116/5400","172/3200",1984,8.8,,"1324",10.3,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","New Beetle Cab.","2.0L 116 hp AT",,"116/5400","172/3200",1984,9.2,,"1352",10.3,"AT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","New Beetle","1.6L 100 hp",,"101/5600","145/3800",1595,8.1,,"1205",10.3,"MT","2wd","aluminium","aluminium","R15",195,65
+"Volkswagen","New Beetle","1.8L T 150 hp",,"150/5800","220/2000",1781,8.3,,"1264",9.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","New Beetle","2.3L V5 170 hp",,"170/6200","220/3300",2324,8.9,,"1327",10.8,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","New Beetle RSi","3.2L V6 225 hp",,"225/6200","317/3200",3200,,,,,"MT 6","4wd",,,"R18",235,40
+"Volkswagen","Eos","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.5,154,"1536",10.0,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Eos","1.4L TSI 160 hp",,"160/5800","240/1500-4500",1390,6.7,159,"1562",10.0,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Eos","2.0L TSI 200 hp",,"200/5100","280/1800-5000",1984,8.0,188,"1611",10.3,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Eos","2.0L TSI 200 hp DSG 6",,"200/5100","280/1800-5000",1984,8.0,188,"1632",10.3,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Eos","3.2L V6 250 hp DSG 6",,"250/6300","320/2500-3000",3189,9.2,219,"1702",10.9,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Eos","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,5.8,152,"1627",16.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Eos","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,6.3,166,"1649",16.5,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Jetta","1.6L 102 hp",,"102/5600","148/3800",1595,7.4,178,"1268",10.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Jetta","1.6L FSI 115 hp",,"116/6000","155/4000",1598,6.8,166,"1271",12.0,"MT 6","2wd","aluminium","aluminium","R16",205,55
+"Volkswagen","Jetta","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.2,140,"1345",19.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Jetta","1.9L TDI 105 hp DSG 6",,"105/4000","250/1900",1896,5.7,154,"1384",19.0,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Jetta","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.5,149,"1393",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Jetta","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,6.1,165,"1410",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Sharan","1.8L T 150 hp",,"150/5800","210/1800",1781,9.4,,"1668",,"MT 6 or AT 5","2wd",,,"R15",205,60
+"Volkswagen","Sharan","2.8L V6 204 hp",,"204/6200","265/3400",2792,10.5,,"1752",,"MT 6 or AT 4","2wd or 4wd",,,"R16",215,55
+"Volkswagen","Sharan","1.9L TDI 115 hp",,"115/4000","310/1900",1896,6.3,,"1678",,"MT 6 or AT 5","2wd",,,"R15",205,60
+"Volkswagen","Caddy","1.4L 80 hp",,"80/5000","132/3800",1390,7.9,188,"1485",10.5,"MT","2wd","aluminium","aluminium","R15",195,65
+"Volkswagen","Caddy","1.6L 102 hp",,"102/5600","148/3800",1595,8.2,195,"1495",10.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Caddy","1.9L TDI 75 hp",,"75/4000","210/1900",1896,6.0,158,"1560",,"MT","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Caddy","1.9L TDI 104 hp",,"105/4000","250/1900",1896,6.2,164,"1560",19.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Caddy Bluemotion","1.9L TDI 104 hp",,"105/4000","250/1900",1896,5.7,149,"1560",19.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Caddy","1.9L TDI 104 hp DSG 5",,"105/4000","250/1900",1896,6.7,177,"1560",19.0,"DCT 5","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Caddy","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,6.3,167,,18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf R32 (2006)","3.2L V6 250 hp",,"250/6300","320/2800-3000",3189,10.7,255,"1510/1541",10.9,"MT 6","4wd","cast iron","aluminium","R18",225,40
+"Volkswagen","Golf R32 (2006)","3.2L V6 250 hp DSG 6",,"250/6300","320/2800-3000",3189,9.7,231,"1538/1569",10.9,"DCT 6","4wd","cast iron","aluminium","R18",225,40
+"Volkswagen","Golf GTI (2007)","2.0L TFSI 200 hp",,"200/6000","280/1800-5000",1984,8.0,189,"1336/1372",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Golf GTI (2007)","2.0L TFSI 200 hp DSG 6",,"200/6000","280/1800-5000",1984,7.9,188,"1355/1391",10.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Golf (2007)","1.9L TDI 105 hp 4Motion",,"105/4000","250/1900",1896,5.8,157,"1424/1464",19.0,"MT 6","4wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf (2007) Sportline","1.9L TDI 105 hp 4Motion",,"105/4000","250/1900",1896,5.8,157,"1424/1464",19.0,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf (2007)","2.0L TDI 140 hp 4Motion",,"140/4000","320/1750-2500",1968,5.9,159,"1416/1450",18.5,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf (2007) Highline","2.0L TDI 140 hp 4Motion",,"140/4000","320/1750-2500",1968,6.0,160,"1416/1450",18.5,"MT 6","4wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf (2007) GT Sport 3p.","1.6L 102 hp",,"102/5600","148/3800",1595,7.4,176,"1173",10.3,"MT","2wd","aluminium","aluminium","R16",205,55
+"Volkswagen","Golf (2007) GT Sport 3p.","1.6L FSI 115 hp",,"116/6000","155/4000",1598,6.7,161,"1184",12.0,"MT 6","2wd","aluminium","aluminium","R16",205,55
+"Volkswagen","Golf (2007) GT Sport 3p.","1.4L TSI 122 hp",,"122/5500","200/1500",1390,6.3,149,"1205",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf (2007) GT Sport 3p.","1.4L TSI 140 hp",,"140/5600","220/1500-4000",1390,7.1,169,"1262",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf (2007) GT Sport 3p.","1.4L TSI 170 hp",,"170/6000","240/1750",1390,7.3,174,"1298",10.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Golf","1.6L 102 hp",,"102/5600","148/3800",1595,7.1,166,"1232/?",10.5,"MT","2wd","aluminium","aluminium","R15",195,65
+"Volkswagen","Golf","1.6L 102 hp DSG 7",,"102/5600","148/3800",1595,6.7,157,"1265/?",10.5,"DCT 7","2wd","aluminium","aluminium","R15",195,65
+"Volkswagen","Golf","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.2,144,"1290/?",10.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.0,138,"1290/?",10.0,"DCT 7","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Sport","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.2,144,"1290/?",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Sport","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.0,138,"1290/?",10.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf","1.4L TSI 160 hp",,"160/5800","240/1500-4500",1390,6.3,145,"1346/?",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf","1.4L TSI 160 hp DSG 7",,"160/5800","240/1500-4500",1390,6.0,139,"1346/?",10.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf GTI","2.0L TSI 210 hp",,"211/5300","280/1700-5200",1984,7.3,170,"1393/?",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Golf GTI","2.0L TSI 210 hp DSG 6",,"211/5300","280/1700-5200",1984,7.4,173,"1414/?",9.6,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Golf","1.6L TDI CR 105 hp DPF",,"105/4400","250/1500-2500",1598,4.1,107,"1314/?",16.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Sport","1.6L TDI CR 105 hp DPF",,"105/4400","250/1500-2500",1598,4.1,107,"1314/?",16.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,4.9,129,"1374/?",16.5,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,5.4,142,"1397/?",16.5,"DCT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Sport","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,4.9,129,"1374/?",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Sport","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,5.4,142,"1397/?",16.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Sport","2.0L TDI CR 140 hp DPF 4Motion",,"140/4200","320/1750-2500",1968,5.5,145,"1474/?",16.5,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf GTD","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.3,139,"1404/?",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Golf GTD","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,5.6,147,"1426/?",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Golf Plus","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.5,152,"1416",10.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Plus","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.3,146,"1438",10.0,"DCT 7","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Plus Sport","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.5,152,"1416",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Plus Sport","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.5,152,"1416",10.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Plus Sport","1.4L TSI 160 hp",,"160/5800","240/1500-4500",1390,6.5,153,,10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Plus Sport","1.4L TSI 160 hp DSG 7",,"160/5800","240/1500-4500",1390,6.3,147,,10.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Plus","1.6L TDI CR 105 hp DPF",,"105/4400","250/1500-2500",1598,4.8,126,"1446",16.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Plus Sport","1.6L TDI CR 105 hp DPF",,"105/4400","250/1500-2500",1598,4.8,126,"1446",16.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Plus","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,5.1,135,,16.5,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Plus","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,5.6,146,"1505",16.5,"DCT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Golf Plus Sport","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,5.1,135,,16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Plus Sport","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,5.6,146,"1505",16.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","1.6L 102 hp",,"102/5600","148/3800",1595,7.4,176,"1278",10.5,"MT","2wd","aluminium","aluminium","R16",205,55
+"Volkswagen","Golf Variant","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.2,137,"1361",19.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant Bluemotion","1.9L TDI 105 hp",,"105/4000","250/1900",1896,4.6,122,"1357",19.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","1.9L TDI 105 hp DSG 7",,"105/4000","250/1900",1896,5.3,139,"1376",19.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.4,153,"1310",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.3,148,"1331",10.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","1.4L TSI 160 hp",,"160/5800","240/1500-4500",1390,6.6,154,"1354",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","1.4L TSI 160 hp DSG 7",,"160/5800","240/1500-4500",1390,6.4,148,"1369",10.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","2.0L TDI 140 hp",,"140/4200","320/1750-2500",1968,5.5,143,"1399",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Golf Variant","2.0L TDI 140 hp DSG 6",,"140/4200","320/1750-2500",1968,5.8,154,"1430",16.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran","1.9L TDI 90 hp",,"90/4000","210/1800-2500",1896,6.0,157,"1573",19.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Touran","1.6L 102 hp",,"102/5600","148/3800",1595,8.1,193,"1502",10.5,"MT","2wd","aluminium","aluminium","R15",195,65
+"Volkswagen","Touran","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.9,156,"1573",19.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Touran","1.4L TSI 140 hp",,"140/5600","220/1500-4000",1390,7.4,176,"1553",10.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Touran Advance","1.6L 102 hp",,"102/5600","148/3800",1595,8.1,193,"1502",10.5,"MT","2wd","aluminium","aluminium","R16",205,55
+"Volkswagen","Touran Advance","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.9,156,"1573",19.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran","1.4L TSI 140 hp DSG 6",,"140/5600","220/1500-4000",1390,7.5,179,"1575",10.0,"DCT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Touran Bluemotion","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.4,145,"1557",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran Advance","1.9L TDI 105 hp DSG 7",,"105/4000","250/1900",1896,5.6,148,"1601",19.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran Advance","1.4L TSI 140 hp",,"140/5600","220/1500-4000",1390,7.4,176,"1553",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran Advance","1.4L TSI 140 hp DSG 6",,"140/5600","220/1500-4000",1390,7.5,179,"1575",10.0,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran Sport","1.4L TSI 140 hp",,"140/5600","220/1500-4000",1390,7.4,176,"1553",10.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Touran Sport","1.4L TSI 140 hp DSG 6",,"140/5600","220/1500-4000",1390,7.5,179,"1575",10.0,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Touran","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,6.0,159,"1633",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,6.5,172,"1667",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran Sport","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,6.0,159,"1633",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Touran Sport","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,6.5,172,"1667",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Touran","2.0L TDI 170 hp",,"170/4000","350/1750-2500",1968,6.6,174,"1625",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran","2.0L TDI 170 hp DSG 6",,"170/4000","350/1750-2500",1968,6.9,182,"1660",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran Sport","2.0L TDI 170 hp",,"170/4000","350/1750-2500",1968,6.6,174,"1625",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Touran Sport","2.0L TDI 170 hp DSG 6",,"170/4000","350/1750-2500",1968,6.9,182,"1660",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Volkswagen","Touran (2003)","1.6L FSI 115 hp",,"116/5800","155/4000",1598,7.4,,"1423",12.0,"MT 6","2wd","aluminium","aluminium","R16",205,55
+"Volkswagen","Touran (2003)","1.9L TDI 100 hp",,"101/4000","250/1900",1896,5.9,,"1498",19.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Volkswagen","Touran (2003) Trendline","1.9L TDI 100 hp",,"101/4000","250/1900",1896,5.9,,"1498",19.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran (2003) Trendline","2.0L TDI 136 hp",,"136/4000","320/1750-2500",1968,6.0,,"1561",18.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Touran (2003) Highline","2.0L TDI 136 hp",,"136/4000","320/1750-2500",1968,6.0,,"1558",18.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Passat CC","1.8L TSI 160 hp",,"160/6200","250/1500-4200",1798,7.6,178,"1505",9.8,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","1.8L TSI 160 hp DSG 7",,"160/6200","250/1500-4200",1798,7.3,172,,9.8,"DCT 7","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,7.9,186,"1516",10.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","2.0L TSI 200 hp Tiptronic",,"200/6000","280/1800-5000",1984,8.5,199,"1529",10.5,"AT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","2.0L TDI 140 hp DPF",,"140/4200","320/1750-2500",1968,5.6,146,"1541",16.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","2.0L TDI 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,6.0,158,"1560",16.5,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.6,146,"1547",16.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","2.0L TDI 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.1,159,"1565",16.5,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat CC","3.6L V6 FSI 300 hp DSG 6 4Motion",,"299/6600","350/2400-5300",3598,10.1,242,"1707",11.4,"DCT 6","4wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.6,157,"1463",10.0,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.4,152,"1485",10.0,"DCT 7","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,7.6,180,"1492",9.6,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat R-Line","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,7.6,180,"1492",9.6,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,7.9,186,"1520",10.5,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat R-Line","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,7.9,186,"1520",10.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat","2.0L TSI 200 hp Tiptronic",,"200/6000","280/1800-5000",1984,8.5,199,"1538",10.5,"AT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat R-Line","2.0L TSI 200 hp Tiptronic",,"200/6000","280/1800-5000",1984,8.5,199,"1538",10.5,"AT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat","3.2L V6 FSI 250 hp DSG 6 4Motion",,"250/6250","330/2750-3750",3168,9.8,223,"1735",12.0,"DCT 6","4wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat R36","3.6L V6 FSI 300 hp DSG 6 4Motion",,"299/6600","350/2400-5300",3598,10.5,249,"1764",11.4,"DCT 6","4wd","cast iron","aluminium","R18",235,40
+"Volkswagen","Passat","2.0L TDI CR 110 hp DPF",,"110/4200","250/1500-2500",1968,5.5,143,"1510",16.5,"MT","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Bluemotion","2.0L TDI CR 110 hp DPF",,"110/4100","250/1750",1968,4.9,128,"1493",16.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Passat","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,5.6,146,"1529",16.5,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat","2.0L TDI CR 140 hp DPF 4Motion",,"140/4200","320/1750-2500",1968,6.0,158,"1627",16.5,"MT 6","4wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat R-Line","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,5.6,146,"1529",16.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,6.0,158,"1549",16.5,"DCT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat R-Line","2.0L TDI CR 140 hp DPF 4Motion",,"140/4200","320/1750-2500",1968,6.0,158,"1629",16.5,"MT 6","4wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat R-Line","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,6.0,158,"1551",16.5,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.6,146,"1530",16.5,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat R-Line","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.6,146,"1532",16.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.1,159,"1552",16.5,"DCT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat R-Line","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.1,159,"1554",16.5,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant Bluemotion","2.0L TDI CR 110 hp DPF",,"110/4100","250/1750",1968,4.9,129,"1543",16.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Volkswagen","Passat Variant","2.0L TDI CR 110 hp DPF",,"110/4200","250/1500-2500",1968,5.6,146,"1557",16.5,"MT","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,5.7,148,"1572",16.5,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant","2.0L TDI CR 140 hp DPF 4Motion",,"140/4200","320/1750-2500",1968,6.1,159,"1671",16.5,"MT 6","4wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant R-Line","2.0L TDI CR 140 hp DPF",,"140/4200","320/1750-2500",1968,5.7,148,"1572",16.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,6.1,159,"1594",16.5,"DCT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant R-Line","2.0L TDI CR 140 hp DPF 4Motion",,"140/4200","320/1750-2500",1968,6.1,159,"1671",16.5,"MT 6","4wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant R-Line","2.0L TDI CR 140 hp DPF DSG 6",,"140/4200","320/1750-2500",1968,6.1,159,"1594",16.5,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.7,149,"1574",16.5,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant R-Line","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.7,149,"1574",16.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.2,159,"1596",16.5,"DCT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant R-Line","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.2,159,"1596",16.5,"DCT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.7,159,"1504",10.0,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.5,154,"1520",10.0,"DCT 7","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,7.8,186,"1534",9.6,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant R-Line","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,7.8,186,"1534",9.6,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,8.0,188,"1575",10.5,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant R-Line","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,8.0,188,"1575",10.5,"MT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant","2.0L TSI 200 hp Tiptronic",,"200/6000","280/1800-5000",1984,8.6,199,"1593",10.5,"AT 6","2wd","cast iron","aluminium","R16",215,55
+"Volkswagen","Passat Variant R-Line","2.0L TSI 200 hp Tiptronic",,"200/6000","280/1800-5000",1984,8.6,199,"1593",10.5,"AT 6","2wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant","3.2L V6 FSI 250 hp DSG 6 4Motion",,"250/6250","330/2750-3750",3168,10.0,238,"1790",12.0,"DCT 6","4wd","cast iron","aluminium","R17",235,45
+"Volkswagen","Passat Variant R36","3.6L V6 FSI 300 hp DSG 6 4Motion",,"299/6600","350/2400-5300",3598,10.5,249,"1822",11.4,"DCT 6","4wd","cast iron","aluminium","R18",235,40
+"Volkswagen","Phaeton","3.0L V6 TDI 240 hp DPF 4Motion",,"239/4000","500/1500-3000",2967,9.0,239,"2233",16.8,"AT 6","4wd","cast iron","aluminium","R17",235,55
+"Volkswagen","Phaeton","3.6L V6 280 hp 4Motion",,"280/6250","370/3500",3598,11.7,273,"2154",,"AT 6","4wd","cast iron","aluminium","R17",235,55
+"Volkswagen","Phaeton","6.0L W12 450 hp 4Motion",,"450/6050","560/2750-5200",5998,14.5,348,"2392",10.8,"AT 5","4wd","aluminium","aluminium","R18",255,45
+"Volkswagen","Phaeton (2004)","5.0L V10 TDI 313 hp Tiptronic",,"313/3750","750/2000",4921,11.4,308,"2400",18.5,"AT 6","4wd","aluminium","aluminium","R18",255,45
+"Volkswagen","Phaeton (2004)","3.2L V6 240 hp",,"241/6200","315/2400",3189,11.4,,"1996",11.25,"MT 6","2wd","cast iron","aluminium","R16",235,60
+"Volkswagen","Phaeton (2004)","3.2L V6 240 hp Tiptronic",,"241/6200","315/2400",3189,12.1,,"2056",11.25,"AT 5","2wd","cast iron","aluminium","R16",235,60
+"Volkswagen","Tiguan","1.4L TSI 150 hp",,"120/5800","240/1750-4000",1390,7.4,171,"1526",10.0,"MT 6","2wd","cast iron","aluminium","R16",215,65
+"Volkswagen","Tiguan","1.4L TSI 150 hp 4Motion",,"120/5800","240/1750-4000",1390,8.0,185,"1621",10.0,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan R-Line","1.4L TSI 150 hp 4Motion",,"120/5800","240/1750-4000",1390,8.0,185,"1621",10.0,"MT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Tiguan","2.0L TDI 140 hp",,"140/4200","320/1750-2500",1968,5.9,155,"1553",16.5,"MT 6","2wd","cast iron","aluminium","R16",215,65
+"Volkswagen","Tiguan","2.0L TDI 140 hp 4Motion",,"140/4200","320/1750-2500",1968,6.4,167,"1665",16.5,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan","2.0L TDI 140 hp Tiptronic 4Motion",,"140/4200","320/1750-2500",1968,7.5,199,"1679",16.5,"AT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan R-Line","2.0L TDI 140 hp 4Motion",,"140/4200","320/1750-2500",1968,6.4,167,"1665",16.5,"MT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Tiguan R-Line","2.0L TDI 140 hp Tiptronic 4Motion",,"140/4200","320/1750-2500",1968,7.5,199,"1679",16.5,"AT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Tiguan","2.0L TSI 170 hp 4Motion",,"170/4300","280/1700-4200",1984,8.9,213,"1646",,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan","2.0L TSI 170 hp Tiptronic 4Motion",,"170/4300","280/1700-4200",1984,9.9,234,"1667",,"AT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan R-Line","2.0L TSI 170 hp 4Motion",,"170/4300","280/1700-4200",1984,8.9,213,"1646",,"MT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Tiguan R-Line","2.0L TSI 170 hp Tiptronic 4Motion",,"170/4300","280/1700-4200",1984,9.9,234,"1667",,"AT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Tiguan","2.0L TDI 170 hp 4Motion",,"170/4200","350/1750-2500",1968,6.6,172,"1684",16.5,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan R-Line","2.0L TDI 170 hp 4Motion",,"170/4200","350/1750-2500",1968,6.6,172,"1684",16.5,"MT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Tiguan","2.0L TSI 200 hp 4Motion",,"200/5100","280/1700-5000",1984,8.9,213,"1662",10.5,"MT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan","2.0L TSI 200 hp Tiptronic 4Motion",,"200/5100","280/1700-5000",1984,9.9,234,"1684",10.5,"AT 6","4wd","cast iron","aluminium","R17",215,60
+"Volkswagen","Tiguan R-Line","2.0L TSI 200 hp 4Motion",,"200/5100","280/1700-5000",1984,8.9,213,"1662",10.5,"MT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Tiguan R-Line","2.0L TSI 200 hp Tiptronic 4Motion",,"200/5100","280/1700-5000",1984,9.9,234,"1684",10.5,"AT 6","4wd","cast iron","aluminium","R19",255,40
+"Volkswagen","Touareg","2.5L TDI R5 174 hp",,"174/3500","400/2000",2461,10.1,267,"2247",18.5,"MT 6 with reductor (2.66)","4wd","aluminium","aluminium","R18",255,55
+"Volkswagen","Touareg","2.5L TDI R5 174 hp Tiptronic",,"174/3500","400/2000",2461,10.4,275,"2267",18.5,"AT 6 with reductor (2.66)","4wd","aluminium","aluminium","R18",255,55
+"Volkswagen","Touareg","3.0L V6 TDI 240 hp",,"239/4000","550/2000-2250",2967,9.6,254,"2301",16.8,"MT 6 with reductor (2.66)","4wd","cast iron","aluminium","R18",255,55
+"Volkswagen","Touareg","3.0L V6 TDI 240 hp Tiptronic",,"239/4000","550/2000-2250",2967,9.9,262,"2321",16.8,"AT 6 with reductor (2.66)","4wd","cast iron","aluminium","R18",255,55
+"Volkswagen","Touareg Indiv.","3.0L V6 TDI 240 hp",,"239/4000","550/2000-2250",2967,9.6,254,"2301",16.8,"MT 6","4wd","cast iron","aluminium","R18",255,55
+"Volkswagen","Touareg Indiv.","3.0L V6 TDI 240 hp Tiptronic",,"239/4000","550/2000-2250",2967,9.9,262,"2321",16.8,"AT 6 with reductor (2.66)","4wd","cast iron","aluminium","R18",275,45
+"Volkswagen","Touareg","3.6L V6 FSI 280 hp Tiptronic",,"280/6200","360/2500-5000",3598,13.3,317,"2238",12.0,"AT 6 with reductor (2.66)","4wd","cast iron","aluminium","R18",255,55
+"Volkswagen","Touareg Indiv.","3.6L V6 FSI 280 hp Tiptronic",,"280/6200","360/2500-5000",3598,13.3,317,"2238",12.0,"AT 6 with reductor (2.66)","4wd","cast iron","aluminium","R18",275,45
+"Volkswagen","Touareg","4.2L V8 350 hp Tiptronic",,"350/6800","440/3500",4163,13.8,329,"2332",12.5,"AT 6 with reductor (2.66)","4wd","aluminium","aluminium","R18",255,55
+"Volkswagen","Touareg","5.0L V10 TDI 313 hp Tiptronic",,"313/3750","750/2000",4921,11.9,315,"2602",18.5,"AT 6 with reductor (2.66)","4wd","aluminium","aluminium","R18",255,55
+"Volkswagen","Touareg","6.0L W12 450 hp Tiptronic",,"450/6000","600/3250",5998,15.7,375,"2480",,"AT 6","4wd","aluminium","aluminium","R19",275,45
+"Volkswagen","Touareg R50","5.0L V10 TDI 350 hp Tiptronic",,"351/3500","850/2000",4921,11.9,315,"2602",18.5,"AT 6 with reductor (2.66)","4wd","aluminium","aluminium","R21",295,35
+"Skoda","Fabia","1.2L 60 hp 3 cyl.",,"60/5200","108/3000",1198,5.9,140,"1115",10.3,"MT","2wd","aluminium","aluminium","R14",165,70
+"Skoda","Fabia Young","1.2L 60 hp 3 cyl.",,"60/5200","108/3000",1198,5.9,140,"1115",10.3,"MT","2wd","aluminium","aluminium","R14",185,60
+"Skoda","Fabia Combi","1.2L 60 hp 3 cyl.",,"60/5200","108/3000",1198,5.9,140,"1140",10.3,"MT","2wd","aluminium","aluminium","R14",165,70
+"Skoda","Fabia","1.2L 70 hp 3 cyl.",,"69/5400","112/3000",1198,5.9,140,"1125",10.5,"MT","2wd","aluminium","aluminium","R14",165,70
+"Skoda","Fabia Young","1.2L 70 hp 3 cyl.",,"69/5400","112/3000",1198,5.9,140,"1125",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Skoda","Fabia Combi","1.2L 70 hp 3 cyl.",,"69/5400","112/3000",1198,5.9,140,"1145",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Skoda","Fabia","1.4L 85 hp",,"86/5000","132/3800",1390,6.5,155,"1135",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Skoda","Fabia Combi","1.4L 85 hp",,"86/5000","132/3800",1390,6.5,155,"1150",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Skoda","Fabia","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/1600-2800",1422,4.8,127,"1200",19.5,"MT","2wd","cast iron","aluminium","R14",185,60
+"Skoda","Fabia Combi","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/1600-2800",1422,4.8,127,"1220",19.5,"MT","2wd","cast iron","aluminium","R14",165,70
+"Skoda","Fabia Combi Young","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/1600-2800",1422,4.8,127,"1220",19.5,"MT","2wd","cast iron","aluminium","R14",185,60
+"Skoda","Fabia","1.4L TDI 80 hp 3cyl.",,"80/4000","195/2200",1422,4.6,120,"1205",19.5,"MT","2wd","cast iron","aluminium","R14",185,60
+"Skoda","Fabia Combi","1.4L TDI 80 hp 3 cyl.",,"80/4000","195/2200",1422,4.6,120,"1225",19.5,"MT","2wd","cast iron","aluminium","R14",185,60
+"Skoda","Fabia GreenLine","1.4L TDI 80 hp DPF 3 cyl.",,"80/4000","195/2200",1422,4.1,109,"1195",19.5,"MT","2wd","cast iron","aluminium","R14",175,70
+"Skoda","Fabia Combi","1.9L TDI 105 hp",,"105/4000","240/1800",1896,4.9,129,"1265",19.0,"MT","2wd","cast iron","aluminium","R14",185,60
+"Skoda","Fabia","1.9L TDI 105 hp",,"105/4000","240/1800",1896,4.9,129,"1245",19.0,"MT","2wd","cast iron","aluminium","R14",185,60
+"Skoda","Fabia Sport","1.9L TDI 105 hp",,"105/4000","240/1800",1896,4.9,129,"1245",19.0,"MT","2wd","cast iron","aluminium","R15",195,55
+"Skoda","Fabia Combi Sport","1.9L TDI 105 hp",,"105/4000","240/1800",1896,4.9,129,"1265",19.0,"MT","2wd","cast iron","aluminium","R15",195,55
+"Skoda","Fabia","1.6L 105 hp",,"105/5600","153/3800",1598,6.9,165,"1145",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Skoda","Fabia Combi","1.6L 105 hp",,"105/5600","153/3800",1598,6.9,165,"1165",10.5,"MT","2wd","aluminium","aluminium","R14",185,60
+"Skoda","Fabia Sport","1.6L 105 hp",,"105/5600","153/3800",1598,6.9,165,"1145",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Fabia Combi Sport","1.6L 105 hp",,"105/5600","153/3800",1598,6.9,165,"1165",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Fabia Combi Sport","1.6L 105 hp Tiptronic",,"105/5600","153/3800",1598,7.5,180,"1210",10.5,"AT 6","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Fabia Sport","1.6L 105 hp Tiptronic",,"105/5600","153/3800",1598,7.6,181,"1190",10.5,"AT 6","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Roomster","1.2L 70 hp 3 cyl.",,"69/5400","112/3000",1198,6.7,159,"1225",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Roomster","1.4L 85 hp",,"86/5000","126/3300",1390,6.8,162,"1230",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Roomster Style","1.4L 85 hp",,"86/5000","126/3300",1390,6.8,162,"1230",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Roomster","1.6L 105 hp",,"105/5700","155/3500",1598,7.0,167,"1255",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Skoda","Roomster Sport","1.6L 105 hp",,"105/5700","155/3500",1598,7.0,167,"1255",10.5,"MT","2wd","aluminium","aluminium","R16",205,45
+"Skoda","Roomster Sport","1.6L 105 hp Tiptronic",,"105/5700","155/3500",1598,8.1,185,"1285",10.5,"AT 6","2wd","aluminium","aluminium","R16",205,45
+"Skoda","Roomster Scoot","1.6L 105 hp",,"105/5700","155/3500",1598,7.0,167,"1255",10.5,"MT","2wd","aluminium","aluminium","R17",205,40
+"Skoda","Roomster Scoot","1.6L 105 hp Tiptronic",,"105/5700","155/3500",1598,8.1,185,"1285",10.5,"AT 6","2wd","aluminium","aluminium","R17",205,40
+"Skoda","Roomster","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/1600-2800",1422,5.3,139,"1305",19.5,"MT","2wd","cast iron","aluminium","R15",195,55
+"Skoda","Roomster","1.4L TDI 80 hp 3 cyl.",,"80/4000","195/2200",1422,5.1,135,"1315",19.5,"MT","2wd","cast iron","aluminium","R15",195,55
+"Skoda","Roomster Style","1.4L TDI 80 hp 3 cyl.",,"80/4000","195/2200",1422,5.1,135,"1315",19.5,"MT","2wd","cast iron","aluminium","R15",195,55
+"Skoda","Roomster","1.9L TDI 105 hp",,"105/4000","240/1800",1896,5.4,139,"1330",19.0,"MT","2wd","cast iron","aluminium","R15",195,55
+"Skoda","Roomster Sport","1.9L TDI 105 hp",,"105/4000","240/1800",1896,5.4,139,"1330",19.0,"MT","2wd","cast iron","aluminium","R16",205,45
+"Skoda","Roomster Scoot","1.9L TDI 105 hp",,"105/4000","240/1800",1896,5.4,139,"1330",19.0,"MT","2wd","cast iron","aluminium","R17",205,40
+"Skoda","Scoot","1.8L TSI 160 hp",,"160/4500","250/1500-4500",1798,7.8,182,"1560",9.6,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Skoda","Scoot","2.0L TDI 140 hp DPF",,"140/4000","320/1750-2500",1968,6.4,173,"1605",18.5,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Skoda","Octavia","1.6L 102 hp",,"102/5600","148/3800",1595,7.4,176,"1310",10.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.6,154,"1340",10.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.3,147,"1360",10.0,"DCT 7","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia","1.8L TSI 160 hp",,"160/4500","250/1500-4500",1798,7.0,163,"1380",9.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia","1.8L TSI 160 hp DSG 7",,"160/4500","250/1500-4500",1798,6.6,155,"1385",9.6,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia Laurin&Klement","1.8L TSI 160 hp",,"160/4500","250/1500-4500",1798,7.0,163,"1380",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Laurin&Klement","1.8L TSI 160 hp DSG 7",,"160/4500","250/1500-4500",1798,6.6,155,"1385",9.6,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia RS","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,7.5,175,"1450",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia RS","2.0L TSI 200 hp DSG 6",,"200/6000","280/1800-5000",1984,7.7,180,"1470",10.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia","1.9L TDI 105 hp",,"105/4000","250/1900",1896,4.9,130,"1410",18.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia","1.9L TDI 105 hp DSG 6",,"105/4000","250/1900",1896,5.9,155,"1410",18.5,"DCT 6","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia","2.0L TDI 140 hp",,"140/4000","320/1750",1968,5.5,145,"1410",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750",1968,6.0,158,"1430",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia Laurin&Klement","2.0L TDI 140 hp",,"140/4000","320/1750",1968,5.5,145,"1410",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Laurin&Klement","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750",1968,6.0,158,"1430",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia RS","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.7,150,"1485",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia RS","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.0,159,"1505",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi","1.4L TSI 122 hp",,"122/5000","200/1500-4000",1390,6.6,154,"1355",10.0,"MT 6","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia Combi","1.4L TSI 122 hp DSG 7",,"122/5000","200/1500-4000",1390,6.3,147,"1395",10.0,"DCT 7","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia Combi","1.8L TSI 160 hp",,"160/4500","250/1500-4500",1798,7.0,163,"1395",9.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia Combi","1.8L TSI 160 hp DSG 7",,"160/4500","250/1500-4500",1798,6.6,155,"1415",9.6,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia Combi Laurin&Klement","1.8L TSI 160 hp",,"160/4500","250/1500-4500",1798,7.0,163,"1395",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi Laurin&Klement","1.8L TSI 160 hp DSG 7",,"160/4500","250/1500-4500",1798,6.6,155,"1415",9.6,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi RS","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,7.5,175,"1485",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi RS","2.0L TSI 200 hp DSG 6",,"200/6000","280/1800-5000",1984,7.7,180,"1485",10.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.1,135,,18.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia Combi","1.9L TDI 105 hp DSG 6",,"105/4000","250/1900",1896,5.9,155,"1425",18.5,"DCT 6","2wd","cast iron","aluminium","R15",195,65
+"Skoda","Octavia Combi","1.9L TDI 105 hp 4x4",,"105/4000","250/1900",1896,5.7,150,"1425",18.5,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia Combi","2.0L TDI 140 hp",,"140/4000","320/1750",1968,5.5,145,"1425",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia Combi","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750",1968,6.0,158,"1445",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Octavia Combi Laurin&Klement","2.0L TDI 140 hp",,"140/4000","320/1750",1968,5.5,145,"1425",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi Laurin&Klement","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750",1968,6.0,158,"1445",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi RS","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.7,150,"1500",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia Combi RS","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.0,159,"1520",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Octavia GreenLine","1.6L TDI 105 hp DPF",,"105/4400","250/1500-2500",1598,,,,,"MT","2wd","cast iron","aluminium",,,
+"Skoda","Superb","1.4L TSI 125 hp",,"125/5000","200/1500-4000",1390,6.8,157,"1500",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,7.6,180,"1529",9.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb","1.8L TSI 160 hp DSG 7",,"160/5000","250/1500-4200",1798,7.1,168,"1546",9.6,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb","1.8L TSI 160 hp 4x4",,"160/5000","250/1500-4200",1798,8.2,198,"1563",9.6,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb Elegance","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,7.6,180,"1529",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb Elegance","1.8L TSI 160 hp DSG 7",,"160/5000","250/1500-4200",1798,7.1,168,"1546",9.6,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb Elegance","1.8L TSI 160 hp 4x4",,"160/5000","250/1500-4200",1798,8.2,198,"1563",9.6,"MT 6","4wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb","3.6L V6 FSI 260 hp AT 4x4",,"260/6000","350/2500-5000",3598,10.0,238,"1740",11.4,"AT 6","4wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.7,151,"1531",18.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb","2.0L TDI 140 hp DPF",,"140/4000","320/1800-2500",1968,5.9,155,"1565",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb","2.0L TDI 140 hp DPF DSG 6",,"140/4000","320/1800-2500",1968,6.8,177,"1587",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb Elegance","2.0L TDI 140 hp DPF",,"140/4000","320/1800-2500",1968,5.9,155,"1565",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb Elegance","2.0L TDI 140 hp DPF DSG 6",,"140/4000","320/1800-2500",1968,6.8,177,"1587",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.8,153,"1573",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb","2.0L TDI 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.1,159,"1590",16.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb","2.0L TDI 170 hp DPF DSG 6 4x4",,"170/4200","350/1750-2500",1968,6.4,168,"1668",16.5,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Skoda","Superb Elegance","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.8,153,"1573",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb Elegance","2.0L TDI 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,6.1,159,"1590",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Skoda","Superb Elegance","2.0L TDI 170 hp DPF DSG 6 4x4",,"170/4200","350/1750-2500",1968,6.4,168,"1668",16.5,"MT 6","4wd","cast iron","aluminium","R17",225,45
+"Seat","Ibiza (2006)","1.2L 64 hp 3 cyl.",,"64/5400","112/3000",1198,5.9,142,"1015/1038",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Seat","Ibiza (2006)","1.4L 75 hp",,"75/5000","126/3800",1390,6.5,156,"1034/1057",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Seat","Ibiza (2006)","1.4L 75 hp AT",,"75/5000","126/3800",1390,7.5,180,"1067/1094",10.5,"AT 4","2wd","aluminium","aluminium","R15",195,55
+"Seat","Ibiza (2006)","1.4L 100 hp",,"101/6000","126/4400",1390,6.6,158,"1049/1073",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Seat","Ibiza (2006) Sport","1.4L 100 hp",,"101/6000","126/4400",1390,6.6,158,"1049/1073",10.5,"MT","2wd","aluminium","aluminium","R16",205,45
+"Seat","Ibiza (2006) FR","1.8L T 150 hp",,"150/5800","220/1950-4500",1781,7.8,187,"1154/1203",9.5,"MT","2wd","cast iron","aluminium","R17",205,40
+"Seat","Ibiza (2006) Cupra","1.8L T 180 hp",,"180/5800","245/2000",1781,7.9,190,"1177",9.5,"MT","2wd","cast iron","aluminium","R17",205,40
+"Seat","Ibiza (2006)","1.4L TDI 70 hp 3 cyl.",,"69/4000","155/2200",1422,4.7,127,"1106/1131",19.5,"MT","2wd","cast iron","aluminium","R15",195,55
+"Seat","Ibiza (2006)","1.4L TDI 80 hp 3 cyl.",,"80/4000","195/2200",1422,4.6,124,"1106/1131",19.5,"MT","2wd","cast iron","aluminium","R15",195,55
+"Seat","Ibiza (2006) Sport","1.4L TDI 80 hp 3 cyl.",,"80/4000","195/2200",1422,4.6,124,"1106/1131",19.5,"MT","2wd","cast iron","aluminium","R16",205,45
+"Seat","Ibiza (2006)","1.9L TDI 100 hp",,"101/4000","240/1800-2400",1896,4.9,132,"1142/1165",19.0,"MT","2wd","cast iron","aluminium","R15",195,55
+"Seat","Ibiza (2006) Sport","1.9L TDI 100 hp",,"101/4000","240/1800-2400",1896,4.9,132,"1142/1165",19.0,"MT","2wd","cast iron","aluminium","R16",205,45
+"Seat","Ibiza (2006) FR","1.9L TDI 130 hp",,"131/4000","310/1900",1896,5.2,140,"1192/1218",19.0,"MT 6","2wd","cast iron","aluminium","R17",205,40
+"Seat","Ibiza (2006) Cupra","1.9L TDI 160 hp",,"160/3750","330/1900",1896,5.4,146,"1215",19.0,"MT 6","2wd","cast iron","aluminium","R17",205,40
+"Seat","Ibiza (2006) Ecomotive","1.4L TDI 80 hp DPF 3 cyl.",,"80/4000","195/2200",1422,3.8,99,"1159/1184",19.5,"MT","2wd","cast iron","aluminium","R14",165,70
+"Seat","Ibiza SportCoupé","1.2L 70 hp 3 cyl.",,"69/5400","112/3000",1198,5.9,139,"1049",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza SportCoupé","1.4L 85 hp",,"86/5000","132/3800",1390,6.2,149,"1075",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza SportCoupé Sport","1.4L 85 hp",,"86/5000","132/3800",1390,6.2,149,"1075",10.5,"MT","2wd","aluminium","aluminium","R16",215,45
+"Seat","Ibiza SportCoupé","1.6L 105 hp",,"105/5600","153/3800",1598,6.6,157,"1090",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza SportCoupé","1.6L 105 hp DSG 7",,"105/5600","153/3800",1598,6.2,148,"1120",10.5,"DCT 7","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza SportCoupé Sport","1.6L 105 hp",,"105/5600","153/3800",1598,6.6,157,"1090",10.5,"MT","2wd","aluminium","aluminium","R16",215,45
+"Seat","Ibiza SportCoupé Sport","1.6L 105 hp DSG 7",,"105/5600","153/3800",1598,6.2,148,"1120",10.5,"DCT 7","2wd","aluminium","aluminium","R16",215,45
+"Seat","Ibiza SportCoupé FR","1.4L TSI 150 hp DSG 7",,"150/?","220/1250-4500",1390,6.3,146,,,"DCT 7","2wd","cast iron","aluminium","R17",215,40
+"Seat","Ibiza SportCoupé Cupra","1.4L TSI 180 hp DSG 7",,"180/?","250/1750-4500",1390,6.7,159,"1244",,"DCT 7","2wd","cast iron","aluminium","R17",215,40
+"Seat","Ibiza SportCoupé","1.4L TDI 80 hp DPF 3 cyl.",,"80/4000","195/2200",1422,4.3,114,"1150",19.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Seat","Ibiza SportCoupé Ecomotive","1.4L TDI 80 hp DPF 3 cyl.",,"80/4000","195/2200",1422,3.7,98,"1140",19.5,"MT","2wd","cast iron","aluminium","R14",175,70
+"Seat","Ibiza SportCoupé","1.6L TDI CR 90 hp DPF",,"90/4000","210/1800-2500",1598,4.2,109,"1175",16.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Seat","Ibiza SportCoupé Sport","1.6L TDI CR 90 hp DPF",,"90/4000","210/1800-2500",1598,4.2,109,"1175",16.5,"MT","2wd","cast iron","aluminium","R16",215,45
+"Seat","Ibiza SportCoupé","1.9L TDI 105 hp DPF",,"105/4000","240/1900",1896,4.5,119,"1175",19.0,"MT","2wd","cast iron","aluminium","R15",185,60
+"Seat","Ibiza SportCoupé Sport","1.9L TDI 105 hp DPF",,"105/4000","240/1900",1896,4.5,119,"1175",19.0,"MT","2wd","cast iron","aluminium","R16",215,45
+"Seat","Ibiza","1.2L 70 hp 3 cyl.",,"69/5400","112/3000",1198,5.9,139,"1074",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza","1.4L 85 hp",,"86/5000","132/3800",1390,6.2,149,"1100",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza Sport","1.4L 85 hp",,"86/5000","132/3800",1390,6.2,149,"1100",10.5,"MT","2wd","aluminium","aluminium","R16",215,45
+"Seat","Ibiza","1.6L 105 hp",,"105/5600","153/3800",1598,6.6,157,"1115",10.5,"MT","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza","1.6L 105 hp DSG 7",,"105/5600","153/3800",1598,6.2,148,"1145",10.5,"DCT 7","2wd","aluminium","aluminium","R15",185,60
+"Seat","Ibiza Sport","1.6L 105 hp",,"105/5600","153/3800",1598,6.6,157,"1115",10.5,"MT","2wd","aluminium","aluminium","R16",215,45
+"Seat","Ibiza Sport","1.6L 105 hp DSG 7",,"105/5600","153/3800",1598,6.2,148,"1145",10.5,"DCT 7","2wd","aluminium","aluminium","R16",215,45
+"Seat","Ibiza","1.4L TSI 150 hp DSG 7",,"150/?","220/1250-4500",1390,6.3,146,,,"DCT 7","2wd","cast iron","aluminium","R17",215,40
+"Seat","Ibiza","1.4L TDI 80 hp DPF 3 cyl.",,"80/4000","195/2200",1422,4.3,114,"1175",19.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Seat","Ibiza Ecomotive","1.4L TDI 80 hp DPF 3 cyl.",,"80/4000","195/2200",1422,3.7,98,"1165",19.5,"MT","2wd","cast iron","aluminium","R14",175,70
+"Seat","Ibiza","1.6L TDI CR 90 hp DPF",,"90/4000","210/1800-2500",1598,4.2,109,,16.5,"MT","2wd","cast iron","aluminium","R15",185,60
+"Seat","Ibiza Sport","1.6L TDI CR 90 hp DPF",,"90/4000","210/1800-2500",1598,4.2,109,,16.5,"MT","2wd","cast iron","aluminium","R16",215,45
+"Seat","Ibiza","1.9L TDI 105 hp DPF",,"105/4000","240/1900",1896,4.5,119,"1200",19.0,"MT","2wd","cast iron","aluminium","R15",185,60
+"Seat","Ibiza Sport","1.9L TDI 105 hp DPF",,"105/4000","240/1900",1896,4.5,119,"1200",19.0,"MT","2wd","cast iron","aluminium","R16",215,45
+"Seat","Cordoba","1.4L 85 hp",,"86/5000","130/3800",1390,6.5,154,"1150",10.5,"MT","2wd","aluminium","aluminium","R15",195,55
+"Seat","Cordoba","1.4L TDI 80 hp",,"80/4000","195/2200",1422,4.6,119,"1219",19.5,"MT","2wd","cast iron","aluminium","R15",195,55
+"Seat","Cordoba","1.9L TDI 100 hp",,"101/4000","240/1800-2400",1896,4.9,132,"1246",19.0,"MT","2wd","cast iron","aluminium","R15",195,55
+"Seat","Cordoba Sport","1.9L TDI 100 hp",,"101/4000","240/1800-2400",1896,4.9,132,"1246",19.0,"MT","2wd","cast iron","aluminium","R16",205,45
+"Seat","Leon","1.4L 85 hp",,"86/5000","130/3600-3800",1390,6.9,154,"1251",10.5,"MT","2wd","aluminium","aluminium","R15",195,65
+"Seat","Leon","1.6L 102 hp",,"102/5600","148/3800",1595,7.2,169,"1280",10.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Seat","Leon","1.4L TSI 125 hp",,"125/5000","200/1500-4000",1390,6.2,148,"1324",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Leon Sport","1.4L TSI 125 hp",,"125/5000","200/1500-4000",1390,6.2,148,"1324",10.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,6.8,159,"1395",10.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Leon Sport","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,6.8,159,"1395",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon Sport","1.8L TSI 160 hp DSG 7",,"160/5000","250/1500-4200",1798,6.6,153,"1370",10.5,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon FR","2.0L TSI 211 hp",,"211/5300","280/1700-5200",1984,7.3,170,"1395",9.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon FR","2.0L TSI 211 hp",,"211/5300","280/1700-5200",1984,7.5,174,"1425",9.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon Cupra","2.0L TSI 240 hp",,"241/5700","300/2200-5500",1984,8.2,199,"1450",10.3,"MT 6","2wd","cast iron","aluminium","R18",225,40
+"Seat","Leon","1.9L TDI 90 hp",,"90/4000","210/1800-2500",1896,5.0,135,"1365",19.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Seat","Leon Ecomotive","1.9L TDI 105 hp DPF",,"105/4000","250/1900",1896,4.5,119,"1325",19.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Seat","Leon","1.9L TDI 105 hp DPF DSG 6",,"105/4000","250/1900",1896,5.8,154,"1395",19.0,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Leon","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.6,147,"1390",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Leon Sport","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.6,147,"1390",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon Sport","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,5.7,154,"1430",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon FR","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.3,139,"1395",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Leon FR","2.0L TDI CR 170 hp DPF DSG 6",,"170/4200","350/1750-2500",1968,5.7,150,"1420",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea","1.4L 85 hp",,"86/5000","132/3800",1390,7.3,159,"1366",10.5,"MT","2wd","aluminium","aluminium","R15",195,65
+"Seat","Altea","1.6L 102 hp",,"102/5600","148/3800",1595,7.3,173,"1395",10.3,"MT","2wd","aluminium","aluminium","R15",195,65
+"Seat","Altea Style","1.6L 102 hp",,"102/5600","148/3800",1595,7.3,173,"1395",10.3,"MT","2wd","aluminium","aluminium","R16",205,55
+"Seat","Altea","1.4L TSI 125 hp",,"125/5000","200/1500-4000",1390,6.4,152,"1439",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea Sport","1.4L TSI 125 hp",,"125/5000","200/1500-4000",1390,6.4,152,"1439",10.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea","1.8L TSI 160 hp",,"160/6200","250/1500-4500",1798,7.1,165,"1475",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea","1.8L TSI 160 hp DSG 7",,"160/6200","250/1500-4500",1798,6.7,157,"1495",9.6,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.4,142,"1480",18.5,"MT","2wd","cast iron","aluminium","R15",195,65
+"Seat","Altea Style","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.4,142,"1480",18.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea","1.9L TDI 105 hp DSG 6",,"105/4000","250/1900",1896,6.0,159,"1510",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.8,157,"1505",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea Sport","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.8,157,"1505",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea Sport","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,6.0,160,"1540",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea Sport","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.6,146,"1505",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea XL","1.6L 102 hp",,"102/5600","148/3800",1595,7.5,178,"1434",10.5,"MT","2wd","aluminium","aluminium","R15",195,65
+"Seat","Altea XL Style","1.6L 102 hp",,"102/5600","148/3800",1595,7.5,178,"1434",10.5,"MT","2wd","aluminium","aluminium","R16",205,55
+"Seat","Altea XL","1.4L TSI 125 hp",,"125/5000","200/1500-4000",1390,6.4,152,"1478",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea XL Sport","1.4L TSI 125 hp",,"125/5000","200/1500-4000",1390,6.4,152,"1478",10.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea XL","1.8L TSI 160 hp",,"160/5000","250/1500-4200",1798,7.1,165,"1505",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea XL","1.8L TSI 160 hp DSG 7",,"160/5000","250/1500-4200",1798,6.8,159,"1525",10.5,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea XL","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.4,146,"1519",19.0,"MT","2wd","cast iron","aluminium","R15",195,65
+"Seat","Altea XL Style","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.4,146,"1519",19.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea XL Style","1.9L TDI 105 hp DPF DSG 6",,"105/4000","250/1900",1896,6.0,159,"1549",19.0,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea XL","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.9,157,"1544",18.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Altea XL Sport","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.9,157,"1544",18.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea XL Sport","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,6.0,162,"1579",18.0,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea XLSport","2.0L TDI CR 170 hp DPF",,"170/4200","350/1750-2500",1968,5.7,149,"1544",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Altea Freetrack","2.0L TDI 140 hp DPF",,"140/4000","320/1750-2500",1968,6.1,163,"1579",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Seat","Altea Freetrack","2.0L TDI 140 hp DPF 4x4",,"140/4000","320/1750-2500",1968,6.5,171,"1643",18.5,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Seat","Altea Freetrack","2.0L TDI 170 hp DPF 4x4",,"170/4200","350/1750-2500",1968,6.0,159,"1615",16.5,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Seat","Altea Freetrack","2.0L TSI 211 hp DSG 6 4x4",,"211/5300","280/1700-5200",1984,8.4,197,"1661",9.6,"DCT 6","4wd","cast iron","aluminium","R17",225,50
+"Seat","Toledo","1.6L 102 hp",,"102/5600","148/3800",1595,7.7,185,"1419",10.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Seat","Toledo","2.0L FSI 150 hp",,"150/6000","200/3500",1984,8.4,201,"1474",11.5,"MT 6","2wd","aluminium","aluminium","R16",205,55
+"Seat","Toledo Sport-up","2.0L FSI 150 hp",,"150/6000","200/3500",1984,8.4,201,"1474",11.5,"MT 6","2wd","aluminium","aluminium","R17",225,45
+"Seat","Toledo","2.0L FSI 150 hp Tiptronic",,"150/6000","200/3500",1984,8.9,214,"1515",11.5,"AT 6","2wd","aluminium","aluminium","R16",205,55
+"Seat","Toledo Sport-up","2.0L FSI 150 hp Tiptronic",,"150/6000","200/3500",1984,9.1,218,"1515",11.5,"AT 6","2wd","aluminium","aluminium","R17",225,45
+"Seat","Toledo","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.4,146,"1504",19.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Seat","Toledo","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.9,159,"1529",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Toledo Sport-up","2.0L TDI 140 hp",,"140/4000","320/1750-2500",1968,5.8,157,"1529",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Toledo","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,6.2,168,"1564",18.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Toledo Sport-up","2.0L TDI 140 hp DSG 6",,"140/4000","320/1750-2500",1968,6.0,160,"1564",18.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Toledo","2.0L TDI 170 hp",,"170/4200","350/1800",1968,6.2,167,"1529",18.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Toledo Sport-up","2.0L TDI 170 hp",,"170/4200","350/1800",1968,6.2,167,"1529",18.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo","1.6L 102 hp",,"102/5600","148/3800",1595,7.5,175,"1385",10.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Exeo","1.8L 150 hp",,"150/5500","220/2000",1781,7.9,184,"1475",9.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Exeo Sport","1.8L 150 hp",,"150/5500","220/2000",1781,7.9,184,"1475",9.5,"MT","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,7.7,179,"1505",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo","2.0L TDI CR 143 hp DPF",,"143/4200","320/1750-2500",1968,5.5,146,"1505",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Exeo Sport","2.0L TDI CR 143 hp DPF",,"143/4200","320/1750-2500",1968,5.5,146,"1505",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo","2.0L TDI CR 170 DPF hp",,"170/4200","350/1750-2500",1968,5.9,153,"1530",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo ST","1.6L 102 hp",,"102/5600","148/3800",1595,7.7,179,"1445",10.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Exeo ST","1.8L 150 hp",,"150/5700","220/1800",1781,8.1,189,"1535",9.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Exeo ST Sport","1.8L 150 hp",,"150/5700","220/1800",1781,8.1,189,"1535",9.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo ST","2.0L TSI 200 hp",,"200/6000","280/1800-5000",1984,7.9,184,"1565",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo ST","2.0L TDI CR 143 hp DPF",,"143/4200","320/1750-2500",1968,5.7,149,"1565",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Seat","Exeo ST Sport","2.0L TDI CR 143 hp DPF",,"143/4200","320/1750-2500",1968,5.7,149,"1565",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Exeo ST","2.0L TDI CR 170 DPF hp",,"170/4200","350/1750-2500",1968,5.9,159,"1590",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Alhambra","1.8L 150 hp",,"150/5800","220/1800",1781,9.4,225,"1674",9.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Seat","Alhambra","1.9L TDI 115 hp",,"116/4000","310/1900",1896,6.5,172,"1724",18.0,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Seat","Alhambra","1.9L TDI 115 hp Tiptronic",,"116/4000","310/1900",1896,7.4,196,"1757",18.0,"AT 5","2wd","cast iron","aluminium","R16",215,55
+"Seat","Alhambra Sport +","1.9L TDI 115 hp Tiptronic",,"116/4000","310/1900",1896,7.4,196,"1757",18.0,"AT 5","2wd","cast iron","aluminium","R17",225,45
+"Seat","Alhambra","1.9L TDI 115 hp 4x4",,"116/4000","310/1900",1896,7.1,188,"1784",18.0,"MT 6","4wd","cast iron","aluminium","R16",215,55
+"Seat","Alhambra","2.0L TDI 140 hp",,"140/4000","310/1750",1968,6.6,175,"1740",18.0,"MT 6","2wd","cast iron","aluminium","R16",215,55
+"Seat","Alhambra Ecomotive","2.0L TDI 140 hp",,"140/4000","310/1750",1968,6.0,159,"1740",18.0,"MT 6","2wd","cast iron","aluminium","R16",195,60
+"Seat","Alhambra Sport +","2.0L TDI 140 hp",,"140/4000","310/1750",1968,6.6,175,"1740",18.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.4L TFSI 125 hp",,"125/5000","200/1500-4000",1390,5.9,140,"1320/1360",10.0,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.4L TFSI 125 hp",,"125/5000","200/1500-4000",1390,5.9,140,"1320/1360",10.0,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.4L TFSI 125 hp S-tronic 7",,"125/5000","200/1500-4000",1390,5.6,133,"1345/1385",10.0,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.4L TFSI 125 hp S-tronic 7",,"125/5000","200/1500-4000",1390,5.6,133,"1345/1385",10.0,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.8L TFSI 160 hp",,"160/5000","250/1500-4200",1798,6.7,155,"1355/1395",9.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.8L TFSI 160 hp",,"160/5000","250/1500-4200",1798,6.7,155,"1355/1395",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.8L TFSI 160 hp S-tronic 7",,"160/5000","250/1500-4200",1798,6.6,153,"1370/1410",9.6,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.8L TFSI 160 hp S-tronic 7",,"160/5000","250/1500-4200",1798,6.6,153,"1370/1410",9.6,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Ambiente","1.8L TFSI 160 hp quattro",,"160/5000","250/1500-4200",1798,7.5,174,"1450/1490",9.6,"MT 6","4wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TFSI 200 hp",,"200/6000","280/1800-5000",1984,7.1,164,"1370/1410",10.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","2.0L TFSI 200 hp",,"200/6000","280/1800-5000",1984,7.1,164,"1370/1410",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TFSI 200 hp S-tronic 6",,"200/6000","280/1800-5000",1984,7.2,166,"1405/1445",10.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TFSI 200 hp quattro S-tronic 6",,"200/6000","280/1800-5000",1984,7.5,174,"1490/1530",10.5,"DCT 6","4wd","cast iron","aluminium","R17",225,45
+"Audi","S3","2.0L TFSI 265 hp quattro",,"265/6000","350/2500-5000",1984,8.5,198,"1530/1570",9.8,"MT 6","4wd","cast iron","aluminium","R18",225,40
+"Audi","S3","2.0L TFSI 265 hp quattro S-tronic 6",,"265/6000","350/2500-5000",1984,8.3,193,"1550/1590",9.8,"DCT 6","4wd","cast iron","aluminium","R18",225,40
+"Audi","A3","3.2L V6 250 hp quattro S-tronic 6",,"250/6300","320/2500-3000",3189,9.4,224,"1585/1625",11.3,"DCT 6","4wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.9L TDIe 105 hp DPF",,"105/4000","250/1900",1896,4.5,119,"1355/?",18.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.9L TDIe 105 hp DPF",,"105/4000","250/1900",1896,4.5,119,"1355/?",18.5,"MT","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.1,135,"1370/1410",19.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.1,135,"1370/1410",19.0,"MT","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.9L TDI 105 hp DPF",,"105/4000","250/1900",1896,4.7,124,"1355/1395",19.0,"MT","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.9L TDI 105 hp DPF",,"105/4000","250/1900",1896,4.7,124,"1355/1395",19.0,"MT","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","1.9L TDI 105 hp DPF S-tronic 6",,"105/4000","250/1900",1896,5.9,144,"1395/1435",19.0,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","1.9L TDI 105 hp DPF S-tronic 6",,"105/4000","250/1900",1896,5.9,144,"1395/1435",19.0,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TDI 140 hp DPF",,"140/4200","320/1750-2500",1968,5.1,134,"1395/1435",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","2.0L TDI 140 hp DPF",,"140/4200","320/1750-2500",1968,5.1,134,"1395/1435",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TDI 140 hp DPF S-tronic 6",,"140/4200","320/1750-2500",1968,5.4,143,"1420/1460",16.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","2.0L TDI 140 hp DPF S-tronic 6",,"140/4200","320/1750-2500",1968,5.4,143,"1420/1460",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TDI 140 hp DPF quattro",,"140/4200","320/1750-2500",1968,5.6,146,"1495/1535",16.5,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","2.0L TDI 140 hp DPF quattro",,"140/4200","320/1750-2500",1968,5.6,146,"1495/1535",16.5,"MT 6","4wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.2,139,"1395/1435",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.2,139,"1395/1435",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TDI 170 hp DPF S-tronic 6",,"170/4200","350/1750-2500",1968,5.6,147,"1420/1460",16.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","2.0L TDI 170 hp DPF S-tronic 6",,"170/4200","350/1750-2500",1968,5.6,147,"1420/1460",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,5.6,148,"1500/1540",16.5,"MT 6","4wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Ambiente","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,5.6,148,"1500/1540",16.5,"MT 6","4wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Cabrio","1.6L 102 hp",,"102/5600","148/3800",1595,7.0,167,"1405",10.3,"MT","2wd","aluminium","aluminium","R16",205,55
+"Audi","A3 Cabrio Ambition","1.6L 102 hp",,"102/5600","148/3800",1595,7.0,167,"1405",10.3,"MT","2wd","aluminium","aluminium","R17",225,45
+"Audi","A3 Cabrio","1.8L TFSI 160 hp",,"160/5000","250/1500-4200",1798,6.8,159,"1500",9.6,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Cabrio Ambition","1.8L TFSI 160 hp",,"160/5000","250/1500-4200",1798,6.8,159,"1500",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Cabrio","1.8L TFSI 160 hp S-tronic 7",,"160/5000","250/1500-4200",1798,6.7,156,"1530",9.6,"DCT 7","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Cabrio Ambition","1.8L TFSI 160 hp S-tronic 7",,"160/5000","250/1500-4200",1798,6.7,156,"1530",9.6,"DCT 7","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Cabrio","2.0L TFSI 200 hp",,"200/6000","280/1800-5000",1984,7.2,169,"1510",10.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Cabrio Ambition","2.0L TFSI 200 hp",,"200/6000","280/1800-5000",1984,7.2,169,"1510",10.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Cabrio Ambition","2.0L TFSI 200 hp",,"200/6000","280/1800-5000",1984,7.3,171,"1560",10.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Cabrio","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.1,134,"1500",18.5,"MT","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Cabrio Ambition","1.9L TDI 105 hp",,"105/4000","250/1900",1896,5.1,134,"1500",18.5,"MT","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Cabrio","2.0L TDI 140 hp DPF",,"140/4200","320/1750-2500",1968,5.3,139,"1550",16.5,"MT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Cabrio Ambition","2.0L TDI 140 hp DPF",,"140/4200","320/1750-2500",1968,5.3,139,"1550",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","A3 Cabrio","2.0L TDI 140 hp DPF S-tronic 6",,"140/4200","320/1750-2500",1968,5.6,148,"1570",16.5,"DCT 6","2wd","cast iron","aluminium","R16",205,55
+"Audi","A3 Cabrio Ambition","2.0L TDI 140 hp DPF S-tronic 6",,"140/4200","320/1750-2500",1968,5.6,148,"1570",16.5,"DCT 6","2wd","cast iron","aluminium","R17",225,45
+"Audi","TT","1.8L TFSI 160 hp",,"160/6200","250/1500-4500",1798,6.7,155,"1315",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","TT","2.0L TFSI 200 hp",,"200/5100","280/1800-5000",1984,7.7,178,"1335",10.3,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","TT","2.0L TFSI 200 hp S-tronic 6",,"200/5100","280/1800-5000",1984,7.7,178,"1335",10.3,"DCT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","TT","2.0L TFSI 200 hp quattro S-tronic 6",,"200/5100","280/1800-5000",1984,7.7,178,"1435",10.3,"DCT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","TT","3.2L V6 250 hp quattro",,"250/6300","320/2500-3000",3189,10.3,247,"1485",11.3,"MT 6","4wd","cast iron","aluminium","R17",245,45
+"Audi","TT","3.2L V6 250 hp quattro S-tronic 6",,"250/6300","320/2500-3000",3189,9.4,224,"1505",11.3,"DCT 6","4wd","cast iron","aluminium","R17",245,45
+"Audi","TTS","2.0L TFSI 272 hp quattro",,"272/6000","350/2500-5000",1984,8.1,188,"1470",9.8,"MT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","TTS","2.0L TFSI 272 hp quattro S-tronic 6",,"272/6000","350/2500-5000",1984,7.9,184,"1490",9.8,"DCT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","TT RS","2.5L 340 hp quattro 5 cyl.",,"340/6500","450/1600-5300",2480,9.2,214,"1525",10.0,"MT 6","4wd","cast iron","aluminium","R18",245,40
+"Audi","TT","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,5.3,139,"1445",16.5,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","TT Roadster","1.8L TFSI 160 hp",,"160/6200","250/1500-4500",1798,6.9,159,"1360",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","TT Roadster","2.0L TFSI 200 hp",,"200/5100","280/1800-5000",1984,7.8,181,"1370",10.3,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","TT Roadster","2.0L TFSI 200 hp S-tronic 6",,"200/5100","280/1800-5000",1984,7.8,181,"1390",10.3,"DCT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","TT Roadster","2.0L TFSI 200 hp quattro S-tronic 6",,"200/5100","280/1800-5000",1984,7.8,181,"1480",10.3,"DCT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","TT Roadster","3.2L V6 250 hp quattro",,"250/6300","320/2500-3000",3189,10.4,250,"1545",11.3,"MT 6","4wd","cast iron","aluminium","R17",245,45
+"Audi","TT Roadster","3.2L V6 250 hp quattro S-tronic 6",,"250/6300","320/2500-3000",3189,9.5,227,"1565",11.3,"DCT 6","4wd","cast iron","aluminium","R17",245,45
+"Audi","TTS Roadster","2.0L TFSI 272 hp quattro",,"272/6000","350/2500-5000",1984,8.3,193,"1530",9.8,"MT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","TTS Roadster","2.0L TFSI 272 hp quattro S-tronic 6",,"272/6000","350/2500-5000",1984,8.0,187,"1550",9.8,"DCT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","TT RS Roadster","2.5L 340 hp quattro 5 cyl.",,"340/6500","450/1600-5300",2480,9.5,221,"1585",10.0,"MT 6","4wd","cast iron","aluminium","R18",245,40
+"Audi","TT Roadster","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,5.5,144,"1490",16.5,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4","1.8L TFSI 120 hp",,"120/6200","250/1500-3650",1798,7.1,164,"1485",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","1.8L TFSI 120 hp multitronic",,"120/6200","250/1500-3650",1798,7.2,165,"1545",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","1.8L TFSI 160 hp",,"160/6200","250/1500-4500",1798,7.1,164,"1485",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","1.8L TFSI 160 hp multitronic",,"160/6200","250/1500-4500",1798,7.2,165,"1545",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","1.8L TFSI 160 hp quattro",,"160/6200","250/1500-4500",1798,7.6,176,"1585",9.6,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TFSI 180 hp",,"180/4000","320/1500-3900",1984,6.6,154,"1505",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TFSI 180 hp multitronic",,"180/4000","320/1500-3900",1984,7.1,167,"1540",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TFSI 211 hp",,"211/6000","350/1500-4200",1984,6.6,154,"1510",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TFSI 211 hp multitronic",,"211/6000","350/1500-4200",1984,7.1,167,"1555",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TFSI 211 hp quattro",,"211/6000","350/1500-4200",1984,7.4,172,"1595",9.6,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TFSI 211 hp quattro S-tronic 7",,"211/6000","350/1500-4200",1984,7.4,172,"1640",9.6,"DCT 7","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4","3.2L V6 FSI 265 hp multitronic",,"265/6500","330/3000-5000",3123,8.2,194,"1605",12.5,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A4","3.2L V6 FSI 265 hp quattro",,"265/6500","330/3000-5000",3123,8.9,213,"1655",12.5,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","A4","3.2L V6 FSI 265 hp quattro tiptronic",,"265/6500","330/3000-5000",3123,9.0,215,"1685",12.5,"AT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","S4","3.0L V6 TFSI 333 hp quattro",,"333/7000","440/2900-5300",2995,9.7,225,"1725",10.3,"MT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","S4","3.0L V6 TFSI 333 hp quattro S-tronic 7",,"333/7000","440/2900-5300",2995,9.4,219,"1760",10.3,"DCT 7","4wd","aluminium","aluminium","R18",245,40
+"Audi","A4","2.0L TDI 120 hp DPF",,"120/4200","290/1750-2500",1968,5.1,134,"1540",16.5,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TDI 143 hp DPF",,"143/4200","320/1750-2500",1968,5.3,139,"1535",16.5,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TDI 143 hp DPF multitronic",,"143/4200","320/1750-2500",1968,5.8,154,"1570",16.5,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TDI 143 hp DPF quattro",,"143/4200","320/1750-2500",1968,5.9,155,"1630",16.5,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.3,140,"1535",16.5,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,5.9,156,"1630",16.5,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.7L V6 TDI 190 hp DPF",,"190/3500","400/1400-3250",2698,6.0,159,"1645",16.8,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","2.7L V6 TDI 190 hp DPF multitronic",,"190/3500","400/1400-3250",2698,6.4,167,"1670",16.8,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4","3.0L V6 TDI 240 hp DPF quattro",,"239/4400","500/1500-3000",2967,6.6,173,"1730",16.8,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4","3.0L V6 TDI 240 hp DPF quattro tiptronic",,"239/4400","500/1500-3000",2967,6.9,182,"1765",16.8,"AT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","1.8L TFSI 120 hp",,"120/6200","250/1500-3650",1798,7.2,169,"1545",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","1.8L TFSI 120 hp multitronic",,"120/6200","250/1500-3650",1798,7.5,174,"1590",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","1.8L TFSI 160 hp",,"160/6200","250/1500-4500",1798,7.2,169,"1545",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","1.8L TFSI 160 hp multitronic",,"160/6200","250/1500-4500",1798,7.5,174,"1585",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","1.8L TFSI 160 hp quattro",,"160/6200","250/1500-4500",1798,7.7,179,"1635",9.6,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TFSI 180 hp",,"180/4000","320/1500-3900",1984,6.8,159,"1565",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TFSI 180 hp multitronic",,"180/4000","320/1500-3900",1984,7.3,172,"1600",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TFSI 211 hp",,"211/6000","350/1500-4200",1984,6.8,159,"1570",9.6,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TFSI 211 hp multitronic",,"211/6000","350/1500-4200",1984,7.3,172,"1605",9.6,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TFSI 211 hp quattro",,"211/6000","350/1500-4200",1984,7.6,176,"1640",9.6,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TFSI 211 hp quattro S-tronic 7",,"211/6000","350/1500-4200",1984,7.6,175,"1680",9.6,"DCT 7","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","3.2L V6 FSI 265 hp multitronic",,"265/6500","330/3000-5000",3123,8.4,199,"1665",12.5,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A4 Avant","3.2L V6 FSI 265 hp quattro",,"265/6500","330/3000-5000",3123,9.1,216,"1705",12.5,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","A4 Avant","3.2L V6 FSI 265 hp quattro tiptronic",,"265/6500","330/3000-5000",3123,9.2,219,"1735",12.5,"AT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","S4 Avant","3.0L V6 TFSI 333 hp quattro",,"333/7000","440/2900-5300",2995,9.9,229,"1780",10.3,"MT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","S4 Avant","3.0L V6 TFSI 333 hp quattro S-tronic 7",,"333/7000","440/2900-5300",2995,9.6,224,"1810",10.3,"DCT 7","4wd","aluminium","aluminium","R18",245,40
+"Audi","A4 Avant","2.0L TDI 120 hp DPF",,"120/4200","290/1750-2500",1968,5.3,140,"1600",16.5,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TDI 143 hp DPF",,"143/4200","320/1750-2500",1968,5.4,143,"1595",16.5,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TDI 143 hp DPF multitronic",,"143/4200","320/1750-2500",1968,6.0,159,"1630",16.5,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TDI 143 hp DPF quattro",,"143/4200","320/1750-2500",1968,6.2,162,"1660",16.5,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.6,149,"1595",16.5,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,6.2,162,"1670",16.5,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.7L V6 TDI 190 hp DPF",,"190/3500","400/1400-3250",2698,6.2,163,"1695",16.8,"MT 6","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","2.7L V6 TDI 190 hp DPF multitronic",,"190/3500","400/1400-3250",2698,6.5,169,"1720",16.8,"hpT","2wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","3.0L V6 TDI 240 hp DPF quattro",,"239/4400","500/1500-3000",2967,6.8,176,"1770",16.8,"MT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 Avant","3.0L V6 TDI 240 hp DPF quattro tiptronic",,"239/4400","500/1500-3000",2967,7.2,186,"1810",16.8,"AT 6","4wd","cast iron","aluminium","R16",225,55
+"Audi","A4 (2009)","2.0L TDI e 136 hp DPF",,"136/?",,,4.6,120,,,"MT 6","2wd",,,"R16",205,60
+"Audi","A4 Allroad","2.0L TDI 143 hp DPF quattro",,"143/4200","320/1750-2500",1968,6.2,164,,16.5,"MT 6","4wd","cast iron","aluminium","R17",225,55
+"Audi","A4 Allroad","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,6.3,166,"1705",16.5,"MT 6","4wd","cast iron","aluminium","R17",225,55
+"Audi","A4 Allroad","3.0L V6 TDI 240 hp DPF quattro",,"239/4400","500/1500-3000",2967,7.2,189,"1805",16.8,"MT 6","4wd","cast iron","aluminium","R17",225,55
+"Audi","A4 Allroad","3.0L V6 TDI 240 hp DPF quattro S-tronic 7",,"239/4400","500/1500-3000",2967,7.1,189,"1840",16.8,"DCT 7","4wd","cast iron","aluminium","R17",225,55
+"Audi","A4 Allroad","2.0L TFSI 211 hp quattro",,"211/6000","350/1500-4200",1984,7.9,179,"1690",9.6,"MT 6","4wd","cast iron","aluminium","R17",225,55
+"Audi","A4 Allroad","2.0L TFSI 211 hp quattro S-tronic 7",,"211/6000","350/1500-4200",1984,8.1,182,"1725",9.6,"DCT 7","4wd","cast iron","aluminium","R17",225,55
+"Audi","A5","2.0L TFSI 180 hp",,"180/4000","320/1500-3900",1984,6.4,149,"1495",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.0L TFSI 180 hp multitronic",,"180/4000","320/1500-3900",1984,7.1,167,"1535",9.6,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.0L TFSI 211 hp",,"211/6000","350/1500-4200",1984,6.4,149,"1495",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.0L TFSI 211 hp multitronic",,"211/6000","350/1500-4200",1984,7.1,167,"1540",9.6,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.0L TFSI 211 hp quattro",,"211/6000","350/1500-4200",1984,7.3,169,"1565",9.6,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.0L TFSI 211 hp quattro S-tronic 7",,"211/6000","350/1500-4200",1984,7.4,172,,9.6,"DCT 7","4wd","cast iron","aluminium","R17",225,50
+"Audi","A5","3.2L V6 FSI 265 hp multitronic",,"265/6500","330/3250",3123,8.2,192,"1575",12.5,"hpT","2wd","aluminium","aluminium","R17",225,50
+"Audi","A5","3.2L V6 FSI 265 hp quattro",,"265/6500","330/3250",3123,9.1,214,"1610",12.5,"MT 6","4wd","aluminium","aluminium","R17",225,50
+"Audi","A5","3.2L V6 FSI 265 hp quattro tiptronic",,"265/6500","330/3250",3123,9.2,213,"1645",12.5,"AT 6","4wd","aluminium","aluminium","R17",225,50
+"Audi","A5","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.1,134,"1545",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,5.7,149,"1610",16.5,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.7L V6 TDI 190 hp PDF",,"190/3500","400/1400-3500",2698,6.0,159,"1625",16.8,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5","2.7L V6 TDI 190 hp PDF multitronic",,"190/3500","400/1400-3500",2698,6.4,167,"1650",16.8,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5","3.0L V6 TDI 239 hp DPF quattro",,"239/4000","500/1500-3000",2967,6.6,173,"1685",17.0,"MT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","A5","3.0L V6 TDI 239 hp DPF quattro tiptronic",,"239/4000","500/1500-3000",2967,6.9,182,"1725",17.0,"AT 6","4wd","cast iron","aluminium","R17",225,50
+"Audi","S5","4.2L V8 350 hp quattro",,"354/7000","440/3500",4163,12.1,288,"1715",11.0,"MT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","S5","4.2L V8 350 hp quattro tiptronic",,"354/7000","440/3500",4163,10.1,256,"1750",11.0,"AT 6","4wd","aluminium","aluminium","R18",245,40
+"Audi","A5 Cabrio","2.0L TFSI 180 hp multitronic",,"180/4000","320/1500-3900",1984,7.4,174,"1730",9.6,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5 Cabrio","2.0L TFSI 211 hp",,"211/6000","350/1500-4200",1984,6.7,156,"1705",9.6,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5 Cabrio","2.0L TFSI 211 hp multitronic",,"211/6000","350/1500-4200",1984,7.4,174,"1730",9.6,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5 Cabrio","2.0L TFSI 211 hp quattro S-tronic 7",,"211/6000","350/1500-4200",1984,7.7,177,"1810",9.6,"DCT 7","4wd","cast iron","aluminium","R17",225,50
+"Audi","A5 Cabrio","3.2L V6 FSI 265 hp multitronic",,"265/6500","330/3250",3123,8.6,199,"1785",12.5,"hpT","2wd","aluminium","aluminium","R17",225,50
+"Audi","A5 Cabrio","3.2L V6 FSI 265 hp quattro S-tronic 7",,"265/6500","330/3250",3123,9.5,219,"1860",12.5,"DCT 7","4wd","aluminium","aluminium","R17",225,50
+"Audi","A5 Cabrio","2.0L TDI 170 hp DPF",,"170/4200","350/1750-2500",1968,5.7,144,"1735",16.5,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5 Cabrio","2.7L V6 TDI 190 hp PDF",,"190/3500","400/1400-3250",2698,6.2,164,"1835",16.8,"MT 6","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5 Cabrio","2.7L V6 TDI 190 hp PDF multitronic",,"190/3500","400/1400-3250",2698,6.5,169,"1860",16.8,"hpT","2wd","cast iron","aluminium","R17",225,50
+"Audi","A5 Cabrio","3.0L V6 TDI 239 hp DPF quattro S-tronic 7",,"239/4400","500/1500-3000",2967,6.8,179,"1935",16.8,"DCT 7","4wd","cast iron","aluminium","R17",225,50
+"Audi","S5 Cabrio","3.0L V6 TFSI 330 hp",,"333/7000","440/2900-5300",2995,10.3,224,"1950",10.3,"DCT 7","4wd","aluminium","aluminium","R18",245,40
+"Audi","Q5","2.0L TDI 170 hp DPF quattro",,"170/4200","350/1750-2500",1968,6.7,175,"1805",16.5,"MT 6","4wd","cast iron","aluminium","R17",235,65
+"Audi","Q5","2.0L TDI 170 hp DPF quattro S-tronic 7",,"170/4200","350/1750-2500",1968,6.8,179,"1845",16.5,"DCT 7","4wd","cast iron","aluminium","R17",235,65
+"Audi","Q5","3.0L V6 TDI 239 hp DPF quattro S-tronic 7",,"239/4400","500/1500-3000",2967,7.5,199,"1940",16.8,"DCT 7","4wd","cast iron","aluminium","R18",235,60
+"Audi","Q5","2.0L TFSI 211 hp quattro",,"211/6000","350/1500-4200",1984,8.3,192,"1770",9.6,"MT 6","4wd","cast iron","aluminium","R18",235,60
+"Audi","Q5","2.0L TFSI 211 hp quattro S-tronic 7",,"211/6000","350/1500-4200",1984,8.5,197,"1815",9.6,"DCT 7","4wd","cast iron","aluminium","R18",235,60
+"Audi","Q6","3.2L V6 FSI 265 hp quattro S-tronic 7",,"271/6500","330/3000-5000",3197,9.3,218,"1870",12.5,"DCT 7","4wd","aluminium","aluminium","R18",235,60

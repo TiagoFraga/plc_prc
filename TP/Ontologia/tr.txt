@@ -1,0 +1,22 @@
+### Tracoes ###
+
+:pn_4wd rdf:type owl:NamedIndividual , :Tracao; 
+	:descricao "";
+	:nome "4wd";
+	:tipo "".
+
+:pn_4wdir rdf:type owl:NamedIndividual , :Tracao; 
+	:descricao "";
+	:nome "4wdir";
+	:tipo "".
+
+:pn_Av_Ar rdf:type owl:NamedIndividual , :Tracao; 
+	:descricao "";
+	:nome "Av/Ar";
+	:tipo "".
+
+:pn_2wd_or_4wd rdf:type owl:NamedIndividual , :Tracao; 
+	:descricao "";
+	:nome "2wd or 4wd";
+	:tipo "".
+

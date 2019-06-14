@@ -1,0 +1,2882 @@
+### Motores ###
+
+:mot_D4F rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1149 ;
+	:co2 120 ;
+	:codigo "D4F";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 5.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 75 ;
+	:power_rpm 5500 ;
+	:torque 108 ;
+	:torque_rpm 4250 ;
+	:nome "1.2L 75 hp".
+
+:mot_K9KBP rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1461 ;
+	:co2 113 ;
+	:codigo "K9KBP";
+	:combustivel "gasoleo";
+	:compressao 17.9 ;
+	:consumo 4.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 65 ;
+	:power_rpm 3750 ;
+	:torque 160 ;
+	:torque_rpm 1900 ;
+	:nome "1.5L dCi 65 hp".
+
+:mot_K9KHP rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1461 ;
+	:co2 104 ;
+	:codigo "K9KHP";
+	:combustivel "gasoleo";
+	:compressao 17.9 ;
+	:consumo 4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 84 ;
+	:power_rpm 3750 ;
+	:torque 200 ;
+	:torque_rpm 1750 ;
+	:nome "1.5L dCi 85 hp".
+
+:mot_D4FT rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1149 ;
+	:co2 138 ;
+	:codigo "D4FT";
+	:combustivel "gasolina";
+	:compressao 9.5 ;
+	:consumo 5.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 104 ;
+	:power_rpm 5500 ;
+	:torque 145 ;
+	:torque_rpm 3000 ;
+	:nome "1.2L TCe 100 hp".
+
+:mot_K4MRS rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 165 ;
+	:codigo "K4MRS";
+	:combustivel "gasolina";
+	:compressao 11 ;
+	:consumo 7 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 133 ;
+	:power_rpm 6750 ;
+	:torque 160 ;
+	:torque_rpm 4400 ;
+	:nome "1.6L 130 hp".
+
+:mot_K4M rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 179 ;
+	:codigo "K4M";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 7.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 112 ;
+	:power_rpm 6000 ;
+	:torque 151 ;
+	:torque_rpm 4250 ;
+	:nome "1.6L 110 hp".
+
+:mot_K9KTHP rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1461 ;
+	:co2 123 ;
+	:codigo "K9KTHP";
+	:combustivel "gasoleo";
+	:compressao 15.6 ;
+	:consumo 4.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 106 ;
+	:power_rpm 4000 ;
+	:torque 240 ;
+	:torque_rpm 2000 ;
+	:nome "1.5L dCi 105 hp".
+
+:mot_F4R rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1998 ;
+	:co2 195 ;
+	:codigo "F4R";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 8.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 201 ;
+	:power_rpm 7100 ;
+	:torque 215 ;
+	:torque_rpm 5400 ;
+	:nome "2.0L 200 hp".
+
+:mot_M4R rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 176 ;
+	:codigo "M4R";
+	:combustivel "gasolina";
+	:compressao 10.2 ;
+	:consumo 7.6 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 140 ;
+	:power_rpm 6000 ;
+	:torque 195 ;
+	:torque_rpm 3750 ;
+	:nome "2.0L 140 hp".
+
+:mot_F4RTK rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1998 ;
+	:co2 178 ;
+	:codigo "F4RTK";
+	:combustivel "gasolina";
+	:compressao 9.3 ;
+	:consumo 7.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 180 ;
+	:power_rpm 5500 ;
+	:torque 300 ;
+	:torque_rpm 2250 ;
+	:nome "2.0L TCe 180 hp".
+
+:mot_F9Q rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1870 ;
+	:co2 134 ;
+	:codigo "F9Q";
+	:combustivel "gasoleo";
+	:compressao 16.6 ;
+	:consumo 5.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 131 ;
+	:power_rpm 3750 ;
+	:torque 300 ;
+	:torque_rpm 1750 ;
+	:nome "1.9L dCi 130 hp".
+
+:mot_K7J rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 0 ;
+	:codigo "K7J";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 6.7 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 98 ;
+	:power_rpm 6000 ;
+	:torque 127 ;
+	:torque_rpm 3750 ;
+	:nome "1.4L 100 hp".
+
+:mot_M9RA rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1995 ;
+	:co2 144 ;
+	:codigo "M9RA";
+	:combustivel "gasoleo";
+	:compressao 15.7 ;
+	:consumo 5.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 4000 ;
+	:torque 340 ;
+	:torque_rpm 2000 ;
+	:nome "2.0L dCi 150 hp".
+
+:mot_F4RT rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1998 ;
+	:co2 0 ;
+	:codigo "F4RT";
+	:combustivel "gasolina";
+	:compressao 9 ;
+	:consumo 8.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 224 ;
+	:power_rpm 5500 ;
+	:torque 300 ;
+	:torque_rpm 3000 ;
+	:nome "2.0L T 225 hp".
+
+:mot_H4JT rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1397 ;
+	:co2 168 ;
+	:codigo "H4JT";
+	:combustivel "gasolina";
+	:compressao 9.1 ;
+	:consumo 7.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 131 ;
+	:power_rpm 5500 ;
+	:torque 190 ;
+	:torque_rpm 2250 ;
+	:nome "1.4L Tce 130 hp".
+
+:mot_M9RB rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1995 ;
+	:co2 173 ;
+	:codigo "M9RB";
+	:combustivel "gasoleo";
+	:compressao 15.5 ;
+	:consumo 6.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 160 ;
+	:power_rpm 3750 ;
+	:torque 380 ;
+	:torque_rpm 2000 ;
+	:nome "2.0L dCi 160 hp".
+
+:mot_KOL25 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2488 ;
+	:co2 227 ;
+	:codigo "KOL25";
+	:combustivel "gasolina";
+	:compressao 9.6 ;
+	:consumo 9.6 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 171 ;
+	:power_rpm 6000 ;
+	:torque 226 ;
+	:torque_rpm 4400 ;
+	:nome "2.5L 170 hp".
+
+:mot_V4Y rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3498 ;
+	:co2 275 ;
+	:codigo "V4Y";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 11.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 241 ;
+	:power_rpm 6000 ;
+	:torque 330 ;
+	:torque_rpm 3600 ;
+	:nome "3.5L V6 240 hp".
+
+:mot_G9T rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2188 ;
+	:co2 0 ;
+	:codigo "G9T";
+	:combustivel "gasoleo";
+	:compressao 18 ;
+	:consumo 8.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 4000 ;
+	:torque 320 ;
+	:torque_rpm 1750 ;
+	:nome "2.2L dCi 150 hp".
+
+:mot_P9X rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2959 ;
+	:co2 232 ;
+	:codigo "P9X";
+	:combustivel "gasoleo";
+	:compressao 18.5 ;
+	:consumo 8.7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 181 ;
+	:power_rpm 4000 ;
+	:torque 400 ;
+	:torque_rpm 1800 ;
+	:nome "3.0L dCi V6 180 hp".
+
+:mot_V9X rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2993 ;
+	:co2 192 ;
+	:codigo "V9X";
+	:combustivel "gasoleo";
+	:compressao 16 ;
+	:consumo 7.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 235 ;
+	:power_rpm 3750 ;
+	:torque 450 ;
+	:torque_rpm 1500 ;
+	:nome "3.0L V6 dCi 235 hp".
+
+:mot_1KR_FE rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 998 ;
+	:co2 107 ;
+	:codigo "1KR-FE";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 4.6 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 68 ;
+	:power_rpm 6000 ;
+	:torque 93 ;
+	:torque_rpm 3600 ;
+	:nome "1.0L 68 hp 3 Cyl.".
+
+:mot_DV4_TD rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1399 ;
+	:co2 109 ;
+	:codigo "DV4 TD";
+	:combustivel "gasoleo";
+	:compressao 17.9 ;
+	:consumo 4.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 54 ;
+	:power_rpm 4000 ;
+	:torque 130 ;
+	:torque_rpm 1750 ;
+	:nome "1.4L HDi 54 hp".
+
+:mot_TU1 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1124 ;
+	:co2 135 ;
+	:codigo "TU1";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 5.7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 60 ;
+	:power_rpm 5500 ;
+	:torque 94 ;
+	:torque_rpm 3300 ;
+	:nome "1.1L 60 hp".
+
+:mot_TU3 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1361 ;
+	:co2 150 ;
+	:codigo "TU3";
+	:combustivel "gasolina";
+	:compressao 10.2 ;
+	:consumo 6.3 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 75 ;
+	:power_rpm 5500 ;
+	:torque 120 ;
+	:torque_rpm 3400 ;
+	:nome "1.4L 75 hp".
+
+:mot_EP6 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 165 ;
+	:codigo "EP6";
+	:combustivel "gasolina";
+	:compressao 11 ;
+	:consumo 7.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 120 ;
+	:power_rpm 6000 ;
+	:torque 160 ;
+	:torque_rpm 4250 ;
+	:nome "1.6L VTi 120 hp".
+
+:mot_EP6_DT rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 176 ;
+	:codigo "EP6 DT";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 7.4 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 5800 ;
+	:torque 240 ;
+	:torque_rpm 1400 ;
+	:nome "1.6L THP 150 hp".
+
+:mot_DV6_TED4 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1560 ;
+	:co2 137 ;
+	:codigo "DV6 TED4";
+	:combustivel "gasoleo";
+	:compressao 18 ;
+	:consumo 5.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 109 ;
+	:power_rpm 4000 ;
+	:torque 240 ;
+	:torque_rpm 1750 ;
+	:nome "1.6L HDi FAP 110 hp".
+
+:mot_DW10 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 146 ;
+	:codigo "DW10";
+	:combustivel "gasoleo";
+	:compressao 0 ;
+	:consumo 5.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 3750 ;
+	:torque 340 ;
+	:torque_rpm 2000 ;
+	:nome "2.0L HDi FAP 150 hp".
+
+:mot_TU5 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1587 ;
+	:co2 156 ;
+	:codigo "TU5";
+	:combustivel "gasolina";
+	:compressao 11 ;
+	:consumo 6.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 109 ;
+	:power_rpm 5750 ;
+	:torque 147 ;
+	:torque_rpm 4000 ;
+	:nome "1.6L 110 hp".
+
+:mot_EW10_J4 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 0 ;
+	:codigo "EW10 J4";
+	:combustivel "gasolina";
+	:compressao 10.8 ;
+	:consumo 9.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 136 ;
+	:power_rpm 6000 ;
+	:torque 190 ;
+	:torque_rpm 4100 ;
+	:nome "2.0L 136 hp".
+
+:mot_EW12_J4 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2231 ;
+	:co2 0 ;
+	:codigo "EW12 J4";
+	:combustivel "gasolina";
+	:compressao 10.8 ;
+	:consumo 9.7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 158 ;
+	:power_rpm 5650 ;
+	:torque 217 ;
+	:torque_rpm 3900 ;
+	:nome "2.2L 158 hp".
+
+:mot_ES9 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2946 ;
+	:co2 0 ;
+	:codigo "ES9";
+	:combustivel "gasolina";
+	:compressao 10.9 ;
+	:consumo 11.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 204 ;
+	:power_rpm 6000 ;
+	:torque 285 ;
+	:torque_rpm 3750 ;
+	:nome "3.0L V6 204 hp".
+
+:mot_DW10_ATED rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 0 ;
+	:codigo "DW10 ATED";
+	:combustivel "gasoleo";
+	:compressao 17 ;
+	:consumo 7.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 107 ;
+	:power_rpm 4000 ;
+	:torque 270 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L HDi 110 hp".
+
+:mot_DW12A rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2179 ;
+	:co2 195 ;
+	:codigo "DW12A";
+	:combustivel "gasoleo";
+	:compressao 18 ;
+	:consumo 7.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 128 ;
+	:power_rpm 4000 ;
+	:torque 314 ;
+	:torque_rpm 2000 ;
+	:nome "2.2L HDi 130 hp".
+
+:mot_DW10_TED4 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 188 ;
+	:codigo "DW10 TED4";
+	:combustivel "gasoleo";
+	:compressao 17.6 ;
+	:consumo 7.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 136 ;
+	:power_rpm 4000 ;
+	:torque 320 ;
+	:torque_rpm 2000 ;
+	:nome "2.0L HDi 136 hp FAP".
+
+:mot_DW12B rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2179 ;
+	:co2 191 ;
+	:codigo "DW12B";
+	:combustivel "gasoleo";
+	:compressao 16.6 ;
+	:consumo 7.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 4000 ;
+	:torque 370 ;
+	:torque_rpm 1500 ;
+	:nome "2.2L HDi 170 hp FAP".
+
+:mot_DT17TED4__LionV6_ rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2721 ;
+	:co2 223 ;
+	:codigo "DT17TED4 (LionV6)";
+	:combustivel "gasoleo";
+	:compressao 17.3 ;
+	:consumo 8.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 204 ;
+	:power_rpm 4000 ;
+	:torque 440 ;
+	:torque_rpm 1900 ;
+	:nome "2.7L V6 HDi 200 hp FAP".
+
+:mot_4B12 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2360 ;
+	:co2 222 ;
+	:codigo "4B12";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 9.3 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 6000 ;
+	:torque 232 ;
+	:torque_rpm 4100 ;
+	:nome "2.4L 170 hp".
+
+:mot_EW7_J4 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1749 ;
+	:co2 181 ;
+	:codigo "EW7 J4";
+	:combustivel "gasolina";
+	:compressao 10.8 ;
+	:consumo 7.7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 125 ;
+	:power_rpm 6000 ;
+	:torque 170 ;
+	:torque_rpm 3750 ;
+	:nome "1.8L 125 hp".
+
+:mot_EW10 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 192 ;
+	:codigo "EW10";
+	:combustivel "gasolina";
+	:compressao 10.8 ;
+	:consumo 8.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 140 ;
+	:power_rpm 6000 ;
+	:torque 200 ;
+	:torque_rpm 4000 ;
+	:nome "2.0L 140 hp".
+
+:mot_ES9__A rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2946 ;
+	:co2 233 ;
+	:codigo "ES9 /A";
+	:combustivel "gasolina";
+	:compressao 10.9 ;
+	:consumo 9.8 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 211 ;
+	:power_rpm 6000 ;
+	:torque 290 ;
+	:torque_rpm 3750 ;
+	:nome "3.0L V6 211 hp".
+
+:mot_EP3 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1397 ;
+	:co2 155 ;
+	:codigo "EP3";
+	:combustivel "gasolina";
+	:compressao 11 ;
+	:consumo 6.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 95 ;
+	:power_rpm 6000 ;
+	:torque 136 ;
+	:torque_rpm 4000 ;
+	:nome "1.4L VTi 95 hp".
+
+:mot_DV6 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1560 ;
+	:co2 120 ;
+	:codigo "DV6";
+	:combustivel "gasoleo";
+	:compressao 18 ;
+	:consumo 4.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 90 ;
+	:power_rpm 4000 ;
+	:torque 215 ;
+	:torque_rpm 1750 ;
+	:nome "1.6L HDi 90 hp".
+
+:mot_EP6T rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 165 ;
+	:codigo "EP6T";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 5800 ;
+	:torque 240 ;
+	:torque_rpm 1400 ;
+	:nome "1.6L THP 150 hp".
+
+:mot_PRC0 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 997 ;
+	:co2 103 ;
+	:codigo "PRC0";
+	:combustivel "gasolina";
+	:compressao 11 ;
+	:consumo 4.4 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 68 ;
+	:power_rpm 6000 ;
+	:torque 90 ;
+	:torque_rpm 3400 ;
+	:nome "1.0L 70 hp".
+
+:mot_PRC2 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1240 ;
+	:co2 139 ;
+	:codigo "PRC2";
+	:combustivel "gasolina";
+	:compressao 9.9 ;
+	:consumo 5.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 80 ;
+	:power_rpm 5200 ;
+	:torque 110 ;
+	:torque_rpm 3600 ;
+	:nome "1.2L 80 hp".
+
+:mot_PRC3 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1386 ;
+	:co2 150 ;
+	:codigo "PRC3";
+	:combustivel "gasolina";
+	:compressao 9.9 ;
+	:consumo 6.3 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 88 ;
+	:power_rpm 5200 ;
+	:torque 128 ;
+	:torque_rpm 3200 ;
+	:nome "1.4L 88 hp".
+
+:mot_PRC4 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1461 ;
+	:co2 120 ;
+	:codigo "PRC4";
+	:combustivel "gasoleo";
+	:compressao 18.8 ;
+	:consumo 4.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 86 ;
+	:power_rpm 3750 ;
+	:torque 200 ;
+	:torque_rpm 1900 ;
+	:nome "1.5L dCi 86 hp".
+
+:mot_PRC19 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1798 ;
+	:co2 188 ;
+	:codigo "PRC19";
+	:combustivel "gasolina";
+	:compressao 9.9 ;
+	:consumo 7.8 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 126 ;
+	:power_rpm 5200 ;
+	:torque 173 ;
+	:torque_rpm 4800 ;
+	:nome "1.8L 126 hp".
+
+:mot_PRC21 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3696 ;
+	:co2 249 ;
+	:codigo "PRC21";
+	:combustivel "gasolina";
+	:compressao 11 ;
+	:consumo 10.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 330 ;
+	:power_rpm 7000 ;
+	:torque 366 ;
+	:torque_rpm 5200 ;
+	:nome "3.7L V6 330 hp".
+
+:mot_PRC23 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3799 ;
+	:co2 298 ;
+	:codigo "PRC23";
+	:combustivel "gasolina";
+	:compressao 9 ;
+	:consumo 12.2 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 486 ;
+	:power_rpm 6400 ;
+	:torque 588 ;
+	:torque_rpm 3200 ;
+	:nome "3.8L V6 490 hp".
+
+:mot_PRC25 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 159 ;
+	:codigo "PRC25";
+	:combustivel "gasolina";
+	:compressao 10.7 ;
+	:consumo 6.7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 114 ;
+	:power_rpm 6000 ;
+	:torque 156 ;
+	:torque_rpm 4400 ;
+	:nome "1.6L 115 hp".
+
+:mot_PRC66 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 208 ;
+	:codigo "PRC66";
+	:combustivel "gasolina";
+	:compressao 10.2 ;
+	:consumo 8.7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 141 ;
+	:power_rpm 6000 ;
+	:torque 196 ;
+	:torque_rpm 4800 ;
+	:nome "2.0L 141 hp".
+
+:mot_PRC73 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2488 ;
+	:co2 264 ;
+	:codigo "PRC73";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 9.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 171 ;
+	:power_rpm 4000 ;
+	:torque 403 ;
+	:torque_rpm 2000 ;
+	:nome "2.5L dCi 171 hp".
+
+:mot_PRC76 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3498 ;
+	:co2 261 ;
+	:codigo "PRC76";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 10.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 256 ;
+	:power_rpm 6000 ;
+	:torque 334 ;
+	:torque_rpm 4400 ;
+	:nome "3.5L V6 S- 256 hp".
+
+:mot_PRC77 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3498 ;
+	:co2 295 ;
+	:codigo "PRC77";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 12.3 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 234 ;
+	:power_rpm 6000 ;
+	:torque 318 ;
+	:torque_rpm 3600 ;
+	:nome "3.5L V6 234 hp".
+
+:mot_PRC80 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 170 ;
+	:codigo "PRC80";
+	:combustivel "gasolina";
+	:compressao 9.5 ;
+	:consumo 7.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 87 ;
+	:power_rpm 5500 ;
+	:torque 128 ;
+	:torque_rpm 3000 ;
+	:nome "1.6L 90 hp".
+
+:mot_PRC96 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 998 ;
+	:co2 106 ;
+	:codigo "PRC96";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 4.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 68 ;
+	:power_rpm 6000 ;
+	:torque 93 ;
+	:torque_rpm 3600 ;
+	:nome "1.0L 68 hp".
+
+:mot_PRC98 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1399 ;
+	:co2 109 ;
+	:codigo "PRC98";
+	:combustivel "gasoleo";
+	:compressao 17.9 ;
+	:consumo 4.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 54 ;
+	:power_rpm 4000 ;
+	:torque 130 ;
+	:torque_rpm 1750 ;
+	:nome "1.4L HDi 55 hp".
+
+:mot_PRC103 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1361 ;
+	:co2 143 ;
+	:codigo "PRC103";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 6 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 73 ;
+	:power_rpm 5400 ;
+	:torque 118 ;
+	:torque_rpm 3300 ;
+	:nome "1.4L 73 hp".
+
+:mot_PRC106 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1361 ;
+	:co2 133 ;
+	:codigo "PRC106";
+	:combustivel "gasolina";
+	:compressao 10.2 ;
+	:consumo 5.6 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 88 ;
+	:power_rpm 5250 ;
+	:torque 133 ;
+	:torque_rpm 3250 ;
+	:nome "1.4L 90 hp".
+
+:mot_PRC108 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1587 ;
+	:co2 163 ;
+	:codigo "PRC108";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 6.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 122 ;
+	:power_rpm 6500 ;
+	:torque 143 ;
+	:torque_rpm 3750 ;
+	:nome "1.6L 120 hp".
+
+:mot_PRC120 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2179 ;
+	:co2 191 ;
+	:codigo "PRC120";
+	:combustivel "gasoleo";
+	:compressao 16.6 ;
+	:consumo 7.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 156 ;
+	:power_rpm 4000 ;
+	:torque 380 ;
+	:torque_rpm 2000 ;
+	:nome "2.2L HDi FAP 160 hp".
+
+:mot_PRC125 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2721 ;
+	:co2 230 ;
+	:codigo "PRC125";
+	:combustivel "gasoleo";
+	:compressao 17.3 ;
+	:consumo 8.7 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 204 ;
+	:power_rpm 4000 ;
+	:torque 440 ;
+	:torque_rpm 1900 ;
+	:nome "2.7L V6 HDi 205 hp".
+
+:mot_PRC129 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2946 ;
+	:co2 0 ;
+	:codigo "PRC129";
+	:combustivel "gasolina";
+	:compressao 10.9 ;
+	:consumo 11.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 204 ;
+	:power_rpm 6000 ;
+	:torque 285 ;
+	:torque_rpm 3750 ;
+	:nome "3.0L V6 205 hp".
+
+:mot_PRC135 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 213 ;
+	:codigo "PRC135";
+	:combustivel "gasolina";
+	:compressao 11.4 ;
+	:consumo 9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 140 ;
+	:power_rpm 6250 ;
+	:torque 195 ;
+	:torque_rpm 4000 ;
+	:nome "2.0L 143 hp".
+
+:mot_PRC136 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 188 ;
+	:codigo "PRC136";
+	:combustivel "gasoleo";
+	:compressao 17.6 ;
+	:consumo 7.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 136 ;
+	:power_rpm 4000 ;
+	:torque 320 ;
+	:torque_rpm 2000 ;
+	:nome "2.0L HDi FAP 138 hp".
+
+:mot_PRC137 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2179 ;
+	:co2 191 ;
+	:codigo "PRC137";
+	:combustivel "gasoleo";
+	:compressao 16.6 ;
+	:consumo 7.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 4000 ;
+	:torque 370 ;
+	:torque_rpm 1500 ;
+	:nome "2.2L HDi FAP 173 hp".
+
+:mot_PRC160 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1560 ;
+	:co2 120 ;
+	:codigo "PRC160";
+	:combustivel "gasoleo";
+	:compressao 18 ;
+	:consumo 4.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 109 ;
+	:power_rpm 4000 ;
+	:torque 240 ;
+	:torque_rpm 1750 ;
+	:nome "1.6L HDi 110 hp".
+
+:mot_PRC161 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1361 ;
+	:co2 0 ;
+	:codigo "PRC161";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 6.8 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 73 ;
+	:power_rpm 5400 ;
+	:torque 118 ;
+	:torque_rpm 3300 ;
+	:nome "1.4L 70 hp".
+
+:mot_PRC191 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1997 ;
+	:co2 175 ;
+	:codigo "PRC191";
+	:combustivel "gasoleo";
+	:compressao 17.6 ;
+	:consumo 6.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 136 ;
+	:power_rpm 4000 ;
+	:torque 320 ;
+	:torque_rpm 2000 ;
+	:nome "2.0L HDi FAP 135 hp".
+
+:mot_PRC225 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1749 ;
+	:co2 188 ;
+	:codigo "PRC225";
+	:combustivel "gasolina";
+	:compressao 11 ;
+	:consumo 7.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 125 ;
+	:power_rpm 6000 ;
+	:torque 170 ;
+	:torque_rpm 3750 ;
+	:nome "1.8L 127 hp".
+
+:mot_PRC235 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2946 ;
+	:co2 248 ;
+	:codigo "PRC235";
+	:combustivel "gasolina";
+	:compressao 10.9 ;
+	:consumo 10.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 211 ;
+	:power_rpm 6000 ;
+	:torque 290 ;
+	:torque_rpm 3750 ;
+	:nome "3.0L V6 215 hp".
+
+:mot_PRC236 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2721 ;
+	:co2 223 ;
+	:codigo "PRC236";
+	:combustivel "gasoleo";
+	:compressao 17.3 ;
+	:consumo 8.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 204 ;
+	:power_rpm 4000 ;
+	:torque 440 ;
+	:torque_rpm 1900 ;
+	:nome "2.7L HDi V6 FAP 208 hp".
+
+:mot_PRC244 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1124 ;
+	:co2 130 ;
+	:codigo "PRC244";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 5.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 75 ;
+	:power_rpm 6000 ;
+	:torque 100 ;
+	:torque_rpm 3500 ;
+	:nome "1.1L 75 hp".
+
+:mot_PRC246 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1332 ;
+	:co2 143 ;
+	:codigo "PRC246";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 6 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 95 ;
+	:power_rpm 6000 ;
+	:torque 125 ;
+	:torque_rpm 4000 ;
+	:nome "1.3L 95 hp".
+
+:mot_PRC247 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1499 ;
+	:co2 0 ;
+	:codigo "PRC247";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 6.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 109 ;
+	:power_rpm 6000 ;
+	:torque 145 ;
+	:torque_rpm 4000 ;
+	:nome "1.5L 110 hp".
+
+:mot_PRC248 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1493 ;
+	:co2 129 ;
+	:codigo "PRC248";
+	:combustivel "gasolina";
+	:compressao 18 ;
+	:consumo 4.8 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 95 ;
+	:power_rpm 4000 ;
+	:torque 210 ;
+	:torque_rpm 1800 ;
+	:nome "1.5L DI-D 95 hp".
+
+:mot_PRC262 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1468 ;
+	:co2 168 ;
+	:codigo "PRC262";
+	:combustivel "gasolina";
+	:compressao 9 ;
+	:consumo 7.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 145 ;
+	:power_rpm 6000 ;
+	:torque 210 ;
+	:torque_rpm 3500 ;
+	:nome "1.5L T 145 hp".
+
+:mot_PRC265 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1468 ;
+	:co2 161 ;
+	:codigo "PRC265";
+	:combustivel "gasolina";
+	:compressao 9 ;
+	:consumo 6.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 6000 ;
+	:torque 210 ;
+	:torque_rpm 3500 ;
+	:nome "1.5L T 150 hp".
+
+:mot_PRC266 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1798 ;
+	:co2 188 ;
+	:codigo "PRC266";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 7.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 143 ;
+	:power_rpm 6000 ;
+	:torque 178 ;
+	:torque_rpm 4250 ;
+	:nome "1.8L 140 hp".
+
+:mot_PRC269 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 165 ;
+	:codigo "PRC269";
+	:combustivel "gasolina";
+	:compressao 18 ;
+	:consumo 6.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 140 ;
+	:power_rpm 4000 ;
+	:torque 310 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L DI-D 140 hp".
+
+:mot_PRC271 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1998 ;
+	:co2 243 ;
+	:codigo "PRC271";
+	:combustivel "gasolina";
+	:compressao 9 ;
+	:consumo 10.2 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 241 ;
+	:power_rpm 6000 ;
+	:torque 343 ;
+	:torque_rpm 2500 ;
+	:nome "2.0L T 240 hp".
+
+:mot_PRC275 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1998 ;
+	:co2 243 ;
+	:codigo "PRC275";
+	:combustivel "gasolina";
+	:compressao 9 ;
+	:consumo 10.2 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 295 ;
+	:power_rpm 6500 ;
+	:torque 366 ;
+	:torque_rpm 3500 ;
+	:nome "2.0L T 295 hp".
+
+:mot_PRC282 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2179 ;
+	:co2 194 ;
+	:codigo "PRC282";
+	:combustivel "gasolina";
+	:compressao 16.6 ;
+	:consumo 7.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 156 ;
+	:power_rpm 4000 ;
+	:torque 380 ;
+	:torque_rpm 2000 ;
+	:nome "2.2L DI-D 140 hp".
+
+:mot_PRC285 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3200 ;
+	:co2 244 ;
+	:codigo "PRC285";
+	:combustivel "gasolina";
+	:compressao 17 ;
+	:consumo 9.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 160 ;
+	:power_rpm 3800 ;
+	:torque 381 ;
+	:torque_rpm 2000 ;
+	:nome "3.2L DI-D 160 hp".
+
+:mot_PRC287 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3200 ;
+	:co2 278 ;
+	:codigo "PRC287";
+	:combustivel "gasolina";
+	:compressao 17 ;
+	:consumo 10.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 3800 ;
+	:torque 373 ;
+	:torque_rpm 2000 ;
+	:nome "3.2L DI-D 170 hp".
+
+:mot_PRC291 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3828 ;
+	:co2 324 ;
+	:codigo "PRC291";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 13.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 250 ;
+	:power_rpm 6000 ;
+	:torque 329 ;
+	:torque_rpm 2750 ;
+	:nome "3.8L V6 250 hp".
+
+:mot_PRC292 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2477 ;
+	:co2 228 ;
+	:codigo "PRC292";
+	:combustivel "gasolina";
+	:compressao 17.5 ;
+	:consumo 8.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 136 ;
+	:power_rpm 4000 ;
+	:torque 314 ;
+	:torque_rpm 2000 ;
+	:nome "2.5L DI-D 136 hp".
+
+:mot_PRC293 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1198 ;
+	:co2 146 ;
+	:codigo "PRC293";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 6.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 54 ;
+	:power_rpm 4750 ;
+	:torque 108 ;
+	:torque_rpm 3000 ;
+	:nome "1.2L 55 hp 3 cyl.".
+
+:mot_PRC295 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1422 ;
+	:co2 132 ;
+	:codigo "PRC295";
+	:combustivel "gasoleo";
+	:compressao 19.5 ;
+	:consumo 4.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 69 ;
+	:power_rpm 4000 ;
+	:torque 155 ;
+	:torque_rpm 1600 ;
+	:nome "1.4L TDI 70 hp 3 cyl.".
+
+:mot_PRC296 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1198 ;
+	:co2 138 ;
+	:codigo "PRC296";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 5.8 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 60 ;
+	:power_rpm 5200 ;
+	:torque 108 ;
+	:torque_rpm 3000 ;
+	:nome "1.2L 60 hp 3 cyl.".
+
+:mot_PRC297 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 150 ;
+	:codigo "PRC297";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 6.3 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 80 ;
+	:power_rpm 5000 ;
+	:torque 132 ;
+	:torque_rpm 3800 ;
+	:nome "1.4L 80 hp".
+
+:mot_PRC302 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1422 ;
+	:co2 119 ;
+	:codigo "PRC302";
+	:combustivel "gasoleo";
+	:compressao 19.5 ;
+	:consumo 4.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 80 ;
+	:power_rpm 4000 ;
+	:torque 195 ;
+	:torque_rpm 2200 ;
+	:nome "1.4L TDI 80 hp".
+
+:mot_PRC303 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1422 ;
+	:co2 99 ;
+	:codigo "PRC303";
+	:combustivel "gasoleo";
+	:compressao 19.5 ;
+	:consumo 3.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 80 ;
+	:power_rpm 4000 ;
+	:torque 195 ;
+	:torque_rpm 1800 ;
+	:nome "1.4L TDI80 hp".
+
+:mot_PRC305 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 127 ;
+	:codigo "PRC305";
+	:combustivel "gasoleo";
+	:compressao 19 ;
+	:consumo 4.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 101 ;
+	:power_rpm 4000 ;
+	:torque 240 ;
+	:torque_rpm 1800 ;
+	:nome "1.9L TDI 100 hp".
+
+:mot_PRC306 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1781 ;
+	:co2 186 ;
+	:codigo "PRC306";
+	:combustivel "gasolina";
+	:compressao 9.5 ;
+	:consumo 7.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 5800 ;
+	:torque 220 ;
+	:torque_rpm 1950 ;
+	:nome "1.8L T 150 hp".
+
+:mot_PRC312 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1198 ;
+	:co2 128 ;
+	:codigo "PRC312";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 5.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 69 ;
+	:power_rpm 5400 ;
+	:torque 112 ;
+	:torque_rpm 3000 ;
+	:nome "1.2L 69 hp 3 cyl.".
+
+:mot_PRC313 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 139 ;
+	:codigo "PRC313";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 5.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 86 ;
+	:power_rpm 5000 ;
+	:torque 132 ;
+	:torque_rpm 3800 ;
+	:nome "1.4L 86 hp".
+
+:mot_PRC315 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada  ;
+	:co2 129 ;
+	:codigo "PRC315";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 5.5 ;
+	:descricao "";
+	:materialBloco "";
+	:materialCilindros "";
+	:power 105 ;
+	:power_rpm ? ;
+	:torque  ;
+	:torque_rpm  ;
+	:nome "1.2L TSI 105 hp".
+
+:mot_PRC316 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 109 ;
+	:codigo "PRC316";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 4.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 75 ;
+	:power_rpm 4000 ;
+	:torque 195 ;
+	:torque_rpm 1500 ;
+	:nome "1.6L TDI 75 hp".
+
+:mot_PRC317 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 109 ;
+	:codigo "PRC317";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 4.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 90 ;
+	:power_rpm 4200 ;
+	:torque 230 ;
+	:torque_rpm 1500 ;
+	:nome "1.6L TDI 90 hp".
+
+:mot_PRC320 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 109 ;
+	:codigo "PRC320";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 4.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 105 ;
+	:power_rpm 4400 ;
+	:torque 250 ;
+	:torque_rpm 1500 ;
+	:nome "1.6L TDI 105 hp".
+
+:mot_PRC321 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 149 ;
+	:codigo "PRC321";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 6.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 122 ;
+	:power_rpm 5000 ;
+	:torque 200 ;
+	:torque_rpm 1500 ;
+	:nome "1.4L TSI 122 hp".
+
+:mot_PRC322 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 154 ;
+	:codigo "PRC322";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 6.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 160 ;
+	:power_rpm 5800 ;
+	:torque 240 ;
+	:torque_rpm 1500 ;
+	:nome "1.4L TSI 160 hp".
+
+:mot_PRC324 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 179 ;
+	:codigo "PRC324";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 7.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 200 ;
+	:power_rpm 5100 ;
+	:torque 280 ;
+	:torque_rpm 1700 ;
+	:nome "2.0L TSI 200 hp".
+
+:mot_PRC326 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 134 ;
+	:codigo "PRC326";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 140 ;
+	:power_rpm 4200 ;
+	:torque 320 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI 140 hp".
+
+:mot_PRC328 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 139 ;
+	:codigo "PRC328";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 4200 ;
+	:torque 350 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI 170 hp".
+
+:mot_PRC330 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 194 ;
+	:codigo "PRC330";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 8.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 265 ;
+	:power_rpm 6000 ;
+	:torque 350 ;
+	:torque_rpm 2500 ;
+	:nome "2.0L TSI 265 hp".
+
+:mot_PRC333 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 0 ;
+	:codigo "PRC333";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 8.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 116 ;
+	:power_rpm 5400 ;
+	:torque 172 ;
+	:torque_rpm 3200 ;
+	:nome "2.0L 116 hp".
+
+:mot_PRC337 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2324 ;
+	:co2 0 ;
+	:codigo "PRC337";
+	:combustivel "gasolina";
+	:compressao 10.8 ;
+	:consumo 8.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 6200 ;
+	:torque 220 ;
+	:torque_rpm 3300 ;
+	:nome "2.3L V5 170 hp".
+
+:mot_PRC338 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3200 ;
+	:co2 0 ;
+	:codigo "PRC338";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 0 ;
+	:descricao "";
+	:materialBloco "";
+	:materialCilindros "";
+	:power 225 ;
+	:power_rpm 6200 ;
+	:torque 317 ;
+	:torque_rpm 3200 ;
+	:nome "3.2L V6 225 hp".
+
+:mot_PRC343 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3189 ;
+	:co2 219 ;
+	:codigo "PRC343";
+	:combustivel "gasolina";
+	:compressao 10.9 ;
+	:consumo 9.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 250 ;
+	:power_rpm 6300 ;
+	:torque 320 ;
+	:torque_rpm 2500 ;
+	:nome "3.2L V6 250 hp".
+
+:mot_PRC344 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 152 ;
+	:codigo "PRC344";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 140 ;
+	:power_rpm 4200 ;
+	:torque 320 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI140 hp".
+
+:mot_PRC346 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1595 ;
+	:co2 178 ;
+	:codigo "PRC346";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 7.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 102 ;
+	:power_rpm 5600 ;
+	:torque 148 ;
+	:torque_rpm 3800 ;
+	:nome "1.6L 102 hp".
+
+:mot_PRC347 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 166 ;
+	:codigo "PRC347";
+	:combustivel "gasolina";
+	:compressao 12 ;
+	:consumo 6.8 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 116 ;
+	:power_rpm 6000 ;
+	:torque 155 ;
+	:torque_rpm 4000 ;
+	:nome "1.6L FSI 115 hp".
+
+:mot_PRC348 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 140 ;
+	:codigo "PRC348";
+	:combustivel "gasoleo";
+	:compressao 19 ;
+	:consumo 5.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 105 ;
+	:power_rpm 4000 ;
+	:torque 250 ;
+	:torque_rpm 1900 ;
+	:nome "1.9L TDI 105 hp".
+
+:mot_PRC353 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2792 ;
+	:co2 0 ;
+	:codigo "PRC353";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 10.5 ;
+	:descricao "";
+	:materialBloco "";
+	:materialCilindros "";
+	:power 204 ;
+	:power_rpm 6200 ;
+	:torque 265 ;
+	:torque_rpm 3400 ;
+	:nome "2.8L V6 204 hp".
+
+:mot_PRC354 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 0 ;
+	:codigo "PRC354";
+	:combustivel "gasoleo";
+	:compressao 0 ;
+	:consumo 6.3 ;
+	:descricao "";
+	:materialBloco "";
+	:materialCilindros "";
+	:power 115 ;
+	:power_rpm 4000 ;
+	:torque 310 ;
+	:torque_rpm 1900 ;
+	:nome "1.9L TDI 115 hp".
+
+:mot_PRC357 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 158 ;
+	:codigo "PRC357";
+	:combustivel "gasoleo";
+	:compressao 0 ;
+	:consumo 6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 75 ;
+	:power_rpm 4000 ;
+	:torque 210 ;
+	:torque_rpm 1900 ;
+	:nome "1.9L TDI 75 hp".
+
+:mot_PRC358 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 164 ;
+	:codigo "PRC358";
+	:combustivel "gasoleo";
+	:compressao 19 ;
+	:consumo 6.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 105 ;
+	:power_rpm 4000 ;
+	:torque 250 ;
+	:torque_rpm 1900 ;
+	:nome "1.9L TDI 104 hp".
+
+:mot_PRC364 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 189 ;
+	:codigo "PRC364";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 200 ;
+	:power_rpm 6000 ;
+	:torque 280 ;
+	:torque_rpm 1800 ;
+	:nome "2.0L TFSI 200 hp".
+
+:mot_PRC373 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 169 ;
+	:codigo "PRC373";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 7.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 140 ;
+	:power_rpm 5600 ;
+	:torque 220 ;
+	:torque_rpm 1500 ;
+	:nome "1.4L TSI 140 hp".
+
+:mot_PRC374 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 174 ;
+	:codigo "PRC374";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 7.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 6000 ;
+	:torque 240 ;
+	:torque_rpm 1750 ;
+	:nome "1.4L TSI 170 hp".
+
+:mot_PRC383 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 170 ;
+	:codigo "PRC383";
+	:combustivel "gasolina";
+	:compressao 9.6 ;
+	:consumo 7.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 211 ;
+	:power_rpm 5300 ;
+	:torque 280 ;
+	:torque_rpm 1700 ;
+	:nome "2.0L TSI 210 hp".
+
+:mot_PRC385 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 107 ;
+	:codigo "PRC385";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 4.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 105 ;
+	:power_rpm 4400 ;
+	:torque 250 ;
+	:torque_rpm 1500 ;
+	:nome "1.6L TDI105 hp".
+
+:mot_PRC392 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 139 ;
+	:codigo "PRC392";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 4200 ;
+	:torque 350 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI170 hp".
+
+:mot_PRC416 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 157 ;
+	:codigo "PRC416";
+	:combustivel "gasoleo";
+	:compressao 19 ;
+	:consumo 6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 90 ;
+	:power_rpm 4000 ;
+	:torque 210 ;
+	:torque_rpm 1800 ;
+	:nome "1.9L TDI 90 hp".
+
+:mot_PRC440 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 0 ;
+	:codigo "PRC440";
+	:combustivel "gasoleo";
+	:compressao 18 ;
+	:consumo 6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 136 ;
+	:power_rpm 4000 ;
+	:torque 320 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI 136 hp".
+
+:mot_PRC442 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1798 ;
+	:co2 178 ;
+	:codigo "PRC442";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 7.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 160 ;
+	:power_rpm 6200 ;
+	:torque 250 ;
+	:torque_rpm 1500 ;
+	:nome "1.8L TSI 160 hp".
+
+:mot_PRC450 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3598 ;
+	:co2 242 ;
+	:codigo "PRC450";
+	:combustivel "gasolina";
+	:compressao 11.4 ;
+	:consumo 10.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 299 ;
+	:power_rpm 6600 ;
+	:torque 350 ;
+	:torque_rpm 2400 ;
+	:nome "3.6L V6 FSI 300 hp".
+
+:mot_PRC459 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3168 ;
+	:co2 223 ;
+	:codigo "PRC459";
+	:combustivel "gasolina";
+	:compressao 12 ;
+	:consumo 9.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 250 ;
+	:power_rpm 6250 ;
+	:torque 330 ;
+	:torque_rpm 2750 ;
+	:nome "3.2L V6 FSI 250 hp".
+
+:mot_PRC461 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 143 ;
+	:codigo "PRC461";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 110 ;
+	:power_rpm 4200 ;
+	:torque 250 ;
+	:torque_rpm 1500 ;
+	:nome "2.0L TDI110 hp".
+
+:mot_PRC495 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2967 ;
+	:co2 239 ;
+	:codigo "PRC495";
+	:combustivel "gasoleo";
+	:compressao 16.8 ;
+	:consumo 9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 239 ;
+	:power_rpm 4000 ;
+	:torque 500 ;
+	:torque_rpm 1500 ;
+	:nome "3.0L V6 TDI 240 hp".
+
+:mot_PRC496 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3598 ;
+	:co2 273 ;
+	:codigo "PRC496";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 11.7 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 280 ;
+	:power_rpm 6250 ;
+	:torque 370 ;
+	:torque_rpm 3500 ;
+	:nome "3.6L V6 280 hp".
+
+:mot_PRC497 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 5998 ;
+	:co2 348 ;
+	:codigo "PRC497";
+	:combustivel "gasolina";
+	:compressao 10.8 ;
+	:consumo 14.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 450 ;
+	:power_rpm 6050 ;
+	:torque 560 ;
+	:torque_rpm 2750 ;
+	:nome "6.0L W12 450 hp".
+
+:mot_PRC498 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 4921 ;
+	:co2 308 ;
+	:codigo "PRC498";
+	:combustivel "gasoleo";
+	:compressao 18.5 ;
+	:consumo 11.4 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 313 ;
+	:power_rpm 3750 ;
+	:torque 750 ;
+	:torque_rpm 2000 ;
+	:nome "5.0L V10 TDI 313 hp".
+
+:mot_PRC499 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3189 ;
+	:co2 0 ;
+	:codigo "PRC499";
+	:combustivel "gasolina";
+	:compressao 11.25 ;
+	:consumo 11.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 241 ;
+	:power_rpm 6200 ;
+	:torque 315 ;
+	:torque_rpm 2400 ;
+	:nome "3.2L V6 240 hp".
+
+:mot_PRC501 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 171 ;
+	:codigo "PRC501";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 7.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 120 ;
+	:power_rpm 5800 ;
+	:torque 240 ;
+	:torque_rpm 1750 ;
+	:nome "1.4L TSI 150 hp".
+
+:mot_PRC509 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 213 ;
+	:codigo "PRC509";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 8.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 4300 ;
+	:torque 280 ;
+	:torque_rpm 1700 ;
+	:nome "2.0L TSI 170 hp".
+
+:mot_PRC519 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2461 ;
+	:co2 267 ;
+	:codigo "PRC519";
+	:combustivel "gasoleo";
+	:compressao 18.5 ;
+	:consumo 10.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 174 ;
+	:power_rpm 3500 ;
+	:torque 400 ;
+	:torque_rpm 2000 ;
+	:nome "2.5L TDI R5 174 hp".
+
+:mot_PRC525 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3598 ;
+	:co2 317 ;
+	:codigo "PRC525";
+	:combustivel "gasolina";
+	:compressao 12 ;
+	:consumo 13.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 280 ;
+	:power_rpm 6200 ;
+	:torque 360 ;
+	:torque_rpm 2500 ;
+	:nome "3.6L V6 FSI 280 hp".
+
+:mot_PRC527 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 4163 ;
+	:co2 329 ;
+	:codigo "PRC527";
+	:combustivel "gasolina";
+	:compressao 12.5 ;
+	:consumo 13.8 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 350 ;
+	:power_rpm 6800 ;
+	:torque 440 ;
+	:torque_rpm 3500 ;
+	:nome "4.2L V8 350 hp".
+
+:mot_PRC530 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 4921 ;
+	:co2 315 ;
+	:codigo "PRC530";
+	:combustivel "gasoleo";
+	:compressao 18.5 ;
+	:consumo 11.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 351 ;
+	:power_rpm 3500 ;
+	:torque 850 ;
+	:torque_rpm 2000 ;
+	:nome "5.0L V10 TDI 350 hp".
+
+:mot_PRC534 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1198 ;
+	:co2 140 ;
+	:codigo "PRC534";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 5.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 69 ;
+	:power_rpm 5400 ;
+	:torque 112 ;
+	:torque_rpm 3000 ;
+	:nome "1.2L 70 hp 3 cyl.".
+
+:mot_PRC537 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 155 ;
+	:codigo "PRC537";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 6.5 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 86 ;
+	:power_rpm 5000 ;
+	:torque 132 ;
+	:torque_rpm 3800 ;
+	:nome "1.4L 85 hp".
+
+:mot_PRC542 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1422 ;
+	:co2 120 ;
+	:codigo "PRC542";
+	:combustivel "gasoleo";
+	:compressao 19.5 ;
+	:consumo 4.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 80 ;
+	:power_rpm 4000 ;
+	:torque 195 ;
+	:torque_rpm 2200 ;
+	:nome "1.4L TDI 80 hp 3cyl.".
+
+:mot_PRC543 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1422 ;
+	:co2 120 ;
+	:codigo "PRC543";
+	:combustivel "gasoleo";
+	:compressao 19.5 ;
+	:consumo 4.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 80 ;
+	:power_rpm 4000 ;
+	:torque 195 ;
+	:torque_rpm 2200 ;
+	:nome "1.4L TDI 80 hp 3 cyl.".
+
+:mot_PRC544 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1422 ;
+	:co2 109 ;
+	:codigo "PRC544";
+	:combustivel "gasoleo";
+	:compressao 19.5 ;
+	:consumo 4.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 80 ;
+	:power_rpm 4000 ;
+	:torque 195 ;
+	:torque_rpm 2200 ;
+	:nome "1.4L TDI 80 hp3 cyl.".
+
+:mot_PRC606 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 157 ;
+	:codigo "PRC606";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 6.8 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 125 ;
+	:power_rpm 5000 ;
+	:torque 200 ;
+	:torque_rpm 1500 ;
+	:nome "1.4L TSI 125 hp".
+
+:mot_PRC613 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3598 ;
+	:co2 238 ;
+	:codigo "PRC613";
+	:combustivel "gasolina";
+	:compressao 11.4 ;
+	:consumo 10 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 260 ;
+	:power_rpm 6000 ;
+	:torque 350 ;
+	:torque_rpm 2500 ;
+	:nome "3.6L V6 FSI 260 hp".
+
+:mot_PRC625 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1198 ;
+	:co2 142 ;
+	:codigo "PRC625";
+	:combustivel "gasolina";
+	:compressao 10.5 ;
+	:consumo 5.9 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 64 ;
+	:power_rpm 5400 ;
+	:torque 112 ;
+	:torque_rpm 3000 ;
+	:nome "1.2L 64 hp 3 cyl.".
+
+:mot_PRC631 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1781 ;
+	:co2 190 ;
+	:codigo "PRC631";
+	:combustivel "gasolina";
+	:compressao 9.5 ;
+	:consumo 7.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 180 ;
+	:power_rpm 5800 ;
+	:torque 245 ;
+	:torque_rpm 2000 ;
+	:nome "1.8L T 180 hp".
+
+:mot_PRC637 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 140 ;
+	:codigo "PRC637";
+	:combustivel "gasoleo";
+	:compressao 19 ;
+	:consumo 5.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 131 ;
+	:power_rpm 4000 ;
+	:torque 310 ;
+	:torque_rpm 1900 ;
+	:nome "1.9L TDI 130 hp".
+
+:mot_PRC638 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 146 ;
+	:codigo "PRC638";
+	:combustivel "gasoleo";
+	:compressao 19 ;
+	:consumo 5.4 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 160 ;
+	:power_rpm 3750 ;
+	:torque 330 ;
+	:torque_rpm 1900 ;
+	:nome "1.9L TDI 160 hp".
+
+:mot_PRC648 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 159 ;
+	:codigo "PRC648";
+	:combustivel "gasolina";
+	:compressao 0 ;
+	:consumo 6.7 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 180 ;
+	:power_rpm ? ;
+	:torque 250 ;
+	:torque_rpm 1750 ;
+	:nome "1.4L TSI 180 hp".
+
+:mot_PRC651 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1598 ;
+	:co2 109 ;
+	:codigo "PRC651";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 4.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 90 ;
+	:power_rpm 4000 ;
+	:torque 210 ;
+	:torque_rpm 1800 ;
+	:nome "1.6L TDI90 hp".
+
+:mot_PRC680 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 170 ;
+	:codigo "PRC680";
+	:combustivel "gasolina";
+	:compressao 9.5 ;
+	:consumo 7.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 211 ;
+	:power_rpm 5300 ;
+	:torque 280 ;
+	:torque_rpm 1700 ;
+	:nome "2.0L TSI 211 hp".
+
+:mot_PRC682 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 199 ;
+	:codigo "PRC682";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 8.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 241 ;
+	:power_rpm 5700 ;
+	:torque 300 ;
+	:torque_rpm 2200 ;
+	:nome "2.0L TSI 240 hp".
+
+:mot_PRC723 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 201 ;
+	:codigo "PRC723";
+	:combustivel "gasolina";
+	:compressao 11.5 ;
+	:consumo 8.4 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 6000 ;
+	:torque 200 ;
+	:torque_rpm 3500 ;
+	:nome "2.0L FSI 150 hp".
+
+:mot_PRC735 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1781 ;
+	:co2 184 ;
+	:codigo "PRC735";
+	:combustivel "gasolina";
+	:compressao 9.5 ;
+	:consumo 7.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 150 ;
+	:power_rpm 5500 ;
+	:torque 220 ;
+	:torque_rpm 2000 ;
+	:nome "1.8L 150 hp".
+
+:mot_PRC738 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 146 ;
+	:codigo "PRC738";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 143 ;
+	:power_rpm 4200 ;
+	:torque 320 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI143 hp".
+
+:mot_PRC740 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 153 ;
+	:codigo "PRC740";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 170 ;
+	:power_rpm 4200 ;
+	:torque 350 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI170hp".
+
+:mot_PRC756 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1390 ;
+	:co2 140 ;
+	:codigo "PRC756";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 5.9 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 125 ;
+	:power_rpm 5000 ;
+	:torque 200 ;
+	:torque_rpm 1500 ;
+	:nome "1.4L TFSI 125 hp".
+
+:mot_PRC760 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1798 ;
+	:co2 155 ;
+	:codigo "PRC760";
+	:combustivel "gasolina";
+	:compressao 9.6 ;
+	:consumo 6.7 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 160 ;
+	:power_rpm 5000 ;
+	:torque 250 ;
+	:torque_rpm 1500 ;
+	:nome "1.8L TFSI 160 hp".
+
+:mot_PRC769 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 198 ;
+	:codigo "PRC769";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 8.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 265 ;
+	:power_rpm 6000 ;
+	:torque 350 ;
+	:torque_rpm 2500 ;
+	:nome "2.0L TFSI 265 hp".
+
+:mot_PRC772 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1896 ;
+	:co2 119 ;
+	:codigo "PRC772";
+	:combustivel "gasoleo";
+	:compressao 18.5 ;
+	:consumo 4.5 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 105 ;
+	:power_rpm 4000 ;
+	:torque 250 ;
+	:torque_rpm 1900 ;
+	:nome "1.9L TDIe 105 hp".
+
+:mot_PRC813 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 188 ;
+	:codigo "PRC813";
+	:combustivel "gasolina";
+	:compressao 9.8 ;
+	:consumo 8.1 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 272 ;
+	:power_rpm 6000 ;
+	:torque 350 ;
+	:torque_rpm 2500 ;
+	:nome "2.0L TFSI 272 hp".
+
+:mot_PRC815 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2480 ;
+	:co2 214 ;
+	:codigo "PRC815";
+	:combustivel "gasolina";
+	:compressao 10 ;
+	:consumo 9.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 340 ;
+	:power_rpm 6500 ;
+	:torque 450 ;
+	:torque_rpm 1600 ;
+	:nome "2.5L 340 hp5 cyl.".
+
+:mot_PRC827 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1798 ;
+	:co2 164 ;
+	:codigo "PRC827";
+	:combustivel "gasolina";
+	:compressao 9.6 ;
+	:consumo 7.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 120 ;
+	:power_rpm 6200 ;
+	:torque 250 ;
+	:torque_rpm 1500 ;
+	:nome "1.8L TFSI 120 hp".
+
+:mot_PRC832 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 154 ;
+	:codigo "PRC832";
+	:combustivel "gasolina";
+	:compressao 9.6 ;
+	:consumo 6.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 180 ;
+	:power_rpm 4000 ;
+	:torque 320 ;
+	:torque_rpm 1500 ;
+	:nome "2.0L TFSI 180 hp".
+
+:mot_PRC834 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1984 ;
+	:co2 154 ;
+	:codigo "PRC834";
+	:combustivel "gasolina";
+	:compressao 9.6 ;
+	:consumo 6.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 211 ;
+	:power_rpm 6000 ;
+	:torque 350 ;
+	:torque_rpm 1500 ;
+	:nome "2.0L TFSI 211 hp".
+
+:mot_PRC838 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 3123 ;
+	:co2 194 ;
+	:codigo "PRC838";
+	:combustivel "gasolina";
+	:compressao 12.5 ;
+	:consumo 8.2 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 265 ;
+	:power_rpm 6500 ;
+	:torque 330 ;
+	:torque_rpm 3000 ;
+	:nome "3.2L V6 FSI 265 hp".
+
+:mot_PRC841 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2995 ;
+	:co2 225 ;
+	:codigo "PRC841";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 9.7 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 333 ;
+	:power_rpm 7000 ;
+	:torque 440 ;
+	:torque_rpm 2900 ;
+	:nome "3.0L V6 TFSI 333 hp".
+
+:mot_PRC843 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 134 ;
+	:codigo "PRC843";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.1 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 120 ;
+	:power_rpm 4200 ;
+	:torque 290 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI 120 hp".
+
+:mot_PRC844 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 1968 ;
+	:co2 139 ;
+	:codigo "PRC844";
+	:combustivel "gasoleo";
+	:compressao 16.5 ;
+	:consumo 5.3 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 143 ;
+	:power_rpm 4200 ;
+	:torque 320 ;
+	:torque_rpm 1750 ;
+	:nome "2.0L TDI 143 hp".
+
+:mot_PRC849 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2698 ;
+	:co2 159 ;
+	:codigo "PRC849";
+	:combustivel "gasoleo";
+	:compressao 16.8 ;
+	:consumo 6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 190 ;
+	:power_rpm 3500 ;
+	:torque 400 ;
+	:torque_rpm 1400 ;
+	:nome "2.7L V6 TDI 190 hp".
+
+:mot_PRC898 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2967 ;
+	:co2 173 ;
+	:codigo "PRC898";
+	:combustivel "gasoleo";
+	:compressao 17 ;
+	:consumo 6.6 ;
+	:descricao "";
+	:materialBloco "cast iron";
+	:materialCilindros "aluminium";
+	:power 239 ;
+	:power_rpm 4000 ;
+	:torque 500 ;
+	:torque_rpm 1500 ;
+	:nome "3.0L V6 TDI 239 hp".
+
+:mot_PRC912 rdf:type owl:NamedIndividual , :Motor; 
+	:cilindrada 2995 ;
+	:co2 224 ;
+	:codigo "PRC912";
+	:combustivel "gasolina";
+	:compressao 10.3 ;
+	:consumo 10.3 ;
+	:descricao "";
+	:materialBloco "aluminium";
+	:materialCilindros "aluminium";
+	:power 333 ;
+	:power_rpm 7000 ;
+	:torque 440 ;
+	:torque_rpm 2900 ;
+	:nome "3.0L V6 TFSI 330 hp".
+

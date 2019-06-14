@@ -1,0 +1,1378 @@
+### Modelos ###
+
+:mo_Twingo rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Twingo".
+
+:mo_Clio_Campus_3p_Exp rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio Campus 3p Exp".
+
+:mo_Clio_Campus_3p_Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio Campus 3p Dyn".
+
+:mo_Clio_Campus_5p_Exp rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio Campus 5p Exp".
+
+:mo_Clio_Campus_5p_Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio Campus 5p Dyn".
+
+:mo_Clio rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio".
+
+:mo_Clio_Exc rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio Exc".
+
+:mo_Clio__Exc rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio  Exc".
+
+:mo_Clio_GT_3p_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio GT 3p.".
+
+:mo_Clio_RS_3p_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio RS 3p.".
+
+:mo_Clio_Grand_Tour rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio Grand Tour".
+
+:mo_Clio_Grand_Tour_Exc rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Clio Grand Tour Exc".
+
+:mo_Kangoo_Bebop rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Kangoo Bebop".
+
+:mo_Modus rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Modus".
+
+:mo_Modus_Exc rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Modus Exc".
+
+:mo_Megane_3_Berline rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 3 Berline".
+
+:mo_Megane_3_Berline_Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 3 Berline Dyn".
+
+:mo_Megane_3_Coup_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 3 Coupé".
+
+:mo_Megane_3_Coup__Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 3 Coupé Dyn".
+
+:mo_Megane_2__2003_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 (2003)".
+
+:mo_Megane_2__2003__Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 (2003) Dyn".
+
+:mo_Megane_2__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 (2006)".
+
+:mo_Megane_2__2006__Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 (2006) Dyn".
+
+:mo_Megane_2_Grand_Tour rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 Grand Tour".
+
+:mo_Megane_2_Grand_Tour_Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 Grand Tour Dyn".
+
+:mo_Megane_2_Grand_Tour_Proactiva rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 Grand Tour Proactiva".
+
+:mo_Megane_2_Grand_Tour_Dyn_Proactiva rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 Grand Tour Dyn Proactiva".
+
+:mo_Megane_2_RS rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 RS".
+
+:mo_Megane_2_R26_R rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 R26.R".
+
+:mo_Megane_2_CC rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 CC".
+
+:mo_Megane_2_CC_Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Megane 2 CC Dyn".
+
+:mo_Scenic rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Scenic".
+
+:mo_Scenic_Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Scenic Dyn".
+
+:mo_Grand_Sc_nic_5_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Scénic 5 pl.".
+
+:mo_Grand_Sc_nic_7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Scénic 7 pl.".
+
+:mo_Grand_Sc_nic_7_pl__Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Scénic 7 pl. Dyn".
+
+:mo_Grand_Sc_nic_5_pl__Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Scénic 5 pl. Dyn".
+
+:mo_Sc_nic__2006__5_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Scénic (2006) 5 pl.".
+
+:mo_Sc_nic__2006__5_pl__Dyn rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Scénic (2006) 5 pl. Dyn".
+
+:mo_Grand_Sc_nic__2006__5_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Scénic (2006) 5 pl.".
+
+:mo_Grand_Sc_nic__2006__7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Scénic (2006) 7 pl.".
+
+:mo_Koleos rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Koleos".
+
+:mo_Vel_Satis rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Vel Satis".
+
+:mo_Espace rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Espace".
+
+:mo_Espace_Imp_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Espace Imp.".
+
+:mo_Espace_Pri_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Espace Pri.".
+
+:mo_Grand_Espace rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Espace".
+
+:mo_Grand_Espace_Pri_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grand Espace Pri.".
+
+:mo_Laguna rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Laguna".
+
+:mo_Laguna_Exp__Techno rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Laguna Exp. Techno".
+
+:mo_Laguna_Dyn_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Laguna Dyn.".
+
+:mo_Laguna_Pri_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Laguna Pri.".
+
+:mo_Laguna_GT rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Laguna GT".
+
+:mo_Laguna_Coup_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Laguna Coupé".
+
+:mo_Laguna_Coup__GT rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Laguna Coupé GT".
+
+:mo_107_2_Tronic rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "107 2-Tronic".
+
+:mo_107 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "107".
+
+:mo_107_Urb_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "107 Urb.".
+
+:mo_206_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "206+".
+
+:mo_3008 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "3008".
+
+:mo_1007 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "1007".
+
+:mo_1007_2_Tronic rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "1007 2-Tronic".
+
+:mo_807__2002__SR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "807 (2002) SR".
+
+:mo_807__2002__ST rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "807 (2002) ST".
+
+:mo_807__2002__SV rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "807 (2002) SV".
+
+:mo_807__2002__Pullman rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "807 (2002) Pullman".
+
+:mo_807 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "807".
+
+:mo_607__2002_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "607 (2002)".
+
+:mo_607 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "607".
+
+:mo_4007 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "4007".
+
+:mo_4007_Sport_Pack_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "4007 Sport Pack.".
+
+:mo_407 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "407".
+
+:mo_407_SW rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "407 SW".
+
+:mo_407_coup_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "407 coupé".
+
+:mo_407_coup__Pack_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "407 coupé Pack.".
+
+:mo_308 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308".
+
+:mo_308_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 Sport".
+
+:mo_308_Prem__5p rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 Prem. 5p".
+
+:mo_308_Sport_5p rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 Sport 5p".
+
+:mo_308_GT rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 GT".
+
+:mo_308_SW rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 SW".
+
+:mo_308_SW_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 SW Sport".
+
+:mo_308_SW_Prem_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 SW Prem.".
+
+:mo_308_CC rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 CC".
+
+:mo_308_CC_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "308 CC Sport".
+
+:mo_207 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207".
+
+:mo_207_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 Sport".
+
+:mo_207_GT rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 GT".
+
+:mo_207_RC rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 RC".
+
+:mo_207_CC rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 CC".
+
+:mo_207_CC_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 CC Sport".
+
+:mo_207_SW rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 SW".
+
+:mo_207_SW_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 SW Sport".
+
+:mo_207_SW_Outdoor rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "207 SW Outdoor".
+
+:mo_Pixo rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Pixo".
+
+:mo_Micra rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Micra".
+
+:mo_Micra_25_An_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Micra 25 An.".
+
+:mo_Micra_Tekna rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Micra Tekna".
+
+:mo_Micra_C_C rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Micra C+C".
+
+:mo_Note rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Note".
+
+:mo_Note_Tekna rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Note Tekna".
+
+:mo_Tiida rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Tiida".
+
+:mo_370Z rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "370Z".
+
+:mo_GT_R rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "GT-R".
+
+:mo_GT_R_Premium rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "GT-R Premium".
+
+:mo_Qashqai rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Qashqai".
+
+:mo_Qashqai_Acenta rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Qashqai Acenta".
+
+:mo_Qashqai_Tekna_Sp_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Qashqai Tekna Sp.".
+
+:mo_Qashqai__2 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Qashqai +2".
+
+:mo_Qashqai__2_Acenta rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Qashqai +2 Acenta".
+
+:mo_Qashqai__2_Tekna_Sp_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Qashqai +2 Tekna Sp.".
+
+:mo_X_Trail_XE rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "X-Trail XE".
+
+:mo_X_Trail_SE rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "X-Trail SE".
+
+:mo_X_Trail_Plat_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "X-Trail Plat.".
+
+:mo_Pathfinder_5_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Pathfinder 5 pl.".
+
+:mo_Pathfinder_7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Pathfinder 7 pl.".
+
+:mo_Murano rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Murano".
+
+:mo_Murano__2005_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Murano (2005)".
+
+:mo_Sandero rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Sandero".
+
+:mo_Logan__2005___2007_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Logan (2005 & 2007)".
+
+:mo_Logan__2007_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Logan (2007)".
+
+:mo_Logan_Break__2007_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Logan Break (2007)".
+
+:mo_Logan_Break__2007__7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Logan Break (2007) 7 pl.".
+
+:mo_C1 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C1".
+
+:mo_C1_sensodrive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C1 sensodrive".
+
+:mo_Xsara_Picasso rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Xsara Picasso".
+
+:mo_Xsara_Picasso_Satisf_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Xsara Picasso Satisf.".
+
+:mo_Xsara_Picasso_Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Xsara Picasso Excl.".
+
+:mo_C2__2006_2008_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 (2006/2008)".
+
+:mo_C2_VTR__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 VTR (2006)".
+
+:mo_C2_SensoDrive__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 SensoDrive (2006)".
+
+:mo_C2_Stop_Start__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 Stop&Start (2006)".
+
+:mo_C2_Sensodrive__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 Sensodrive (2006)".
+
+:mo_C2_VTS__2006_2008_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 VTS (2006/2008)".
+
+:mo_C2_VTR_Sensodrive__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 VTR Sensodrive (2006)".
+
+:mo_C2_VTR__2008_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 VTR (2008)".
+
+:mo_C2_VTS__2008_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C2 VTS (2008)".
+
+:mo_C3_Picasso rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 Picasso".
+
+:mo_C3_Picasso_Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 Picasso Excl.".
+
+:mo_C_Crosser rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C-Crosser".
+
+:mo_C_Crosser_Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C-Crosser Excl.".
+
+:mo_C6 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C6".
+
+:mo_C8__2002_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C8 (2002)".
+
+:mo_C8_Captain_chairs__2002_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C8 Captain chairs (2002)".
+
+:mo_C8 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C8".
+
+:mo_C3__2002_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 (2002)".
+
+:mo_C3__2002__Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 (2002) Excl.".
+
+:mo_C3 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3".
+
+:mo_C3_Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 Excl.".
+
+:mo_C3_Sensodrive_Stop_Start rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 Sensodrive Stop&Start".
+
+:mo_C3_Sensodrive_XTR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 Sensodrive XTR".
+
+:mo_C3_Sensodrive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 Sensodrive".
+
+:mo_C3_XTR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 XTR".
+
+:mo_C3_VTR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 VTR".
+
+:mo_C3_pluriel__2002_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 pluriel (2002)".
+
+:mo_C3_pluriel__2002__Sensodrive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C3 pluriel (2002) Sensodrive".
+
+:mo_C4_coup_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 coupé".
+
+:mo_C4_coup__Cool rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 coupé Cool".
+
+:mo_C4_coup__VTN_V rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 coupé VTN@V".
+
+:mo_C4_coup__VTS rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 coupé VTS".
+
+:mo_C4_coup__VTS__ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 coupé VTS +".
+
+:mo_C4 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4".
+
+:mo_C4_Cool rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Cool".
+
+:mo_C4_Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Excl.".
+
+:mo_C4_Excl___ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Excl. +".
+
+:mo_C4_VTN_V rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 VTN@V".
+
+:mo_C4_Picasso rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso".
+
+:mo_C4_Picasso_VTN_V rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso VTN@V".
+
+:mo_C4_Picasso_Excl___ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso Excl. +".
+
+:mo_C4_Picasso_Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso Excl.".
+
+:mo_C4_Picasso_7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso 7 pl.".
+
+:mo_C4_Picasso_VTN_V_7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso VTN@V 7 pl.".
+
+:mo_C4_Picasso_Excl____7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso Excl. + 7 pl.".
+
+:mo_C4_Picasso_Excl__7_pl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C4 Picasso Excl. 7 pl.".
+
+:mo_C5 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C5".
+
+:mo_C5_S rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C5 S".
+
+:mo_C5_Busi_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C5 Busi.".
+
+:mo_C5_Excl_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C5 Excl.".
+
+:mo_C5_Tourer rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C5 Tourer".
+
+:mo_C5_Tourer_S rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C5 Tourer S".
+
+:mo_C5_Tourer_Busi_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "C5 Tourer Busi.".
+
+:mo_Colt_CZ3__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt CZ3 (2004)".
+
+:mo_Colt_CZ3_Invite__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt CZ3 Invite (2004)".
+
+:mo_Colt_CZ3_Instyle__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt CZ3 Instyle (2004)".
+
+:mo_Colt__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt (2004)".
+
+:mo_Colt_Invite__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt Invite (2004)".
+
+:mo_Colt_Allshift__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt Allshift (2004)".
+
+:mo_Colt_Instyle__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt Instyle (2004)".
+
+:mo_Colt_Allshift_Instyle__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt Allshift Instyle (2004)".
+
+:mo_Colt_CZC rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt CZC".
+
+:mo_Colt rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt".
+
+:mo_Colt_Ralliart rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Colt Ralliart".
+
+:mo_Lancer_Sportback rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer Sportback".
+
+:mo_Lancer_Sportback_Motion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer Sportback Motion".
+
+:mo_Lancer_Sportback_Ralliart rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer Sportback Ralliart".
+
+:mo_Lancer rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer".
+
+:mo_Lancer_Instyle rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer Instyle".
+
+:mo_Lancer_Evolution_GSR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer Evolution GSR".
+
+:mo_Lancer_Evolution_MR_TC_SST rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer Evolution MR TC-SST".
+
+:mo_Lancer_Ralliart rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Lancer Ralliart".
+
+:mo_Grandis rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grandis".
+
+:mo_Grandis_Invite rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Grandis Invite".
+
+:mo_Outlander rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Outlander".
+
+:mo_Outlander_Intense__ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Outlander Intense +".
+
+:mo_Pajero_3p_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Pajero 3p.".
+
+:mo_Pajero_3p__Intense rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Pajero 3p. Intense".
+
+:mo_Pajero_5p_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Pajero 5p.".
+
+:mo_Pajero_5p__Intense rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Pajero 5p. Intense".
+
+:mo_L200_Double_Cab_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "L200 Double Cab.".
+
+:mo_Fox rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fox".
+
+:mo_Polo rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Polo".
+
+:mo_Polo_GT rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Polo GT".
+
+:mo_Polo_BlueMotion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Polo BlueMotion".
+
+:mo_Polo_GTI rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Polo GTI".
+
+:mo_Crosspolo rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Crosspolo".
+
+:mo_Polo__2009_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Polo (2009)".
+
+:mo_Polo__2009__Bluemotion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Polo (2009) Bluemotion".
+
+:mo_Scirocco rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Scirocco".
+
+:mo_Scirocco_R rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Scirocco R".
+
+:mo_New_Beetle_Cab_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "New Beetle Cab.".
+
+:mo_New_Beetle rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "New Beetle".
+
+:mo_New_Beetle_RSi rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "New Beetle RSi".
+
+:mo_Eos rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Eos".
+
+:mo_Jetta rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Jetta".
+
+:mo_Sharan rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Sharan".
+
+:mo_Caddy rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Caddy".
+
+:mo_Caddy_Bluemotion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Caddy Bluemotion".
+
+:mo_Golf_R32__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf R32 (2006)".
+
+:mo_Golf_GTI__2007_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf GTI (2007)".
+
+:mo_Golf__2007_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf (2007)".
+
+:mo_Golf__2007__Sportline rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf (2007) Sportline".
+
+:mo_Golf__2007__Highline rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf (2007) Highline".
+
+:mo_Golf__2007__GT_Sport_3p_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf (2007) GT Sport 3p.".
+
+:mo_Golf rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf".
+
+:mo_Golf_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf Sport".
+
+:mo_Golf_GTI rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf GTI".
+
+:mo_Golf_GTD rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf GTD".
+
+:mo_Golf_Plus rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf Plus".
+
+:mo_Golf_Plus_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf Plus Sport".
+
+:mo_Golf_Variant rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf Variant".
+
+:mo_Golf_Variant_Bluemotion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Golf Variant Bluemotion".
+
+:mo_Touran rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touran".
+
+:mo_Touran_Advance rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touran Advance".
+
+:mo_Touran_Bluemotion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touran Bluemotion".
+
+:mo_Touran_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touran Sport".
+
+:mo_Touran__2003_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touran (2003)".
+
+:mo_Touran__2003__Trendline rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touran (2003) Trendline".
+
+:mo_Touran__2003__Highline rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touran (2003) Highline".
+
+:mo_Passat_CC rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat CC".
+
+:mo_Passat rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat".
+
+:mo_Passat_R_Line rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat R-Line".
+
+:mo_Passat_R36 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat R36".
+
+:mo_Passat_Bluemotion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat Bluemotion".
+
+:mo_Passat_Variant_Bluemotion rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat Variant Bluemotion".
+
+:mo_Passat_Variant rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat Variant".
+
+:mo_Passat_Variant_R_Line rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat Variant R-Line".
+
+:mo_Passat_Variant_R36 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Passat Variant R36".
+
+:mo_Phaeton rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Phaeton".
+
+:mo_Phaeton__2004_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Phaeton (2004)".
+
+:mo_Tiguan rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Tiguan".
+
+:mo_Tiguan_R_Line rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Tiguan R-Line".
+
+:mo_Touareg rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touareg".
+
+:mo_Touareg_Indiv_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touareg Indiv.".
+
+:mo_Touareg_R50 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Touareg R50".
+
+:mo_Fabia rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fabia".
+
+:mo_Fabia_Young rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fabia Young".
+
+:mo_Fabia_Combi rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fabia Combi".
+
+:mo_Fabia_Combi_Young rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fabia Combi Young".
+
+:mo_Fabia_GreenLine rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fabia GreenLine".
+
+:mo_Fabia_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fabia Sport".
+
+:mo_Fabia_Combi_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Fabia Combi Sport".
+
+:mo_Roomster rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Roomster".
+
+:mo_Roomster_Style rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Roomster Style".
+
+:mo_Roomster_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Roomster Sport".
+
+:mo_Roomster_Scoot rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Roomster Scoot".
+
+:mo_Scoot rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Scoot".
+
+:mo_Octavia rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Octavia".
+
+:mo_Octavia_Laurin_Klement rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Octavia Laurin&Klement".
+
+:mo_Octavia_RS rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Octavia RS".
+
+:mo_Octavia_Combi rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Octavia Combi".
+
+:mo_Octavia_Combi_Laurin_Klement rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Octavia Combi Laurin&Klement".
+
+:mo_Octavia_Combi_RS rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Octavia Combi RS".
+
+:mo_Octavia_GreenLine rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Octavia GreenLine".
+
+:mo_Superb rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Superb".
+
+:mo_Superb_Elegance rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Superb Elegance".
+
+:mo_Ibiza__2006_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza (2006)".
+
+:mo_Ibiza__2006__Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza (2006) Sport".
+
+:mo_Ibiza__2006__FR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza (2006) FR".
+
+:mo_Ibiza__2006__Cupra rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza (2006) Cupra".
+
+:mo_Ibiza__2006__Ecomotive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza (2006) Ecomotive".
+
+:mo_Ibiza_SportCoup_ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza SportCoupé".
+
+:mo_Ibiza_SportCoup__Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza SportCoupé Sport".
+
+:mo_Ibiza_SportCoup__FR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza SportCoupé FR".
+
+:mo_Ibiza_SportCoup__Cupra rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza SportCoupé Cupra".
+
+:mo_Ibiza_SportCoup__Ecomotive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza SportCoupé Ecomotive".
+
+:mo_Ibiza rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza".
+
+:mo_Ibiza_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza Sport".
+
+:mo_Ibiza_Ecomotive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Ibiza Ecomotive".
+
+:mo_Cordoba rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Cordoba".
+
+:mo_Cordoba_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Cordoba Sport".
+
+:mo_Leon rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Leon".
+
+:mo_Leon_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Leon Sport".
+
+:mo_Leon_FR rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Leon FR".
+
+:mo_Leon_Cupra rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Leon Cupra".
+
+:mo_Leon_Ecomotive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Leon Ecomotive".
+
+:mo_Altea rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea".
+
+:mo_Altea_Style rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea Style".
+
+:mo_Altea_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea Sport".
+
+:mo_Altea_XL rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea XL".
+
+:mo_Altea_XL_Style rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea XL Style".
+
+:mo_Altea_XL_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea XL Sport".
+
+:mo_Altea_XLSport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea XLSport".
+
+:mo_Altea_Freetrack rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Altea Freetrack".
+
+:mo_Toledo rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Toledo".
+
+:mo_Toledo_Sport_up rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Toledo Sport-up".
+
+:mo_Exeo rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Exeo".
+
+:mo_Exeo_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Exeo Sport".
+
+:mo_Exeo_ST rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Exeo ST".
+
+:mo_Exeo_ST_Sport rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Exeo ST Sport".
+
+:mo_Alhambra rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Alhambra".
+
+:mo_Alhambra_Sport__ rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Alhambra Sport +".
+
+:mo_Alhambra_Ecomotive rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Alhambra Ecomotive".
+
+:mo_A3 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A3".
+
+:mo_A3_Ambiente rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A3 Ambiente".
+
+:mo_S3 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "S3".
+
+:mo_A3_Cabrio rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A3 Cabrio".
+
+:mo_A3_Cabrio_Ambition rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A3 Cabrio Ambition".
+
+:mo_TT rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "TT".
+
+:mo_TTS rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "TTS".
+
+:mo_TT_RS rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "TT RS".
+
+:mo_TT_Roadster rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "TT Roadster".
+
+:mo_TTS_Roadster rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "TTS Roadster".
+
+:mo_TT_RS_Roadster rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "TT RS Roadster".
+
+:mo_A4 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A4".
+
+:mo_S4 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "S4".
+
+:mo_A4_Avant rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A4 Avant".
+
+:mo_S4_Avant rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "S4 Avant".
+
+:mo_A4_Allroad rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A4 Allroad".
+
+:mo_A5 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A5".
+
+:mo_S5 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "S5".
+
+:mo_A5_Cabrio rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "A5 Cabrio".
+
+:mo_S5_Cabrio rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "S5 Cabrio".
+
+:mo_Q5 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Q5".
+
+:mo_Q6 rdf:type owl:NamedIndividual , :Modelo; 
+	:descricao "";
+	:nome "Q6".
+

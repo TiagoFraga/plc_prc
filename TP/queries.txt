@@ -1,0 +1,428 @@
+
+### Count Marcas
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select (count(?s) as ?marcas) where { 
+	?s a :Marca.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Count Modelos
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select (count(?s) as ?modelos) where { 
+	?s a :Modelo.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Count Veiculos
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select (count(?s) as ?veiculos) where { 
+	?s a :Veiculo.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Count Pneus
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select (count(?s) as ?pneus) where { 
+	?s a :Pneu.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Count Tracoes
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select (count(?s) as ?tracoes) where { 
+	?s a :Tracao.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Count Motores
+
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select (count(?s) as ?motores) where { 
+	?s a :Motor.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Count Caixas de Velocidades
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select (count(?s) as ?cvs) where { 
+	?s a :CaixaVelocidades.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todas as Marcas
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?nome where { 
+	?m a :Marca.
+    ?m :nome ?nome
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todas os modelos dada uma marca
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select distinct ?nome where { 
+	?v a :Veiculo.
+    ?v :temMarca ?m.
+    ?m :nome "Renault".
+    ?v :temModelo ?mod.
+    ?mod :nome ?nome.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todas os motores dada uma marca
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select distinct ?nome ?cod where { 
+	?v a :Veiculo.
+    ?v :temMarca ?m.
+    ?m :nome "Renault".
+    ?v :temMotor ?mot.
+    ?mot :nome ?nome.
+    ?mot :codigo ?cod
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todas os veiculos dado um modelo e dada uma marca
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?v ?nome where { 
+	?v a :Veiculo.
+    ?v :temMarca ?m.
+    ?m :nome "Renault".
+    ?v :temModelo ?mod.
+    ?mod :nome "Twingo".
+    ?v :temMotor ?mot.
+    ?mot :nome ?nome.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todas os veiculos 
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?v ?nomeMarca ?nomeModelo ?nomeMotor where { 
+	?v a :Veiculo.
+    ?v :temMarca ?m.
+    ?m :nome ?nomeMarca.
+    ?v :temModelo ?mod.
+    ?mod :nome ?nomeModelo.
+    ?v :temMotor ?mot.
+    ?mot :nome ?nomeMotor.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Info de um dado veiculo
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?nomeMarca ?nomeModelo ?nomeMotor ?codigo ?cilindrada ?combustivel ?co2 ?compressao ?consumo ?mb ?mc ?power ?prpm ?torque ?trpm ?peso3p ?peso5p where { 
+	:v_2 :temMarca ?marca.
+    ?marca :nome ?nomeMarca.
+    :v_2 :temModelo ?modelo.
+    ?modelo :nome ?nomeModelo.
+    :v_2 :temMotor ?motor.
+    ?motor :nome ?nomeMotor.
+    ?motor :codigo ?codigo.
+    ?motor :cilindrada ?cilindrada.
+    ?motor :combustivel ?combustivel.
+    ?motor :co2 ?co2.
+    ?motor :compressao ?compressao.
+    ?motor :consumo ?consumo.
+   	?motor :materialBloco ?mb.
+    ?motor :materialCilindros ?mc.
+    ?motor :power ?power.
+    ?motor :power_rpm ?prpm.
+    ?motor :torque ?torque.
+    ?motor :torque_rpm ?trpm.
+    :v_2 :peso3p ?peso3p.
+    :v_2 :peso5p ?peso5p.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Veiculos com o mesmo motor dado um veiculo
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?nomeMarca ?nomeModelo where { 
+    :v_2 :temMotor ?motor.
+    ?motor :eMotorDe ?vs.
+    ?vs :temMarca ?marca.
+    ?vs :temModelo ?modelo.
+    ?marca :nome ?nomeMarca.
+    ?modelo :nome ?nomeModelo.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todos os motores
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?mot ?nome ?cod where { 
+	?mot a :Motor.
+    ?mot :nome ?nome.
+    ?mot :codigo ?cod
+    
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Info de um motor
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select * where { 
+    :mot_D4F :nome ?nomeMotor.
+    :mot_D4F :codigo ?codigo.
+    :mot_D4F :cilindrada ?cilindrada.
+    :mot_D4F :combustivel ?combustivel.
+    :mot_D4F :co2 ?co2.
+    :mot_D4F :compressao ?compressao.
+    :mot_D4F :consumo ?consumo.
+   	:mot_D4F :materialBloco ?mb.
+    :mot_D4F :materialCilindros ?mc.
+    :mot_D4F :power ?power.
+    :mot_D4F :power_rpm ?prpm.
+    :mot_D4F :torque ?torque.
+    :mot_D4F :torque_rpm ?trpm.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Marcas que usam um dado motor
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select distinct ?nomeMarca where { 
+    :mot_4B12 :eMotorDe ?v.
+    ?v :temMarca ?marca.
+    ?v :temModelo ?modelo.
+    ?marca :nome ?nomeMarca.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Veiculos que usam um dado motor
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?v ?nomeMarca ?nomeModelo where { 
+    :mot_4B12 :eMotorDe ?v.
+    ?v :temMarca ?marca.
+    ?v :temModelo ?modelo.
+    ?marca :nome ?nomeMarca.
+    ?modelo :nome ?nomeModelo.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todos os caixas de velocidade
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?cvs where { 
+	?cvs a :CaixaVelocidades.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Info de uma caixa de velocidades
+
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?tipo ?desc where { 
+    ?cv a :CaixaVelocidades.
+    ?cv :tipo ?tipo.
+    ?cv :descricao ?desc.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Marcas que usam uma dada caixa de velocidades
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select distinct ?nomeMarca where { 
+    :cv_AT_4 :eCaixaDe ?vs.
+    ?vs :temMarca ?marca.
+    ?marca :nome ?nomeMarca.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Veiculos que usam uma dada caixa de velocidades
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?vs ?nomeMarca ?nomeModelo where { 
+    :cv_AT_4 :eCaixaDe ?vs.
+    ?vs :temMarca ?marca.
+    ?marca :nome ?nomeMarca.
+    ?vs :temModelo ?modelo.
+    ?modelo :nome ?nomeModelo.
+}
+
+
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Todos os tipos de tracao
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?tr where { 
+	?tr a :Tracao.
+}
+
+################################################################################
+################################################################################
+################################################################################
+
+### Info de uma Tracao
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?nome ?tipo ?desc where { 
+    :tr_2wd :nome ?nome.
+    :tr_2wd :tipo ?tipo.
+    :tr_2wd :descricao ?desc.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Marcas que usam uma dada tracao
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select distinct ?nomeMarca where { 
+    :tr_2wd :eTracaoDe ?v.
+    ?v :temMarca ?marca.
+    ?marca :nome ?nomeMarca.
+}
+
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Veiculos que usam uma dada tracao
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?v ?nomeMarca ?nomeModelo where { 
+    :tr_2wd :eTracaoDe ?v.
+    ?v :temMarca ?marca.
+    ?marca :nome ?nomeMarca.
+    ?v :temModelo ?modelo.
+    ?modelo :nome ?nomeModelo.
+}
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Info de um Pneu
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select * where { 
+  	:pn_16_195_55 :jante ?jante.
+	:pn_16_195_55 :largura ?largura.
+    :pn_16_195_55 :ratio ?ratio.
+    :pn_16_195_55 :descricao ?desc.
+}
+
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Marcas que usam um dado pneu 
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select distinct ?nome where { 
+  	:pn_16_195_55 :ePneuDe ?v.
+    ?v :temMarca ?m.
+    ?m :nome ?nome.
+}
+
+
+
+################################################################################
+################################################################################
+################################################################################
+
+### Veiculos que usam um dado pneu
+
+PREFIX : <http://prc.di.uminho.pt/2019/automoveis#>
+select ?v ?nomeMarca ?nomeModelo where { 
+  	:pn_16_195_55 :ePneuDe ?v.
+    ?v :temMarca ?m.
+    ?m :nome ?nomeMarca.
+    ?v :temModelo ?modelo.
+    ?modelo :nome ?nomeModelo.
+}
+

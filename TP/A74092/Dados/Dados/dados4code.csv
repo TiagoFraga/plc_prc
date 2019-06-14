@@ -1,0 +1,1254 @@
+Brand;Vehicle;Engine;Engine code;Displacement;Power;Power rpm;Torque;Torque rpm;Average fuel consumption (l/100 km);CO2 (g/km);Compression ratio;GearBox type;Traction type;Block material;Cylinder head;Jante;Largura;Ratio;Combustivel;Weight5p;Weight3p
+Renault;Twingo;1.2L 60 hp;D7F;1149;58;5250;93;2500;5.6;130;9.6;MT;2wd;cast iron;aluminium;14;165;65;gasolina;1000;0
+Renault;Twingo;1.2L 75 hp;D4F;1149;75;5500;108;4250;5.1;120;9.8;MT;2wd;cast iron;aluminium;14;165;65;gasolina;1025;0
+Renault;Twingo;1.5L dCi 65 hp;K9KBP;1461;65;3750;160;1900;4.3;113;17.9;MT;2wd;cast iron;aluminium;14;165;65;gasoleo;1055;0
+Renault;Twingo;1.2L 75 hp;D4F;1149;75;5500;108;4250;5.6;132;9.8;AT 5;2wd;cast iron;aluminium;14;165;65;gasolina;1030;0
+Renault;Twingo;1.5L dCi 85 hp;K9KHP;1461;84;3750;200;1750;4.0;104;17.9;MT;2wd;cast iron;aluminium;14;165;65;gasoleo;1055;0
+Renault;Twingo;1.2L TCe 100 hp;D4FT;1149;104;5500;145;3000;5.9;138;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1055;0
+Renault;Twingo;1.6L 130 hp;K4MRS;1598;133;6750;160;4400;7.0;165;11.0;MT;2wd;cast iron;aluminium;16;195;45;gasolina;1124;0
+Renault;Clio Campus 3p Exp;1.5L dCi 65 hp;K9KBP;1461;65;4000;160;2000;4.3;;18.8;MT;2wd;cast iron;aluminium;14;175;65;gasoleo;960;0
+Renault;Clio Campus 3p Dyn;1.5L dCi 65 hp;K9KBP;1461;65;4000;160;2000;4.3;;18.8;MT;2wd;cast iron;aluminium;15;185;55;gasoleo;960;0
+Renault;Clio Campus 5p Exp;1.5L dCi 65 hp;K9KBP;1461;65;4000;160;2000;4.3;;18.8;MT;2wd;cast iron;aluminium;14;175;65;gasoleo;980;0
+Renault;Clio Campus 5p Dyn;1.5L dCi 65 hp;K9KBP;1461;65;4000;160;2000;4.3;;18.8;MT;2wd;cast iron;aluminium;15;185;55;gasoleo;980;0
+Renault;Clio;1.2L 75 hp;D4F;1149;75;5500;105;4250;5.9;139;9.8;MT;2wd;cast iron;aluminium;15;165;65;gasolina;1165;1155
+Renault;Clio;1.5L dCi 70 hp;K9KBP;1461;68;4000;160;1700;4.5;120;17.9;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1240;1230
+Renault;Clio;1.2L TCe 100 hp;D4FT;1149;101;5500;145;3000;5.8;137;9.5;MT;2wd;cast iron;aluminium;15;185;60;gasolina;1175;1165
+Renault;Clio;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1900;4.4;117;17.9;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1250;1240
+Renault;Clio Exc;1.2L TCe 100 hp;D4FT;1149;101;5500;145;3000;5.8;137;9.5;MT;2wd;cast iron;aluminium;16;195;50;gasolina;1175;1165
+Renault;Clio Exc;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1900;4.4;117;17.9;MT;2wd;cast iron;aluminium;16;195;50;gasoleo;1250;1240
+Renault;Clio Exc;1.6L 110 hp;K4M;1598;112;6000;151;4250;7.5;179;9.8;AT 4;2wd;cast iron;aluminium;16;195;50;gasolina;1265;1255
+Renault;Clio  Exc;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.3;123;15.6;MT 6;2wd;cast iron;aluminium;16;195;50;gasoleo;1285;1275
+Renault;Clio GT 3p.;1.6L 130 hp;K4MRS;1598;128;6750;155;4250;6.9;160;;MT 6;2wd;cast iron;aluminium;16;195;50;gasolina;1215;0
+Renault;Clio RS 3p.;2.0L 200 hp;F4R;1998;201;7100;215;5400;8.3;195;;MT 6;2wd;cast iron;aluminium;17;215;45;gasolina;1279;0
+Renault;Clio Grand Tour;1.2L 75 hp;D4F;1149;75;5500;105;4250;5.9;139;9.8;MT;2wd;cast iron;aluminium;15;165;65;gasolina;1185;0
+Renault;Clio Grand Tour;1.5L dCi 70 hp;K9KBP;1461;68;4000;160;1700;4.5;120;17.9;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1260;0
+Renault;Clio Grand Tour;1.2L TCe 100 hp;D4FT;1149;101;5500;145;3000;5.8;137;9.5;MT;2wd;cast iron;aluminium;15;185;60;gasolina;1195;0
+Renault;Clio Grand Tour;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1900;4.4;117;17.9;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1270;0
+Renault;Clio Grand Tour Exc;1.2L TCe 100 hp;D4FT;1149;101;5500;145;3000;5.8;137;9.5;MT;2wd;cast iron;aluminium;16;195;50;gasolina;1195;0
+Renault;Clio Grand Tour Exc;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1900;4.4;117;17.9;MT;2wd;cast iron;aluminium;16;195;50;gasoleo;1270;0
+Renault;Clio Grand Tour Exc;1.6L 110 hp;K4M;1598;112;6000;151;4250;7.5;179;9.8;AT 4;2wd;cast iron;aluminium;16;195;50;gasolina;1285;0
+Renault;Clio Grand Tour Exc;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.3;123;15.6;MT 6;2wd;cast iron;aluminium;16;195;50;gasoleo;1310;0
+Renault;Kangoo Bebop;1.6L 105 hp;K4M;1598;106;5750;148;3750;7.7;186;10.0;MT;2wd;cast iron;aluminium;16;205;60;gasolina;1435;0
+Renault;Kangoo Bebop;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.4;142;15.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1468;0
+Renault;Modus;1.2L 75 hp;D4F;1149;75;5500;105;4250;5.9;140;9.8;MT;2wd;cast iron;aluminium;15;165;65;gasolina;1225;0
+Renault;Modus;1.5L dCi 65 hp;K9KBP;1461;65;4000;160;1700;4.7;119;17.9;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1255;0
+Renault;Modus;1.2L TCe 100 hp;D4FT;1149;101;5500;145;3000;5.9;140;9.8;MT;2wd;cast iron;aluminium;15;185;60;gasolina;1235;0
+Renault;Modus;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1900;4.5;119;17.9;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1290;0
+Renault;Modus Exc;1.2L TCe 100 hp;D4FT;1149;101;5500;145;3000;5.9;140;9.8;MT;2wd;cast iron;aluminium;16;185;55;gasolina;1235;0
+Renault;Modus Exc;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1900;4.5;119;17.9;MT;2wd;cast iron;aluminium;16;185;55;gasoleo;1290;0
+Renault;Modus Exc;1.6L 110 hp;K4M;1598;112;6000;151;4250;7.6;179;10.0;AT 4;2wd;cast iron;aluminium;16;185;55;gasolina;1310;0
+Renault;Modus;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.7;124;15.6;MT 6;2wd;cast iron;aluminium;15;185;60;gasoleo;1305;0
+Renault;Modus Exc;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.7;124;15.6;MT 6;2wd;cast iron;aluminium;16;185;55;gasoleo;1305;0
+Renault;Megane 3 Berline;1.6L 100 hp;K4M;1598;101;5500;148;4250;6.7;159;9.8;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1280;0
+Renault;Megane 3 Berline;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1750;4.5;118;17.6;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1290;0
+Renault;Megane 3 Berline;1.6L 110 hp;K4M;1598;110;6000;151;4250;6.9;163;9.7;MT 6;2wd;cast iron;aluminium;15;195;65;gasolina;1290;0
+Renault;Megane 3 Berline Dyn;1.6L 110 hp;K4M;1598;110;6000;151;4250;6.9;163;9.7;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1290;0
+Renault;Megane 3 Berline;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.5;120;15.3;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1290;0
+Renault;Megane 3 Berline Dyn;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.5;120;15.3;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1290;0
+Renault;Megane 3 Berline Dyn;2.0L 140 hp;M4R;1997;140;6000;195;3750;7.6;176;10.2;hpT;2wd;aluminium;aluminium;16;205;55;gasolina;1356;0
+Renault;Megane 3 Berline Dyn;2.0L TCe 180 hp;F4RTK;1998;180;5500;300;2250;7.6;178;9.3;MT 6;2wd;cast iron;aluminium;17;205;45;gasolina;1405;0
+Renault;Megane 3 Berline Dyn;1.9L dCi 130 hp;F9Q;1870;131;3750;300;1750;5.1;134;16.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1385;0
+Renault;Megane 3 Coupé;1.6L 110 hp;K4M;1598;110;6000;151;4250;6.9;163;9.7;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1290;0
+Renault;Megane 3 Coupé;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1750;4.5;118;17.6;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1280;0
+Renault;Megane 3 Coupé Dyn;1.6L 110 hp;K4M;1598;110;6000;151;4250;6.9;163;9.7;MT 6;2wd;cast iron;aluminium;17;205;50;gasolina;1290;0
+Renault;Megane 3 Coupé;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.5;120;15.3;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1280;0
+Renault;Megane 3 Coupé Dyn;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.5;120;15.3;MT 6;2wd;cast iron;aluminium;17;205;50;gasoleo;1280;0
+Renault;Megane 3 Coupé Dyn;2.0L 140 hp;M4R;1997;140;6000;195;3750;7.6;176;10.2;hpT;2wd;aluminium;aluminium;16;205;55;gasolina;1356;0
+Renault;Megane 3 Coupé Dyn;2.0L TCe 180 hp;F4RTK;1998;180;5500;300;2250;7.6;178;9.3;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1405;0
+Renault;Megane 3 Coupé Dyn;1.9L dCi 130 hp;F9Q;1870;131;3750;300;1750;5.1;134;16.6;MT 6;2wd;cast iron;aluminium;17;205;50;gasoleo;1385;0
+Renault;Megane 2 (2003);1.4L 100 hp;K7J;1390;98;6000;127;3750;6.7;;10.0;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1240;1220
+Renault;Megane 2 (2003) Dyn;1.4L 100 hp;K7J;1390;98;6000;127;3750;6.7;;10.0;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1240;1220
+Renault;Megane 2 (2003);1.6L 110 hp;K4M;1598;113;6000;152;4200;6.8;;10.0;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1250;1230
+Renault;Megane 2 (2003) Dyn;1.6L 110 hp;K4M;1598;113;6000;152;4200;6.8;;10.0;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1250;1230
+Renault;Megane 2 (2003);2.0L 130 hp;F4R;1998;134;5500;191;3750;8.0;;9.8;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1325;1305
+Renault;Megane 2 (2003);1.5L dCi 80 hp;K9KHP;1461;82;4000;185;2000;4.6;;18.8;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1270;1250
+Renault;Megane 2 (2003) Dyn;1.5L dCi 80 hp;K9KHP;1461;82;4000;185;2000;4.6;;18.8;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1270;1250
+Renault;Megane 2 (2003);1.9L dCi 120 hp;F9Q;1870;120;4000;270;2000;5.4;;18.3;MT 6;2wd;cast iron;aluminium;15;165;55;gasoleo;1270;1250
+Renault;Megane 2 (2003) Dyn;1.9L dCi 120 hp;F9Q;1870;120;4000;270;2000;5.4;;18.3;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1270;1250
+Renault;Megane 2 (2006);1.5L dCi 100 hp;K9KTHP;1461;101;4000;200;1900;4.5;;18.8;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1270;1250
+Renault;Megane 2 (2006) Dyn;1.5L dCi 100 hp;K9KTHP;1461;101;4000;200;1900;4.5;;18.8;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1270;1250
+Renault;Megane 2 Grand Tour;1.4L 100 hp;K7J;1390;98;6000;127;3750;7.0;;10.0;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1285;0
+Renault;Megane 2 Grand Tour Dyn;1.4L 100 hp;K7J;1390;98;6000;127;3750;7.0;;10.0;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1285;0
+Renault;Megane 2 Grand Tour;1.6L 110 hp;K4M;1598;113;6000;152;4200;6.9;;10.0;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1290;0
+Renault;Megane 2 Grand Tour Proactiva;1.6L 110 hp;K4M;1598;113;6000;152;4200;6.9;;10.0;AT 4;2wd;cast iron;aluminium;15;195;65;gasolina;1290;0
+Renault;Megane 2 Grand Tour Dyn;1.6L 110 hp;K4M;1598;113;6000;152;4200;6.9;;10.0;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1290;0
+Renault;Megane 2 Grand Tour Dyn Proactiva;1.6L 110 hp;K4M;1598;113;6000;152;4000;7.7;;10.0;AT 4;2wd;cast iron;aluminium;16;205;55;gasolina;1335;0
+Renault;Megane 2 Grand Tour;2.0L 130 hp;F4R;1998;134;5500;191;3750;8.0;;9.8;MT 6;2wd;cast iron;aluminium;16;195;65;gasolina;1365;0
+Renault;Megane 2 Grand Tour Proactiva;2.0L 130 hp;F4R;1998;134;5500;191;3750;8.4;;9.8;AT 4;2wd;cast iron;aluminium;16;195;65;gasolina;1380;0
+Renault;Megane 2 Grand Tour Dyn;2.0L 130 hp;F4R;1998;134;5500;191;3750;8.8;;9.8;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1365;0
+Renault;Megane 2 Grand Tour Dyn Proactiva;2.0L 130 hp;F4R;1998;134;5500;191;3750;9.2;;9.8;AT 4;2wd;cast iron;aluminium;16;205;55;gasolina;1380;0
+Renault;Megane 2 Grand Tour;1.5L dCi 80 hp;K9KHP;1461;82;4000;185;2000;4.6;;18.8;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1310;0
+Renault;Megane 2 Grand Tour Dyn;1.5L dCi 80 hp;K9KHP;1461;82;4000;185;2000;4.6;;18.8;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1310;0
+Renault;Megane 2 Grand Tour;1.9L dCi 120 hp;F9Q;1870;120;4000;270;2000;5.4;;18.3;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1385;0
+Renault;Megane 2 Grand Tour Dyn;1.9L dCi 120 hp;F9Q;1870;120;4000;270;2000;5.4;;18.3;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1385;0
+Renault;Megane 2 (2006);2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;5.4;144;15.7;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1390;0
+Renault;Megane 2 (2006) Dyn;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;5.4;144;15.7;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1390;0
+Renault;Megane 2 RS;2.0L T 225 hp;F4RT;1998;224;5500;300;3000;8.8;;9.0;MT 6;2wd;cast iron;aluminium;18;225;40;gasolina;1450;1430
+Renault;Megane 2 R26.R;2.0L T 230 hp;F4RT;1998;230;5500;310;3000;8.5;199;9.0;MT 6;2wd;cast iron;aluminium;18;235;40;gasolina;1305;0
+Renault;Megane 2 CC;1.6L 110 hp;K4M;1598;113;6000;152;4200;6.9;;10.0;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1395;0
+Renault;Megane 2 CC Dyn;1.6L 110 hp;K4M;1598;113;6000;152;4200;6.9;;10.0;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1395;0
+Renault;Megane 2 CC Dyn;2.0L 130 hp;F4R;1998;134;5500;191;3750;8.2;;9.8;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1465;0
+Renault;Megane 2 CC;1.9L dCi 120 hp;F9Q;1870;120;4000;300;2000;5.5;;18.3;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1500;0
+Renault;Megane 2 CC Dyn;1.9L dCi 120 hp;F9Q;1870;120;4000;300;2000;5.5;;18.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1500;0
+Renault;Megane 2 CC;2.0L T 160 hp;F4RT;1998;163;5000;270;3250;8.0;;9.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1490;0
+Renault;Scenic;1.6L 110 hp;K4M;1598;110;6000;151;4250;7.5;177;9.7;MT 6;2wd;cast iron;aluminium;15;205;60;gasolina;1395;0
+Renault;Scenic;1.5L dCi 85 hp;K9KHP;1461;86;3750;200;1750;4.9;130;17.6;MT 6;2wd;cast iron;aluminium;15;205;60;gasoleo;1460;0
+Renault;Scenic;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.9;130;15.3;MT 6;2wd;cast iron;aluminium;15;205;60;gasoleo;1460;0
+Renault;Scenic Dyn;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;4.9;130;15.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1460;0
+Renault;Scenic;1.4L Tce 130 hp;H4JT;1397;131;5500;190;2250;7.1;168;9.1;MT 6;2wd;aluminium;aluminium;16;205;60;gasolina;1395;0
+Renault;Scenic;2.0L 140 hp;F4R;1997;140;6000;195;3750;7.7;183;10.2;hpT;2wd;aluminium;aluminium;16;205;60;gasolina;1503;0
+Renault;Scenic;1.9L dCi 130 hp;F9Q;1870;131;3750;300;1750;5.5;145;16.6;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1505;0
+Renault;Scenic;2.0L dCi 160 hp;M9RB;1995;160;3750;380;2000;6.6;173;15.5;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1595;0
+Renault;Scenic;2.0L dCi 150 hp;M9RB;1995;150;3750;360;2000;7.0;184;15.5;AT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1615;0
+Renault;Grand Scénic 5 pl.;1.6L 110 hp;K4M;1598;110;6000;151;4250;7.5;177;9.7;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1482;0
+Renault;Grand Scénic 7 pl.;1.6L 110 hp;K4M;1598;110;6000;151;4250;7.5;177;9.7;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1519;0
+Renault;Grand Scénic 5 pl.;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.1;134;15.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1526;0
+Renault;Grand Scénic 7 pl.;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.1;135;15.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1563;0
+Renault;Grand Scénic 7 pl. Dyn;1.4L TCe 130 hp;H4JT;1397;131;5500;190;2250;7.2;170;9.1;MT 6;2wd;aluminium;aluminium;16;205;60;gasolina;1532;0
+Renault;Grand Scénic 5 pl. Dyn;1.9L dCi 130 hp;F9Q;1870;131;3750;300;1750;5.5;145;16.6;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1568;0
+Renault;Grand Scénic 7 pl. Dyn;1.9L dCi 130 hp;F9Q;1870;131;3750;300;1750;5.6;149;16.6;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1605;0
+Renault;Grand Scénic 7 pl.;2.0L 140 hp;F4R;1997;140;6000;195;3750;7.7;183;10.2;hpT;2wd;aluminium;aluminium;16;205;60;gasolina;1580;0
+Renault;Grand Scénic 7 pl.;2.0L dCi 160 hp;M9RB;1995;160;3750;380;2000;6.6;173;15.5;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1703;0
+Renault;Grand Scénic 7 pl.;2.0L dCi 150 hp;M9RB;1995;150;3750;360;2000;7.0;184;15.5;AT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1722;0
+Renault;Scénic (2006) 5 pl.;1.4L 100 hp;K7J;1390;98;5700;127;3750;7.2;173;10.0;MT;2wd;cast iron;aluminium;;195;65;gasolina;1390;0
+Renault;Scénic (2006) 5 pl.;1.6L 110 hp;K4M;1598;112;6000;152;4200;7.6;182;10.0;MT;2wd;cast iron;aluminium;;195;65;gasolina;1395;0
+Renault;Scénic (2006) 5 pl. Dyn;1.6L 110 hp;K4M;1598;112;6000;152;4200;7.6;182;10.0;MT;2wd;cast iron;aluminium;;205;55;gasolina;1395;0
+Renault;Scénic (2006) 5 pl.;1.6L 110 hp;K4M;1598;112;6000;152;4200;8.0;191;10.0;AT 4;2wd;cast iron;aluminium;;205;55;gasolina;1445;0
+Renault;Scénic (2006) 5 pl.;2.0L 135 hp;F4R;1998;134;5500;191;3750;8.0;192;9.8;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1475;0
+Renault;Scénic (2006) 5 pl.;2.0L T 165 hp;F4RT;1998;163;5000;270;3250;8.1;194;9.5;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1500;0
+Renault;Scénic (2006) 5 pl.;1.5L dCi 85 hp;K9KHP;1461;86;4000;185;2000;5.1;137;17.9;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1415;0
+Renault;Scénic (2006) 5 pl.;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.2;138;15.6;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1440;0
+Renault;Scénic (2006) 5 pl. Dyn;1.5L dCi 85 hp;K9KHP;1461;86;4000;185;2000;5.1;137;17.9;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1415;0
+Renault;Scénic (2006) 5 pl. Dyn;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.2;138;15.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1440;0
+Renault;Scénic (2006) 5 pl.;1.9L dCi 130 hp;F9Q;1870;131;4000;300;2000;6.0;159;18.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1505;0
+Renault;Scénic (2006) 5 pl. Dyn;1.9L dCi 130 hp;F9Q;1870;131;4000;300;2000;7.1;188;18.3;AT 4;2wd;cast iron;aluminium;16;205;60;gasoleo;1505;0
+Renault;Scénic (2006) 5 pl. Dyn;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;5.8;154;15.7;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1540;0
+Renault;Scénic (2006) 5 pl. Dyn;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.0;186;15.7;AT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1580;0
+Renault;Grand Scénic (2006) 5 pl.;1.6L 110 hp;K4M;1598;112;6000;152;4200;7.8;185;10.0;MT;2wd;cast iron;aluminium;16;205;60;gasolina;1490;0
+Renault;Grand Scénic (2006) 5 pl.;2.0L 135 hp;F4R;1998;134;5500;191;3750;8.2;193;9.8;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1555;0
+Renault;Grand Scénic (2006) 5 pl.;2.0L T 165 hp;F4RT;1998;163;5000;270;3250;8.1;194;9.5;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1580;0
+Renault;Grand Scénic (2006) 5 pl.;2.0L 135 hp;F4R;1998;134;5500;191;3750;8.6;205;9.8;AT 4;2wd;cast iron;aluminium;16;205;60;gasolina;1575;0
+Renault;Grand Scénic (2006) 5 pl.;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.4;144;15.6;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1535;0
+Renault;Grand Scénic (2006) 5 pl.;1.9L dCi 130 hp;F9Q;1870;131;4000;300;2000;6.0;159;18.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1575;0
+Renault;Grand Scénic (2006) 5 pl.;1.9L dCi 130 hp;F9Q;1870;131;4000;300;2000;7.1;188;18.3;AT 4;2wd;cast iron;aluminium;16;205;60;gasoleo;1585;0
+Renault;Grand Scénic (2006) 5 pl.;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;5.8;154;15.7;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1605;0
+Renault;Grand Scénic (2006) 5 pl.;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.2;190;15.7;AT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1645;0
+Renault;Grand Scénic (2006) 7 pl.;1.6L 110 hp;K4M;1598;112;6000;152;4200;7.9;189;10.0;MT;2wd;cast iron;aluminium;16;205;60;gasolina;1520;0
+Renault;Grand Scénic (2006) 7 pl.;2.0L 135 hp;F4R;1998;134;5500;191;3750;8.2;193;9.8;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1585;0
+Renault;Grand Scénic (2006) 7 pl.;2.0L T 165 hp;F4RT;1998;163;5000;270;3250;8.1;194;9.5;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1610;0
+Renault;Grand Scénic (2006) 7 pl.;2.0L 135 hp;F4R;1998;134;5500;191;3750;8.6;205;9.8;AT 4;2wd;cast iron;aluminium;16;205;60;gasolina;1605;0
+Renault;Grand Scénic (2006) 7 pl.;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.4;144;15.6;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1565;0
+Renault;Grand Scénic (2006) 7 pl.;1.9L dCi 130 hp;F9Q;1870;131;4000;300;2000;6.0;159;18.3;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1605;0
+Renault;Grand Scénic (2006) 7 pl.;1.9L dCi 130 hp;F9Q;1870;131;4000;300;2000;7.1;188;18.3;AT 4;2wd;cast iron;aluminium;16;205;60;gasoleo;1615;0
+Renault;Grand Scénic (2006) 7 pl.;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;5.8;154;15.7;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1635;0
+Renault;Grand Scénic (2006) 7 pl.;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.2;190;15.7;AT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1705;0
+Renault;Koleos;2.5L 170 hp;KOL25;2488;171;6000;226;4400;9.6;227;9.6;MT 6;2wd;aluminium;aluminium;17;225;60;gasolina;1639;0
+Renault;Koleos;2.0L dCi 150 hp;M9RA;1995;150;4000;320;2000;6.8;179;15.7;MT 6;2wd;cast iron;aluminium;17;225;60;gasoleo;1724;0
+Renault;Koleos;2.5L 170 hp;KOL25;2488;171;6000;226;4400;9.6;227;9.6;MT 6;4wd;aluminium;aluminium;17;225;60;gasolina;1697;0
+Renault;Koleos;2.0L dCi 150 hp;M9RA;1995;150;4000;320;2000;7.3;191;15.7;MT 6;4wd;cast iron;aluminium;17;225;60;gasoleo;1730;0
+Renault;Koleos;2.0L dCi 175 hp;M9RB;1995;173;3750;360;2000;7.5;197;15.7;MT 6;4wd;cast iron;aluminium;17;225;60;gasoleo;1730;0
+Renault;Koleos;2.0L dCi 150 hp;M9RA;1995;150;4000;320;2000;7.9;209;15.7;AT 6;4wd;cast iron;aluminium;17;225;60;gasoleo;1784;0
+Renault;Vel Satis;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;9.4;225;9.5;MT 6;2wd;cast iron;aluminium;17;225;55;gasolina;1640;0
+Renault;Vel Satis;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;9.9;237;9.5;AT 5;2wd;cast iron;aluminium;17;255;55;gasolina;1660;0
+Renault;Vel Satis;3.5L V6 240 hp;V4Y;3498;241;6000;330;3600;11.5;275;10.3;AT 5;2wd;aluminium;aluminium;18;245;45;gasolina;1720;0
+Renault;Vel Satis;2.2L dCi 150 hp;G9T;2188;150;4000;320;1750;8.4;;18.0;AT 5;2wd;cast iron;aluminium;17;225;55;gasoleo;1690;0
+Renault;Vel Satis;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.3;194;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1665;0
+Renault;Vel Satis;2.0L dCi 175 hp;M9RB;1995;173;3750;360;1750;7.3;194;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1665;0
+Renault;Vel Satis;3.0L dCi V6 180 hp;P9X;2959;181;4000;400;1800;8.7;232;18.5;AT 6;2wd;aluminium;aluminium;17;225;55;gasoleo;1735;0
+Renault;Espace;2.0L 136 hp;F4R;1998;136;5500;191;3750;9.4;223;9.8;MT 6;2wd;cast iron;aluminium;16;225;60;gasolina;1740;0
+Renault;Espace;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;9.6;227;9.8;MT 6;2wd;cast iron;aluminium;16;225;60;gasolina;1760;0
+Renault;Espace Imp.;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;9.6;227;9.8;MT 6;2wd;cast iron;aluminium;17;225;55;gasolina;1760;0
+Renault;Espace;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;10.3;243;9.8;AT 5;2wd;cast iron;aluminium;17;225;55;gasolina;1780;0
+Renault;Espace;3.5L V6 240 hp;V4Y;3498;241;6000;330;3600;12.0;284;10.3;AT 5;2wd;aluminium;aluminium;17;225;55;gasolina;1845;0
+Renault;Espace;2.0L dCi 130 hp;M9RA;1995;131;4000;320;2000;6.8;187;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1832;0
+Renault;Espace;2.2L dCi 140 hp;G9T;2188;139;4000;320;1750;9.2;244;18.0;AT 5;2wd;cast iron;aluminium;17;225;55;gasoleo;1885;0
+Renault;Espace;2.0L dCi 150 hp;M9RB;1995;150;4000;340;2000;7.4;191;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1855;0
+Renault;Espace;2.2L dCi 150 hp;G9T;2188;150;4000;320;1750;7.6;200;18.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1850;0
+Renault;Espace;2.0L dCi 175 hp;M9RB;1995;173;3750;360;1750;7.4;197;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1855;0
+Renault;Espace Pri.;2.0L dCi 175 hp;M9RB;1995;173;3750;360;1750;7.4;197;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1855;0
+Renault;Grand Espace;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;9.6;227;9.8;MT 6;2wd;cast iron;aluminium;16;225;60;gasolina;1815;0
+Renault;Grand Espace;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;9.6;227;9.8;MT 6;2wd;cast iron;aluminium;17;225;55;gasolina;1815;0
+Renault;Grand Espace;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;10.3;243;9.8;AT 5;2wd;cast iron;aluminium;16;225;60;gasolina;1840;0
+Renault;Grand Espace;3.5L V6 240 hp;V4Y;3498;241;6000;330;3600;12.2;289;10.3;AT 5;2wd;aluminium;aluminium;17;225;55;gasolina;1890;0
+Renault;Grand Espace;2.2L dCi 140 hp;G9T;2188;139;4000;320;1750;9.2;244;18.0;AT 5;2wd;cast iron;aluminium;17;225;55;gasoleo;1935;0
+Renault;Grand Espace;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.4;191;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1905;0
+Renault;Grand Espace;2.0L dCi 175 hp;M9RB;1995;173;3750;360;1750;7.6;200;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1905;0
+Renault;Grand Espace Pri.;2.0L dCi 175 hp;M9RB;1995;173;3750;360;1750;7.6;200;16.0;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1905;0
+Renault;Laguna;1.6L 110 hp;K4M;1598;112;6000;151;4250;7.6;180;9.8;MT 6;2wd;cast iron;aluminium;16;195;60;gasolina;1430;0
+Renault;Laguna;1.5L dCi 110 hp;K9KTHP;1461;110;4000;240;2000;4.9;130;15.6;MT 6;2wd;cast iron;aluminium;16;195;60;gasoleo;1461;0
+Renault;Laguna;2.0L dCi 130 hp;M9RA;1995;131;4000;320;2000;6.0;157;16.0;MT 6;2wd;cast iron;aluminium;16;195;60;gasoleo;1537;0
+Renault;Laguna;2.0L 140 hp;F4R;1997;140;6000;195;3750;7.6;180;10.2;MT 6;2wd;aluminium;aluminium;16;205;60;gasolina;1444;0
+Renault;Laguna Exp. Techno;1.5L dCi 110 hp;K9KTHP;1461;110;4000;240;2000;4.9;130;15.6;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1461;0
+Renault;Laguna Dyn.;2.0L 140 hp;F4R;1997;140;6000;195;3750;7.9;185;10.2;MT 6;2wd;aluminium;aluminium;17;215;50;gasolina;1444;0
+Renault;Laguna Exp. Techno;2.0L dCi 130 hp;M9RA;1995;131;4000;320;2000;6.0;157;16.0;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1537;0
+Renault;Laguna Dyn.;2.0L dCi 130 hp;M9RA;1995;131;4000;320;2000;6.0;157;16.0;MT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1537;0
+Renault;Laguna;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;6.0;157;16.0;MT 6;2wd;cast iron;aluminium;16;205;60;gasoleo;1537;0
+Renault;Laguna Dyn.;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;6.0;157;16.0;MT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1537;0
+Renault;Laguna Dyn.;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.0;185;16.0;AT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1611;0
+Renault;Laguna;2.0L dCi 175 hp;M9RB;1995;173;3750;380;2000;6.5;150;16.0;MT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1567;0
+Renault;Laguna Pri.;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.0;185;16.0;AT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1611;0
+Renault;Laguna;2.0L T 170 hp;F4RT;1998;170;5000;270;3250;8.8;207;9.5;AT 6;2wd;cast iron;aluminium;17;215;50;gasolina;1542;0
+Renault;Laguna GT;2.0L dCi 180 hp;M9RB;1995;178;3750;380;2000;6.5;172;16.0;MT 6;4wdir;cast iron;aluminium;18;225;45;gasoleo;1567;0
+Renault;Laguna GT;2.0L T 205 hp;F4RT;1998;204;5000;300;3000;8.2;194;9.0;MT 6;4wdir;cast iron;aluminium;18;225;45;gasolina;1542;0
+Renault;Laguna Coupé;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;6.0;157;15.7;MT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1561;0
+Renault;Laguna Coupé;2.0L dCi 175 hp;M9RB;1995;173;3750;380;2000;5.7;150;16.0;MT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1561;0
+Renault;Laguna Coupé;2.0L dCi 150 hp;M9RA;1995;150;4000;340;2000;7.0;185;15.7;AT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1614;0
+Renault;Laguna Coupé GT;2.0L dCi 180 hp;M9RB;1995;178;3750;400;2000;6.5;172;16.0;MT 6;4wdir;cast iron;aluminium;18;225;45;gasoleo;1614;0
+Renault;Laguna Coupé;2.0L T 205 hp;F4RT;1998;204;5000;300;3000;8.2;194;9.0;MT 6;2wd;cast iron;aluminium;17;215;50;gasolina;1503;0
+Renault;Laguna Coupé GT;2.0L T 205 hp;F4RT;1998;204;5000;300;3000;8.2;194;9.0;MT 6;4wdir;cast iron;aluminium;18;225;45;gasolina;1503;0
+Renault;Laguna Coupé;3.5L V6 240 hp;V4Y;3498;238;6000;330;4400;10.0;238;10.3;AT 6;2wd;aluminium;aluminium;17;215;50;gasolina;1597;0
+Renault;Laguna Coupé;3.0L V6 dCi 235 hp;V9X;2993;235;3750;450;1500;7.2;192;16.0;AT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1705;0
+Peugeot;107 2-Tronic;1.0L 68 hp 3 Cyl.;1KR-FE;998;68;6000;93;3600;4.6;107;10.5;AT 5;2wd;aluminium;aluminium;14;155;65;gasolina;915;900
+Peugeot;107;1.4L HDi 54 hp;DV4 TD;1399;54;4000;130;1750;4.1;109;17.9;MT;2wd;aluminium;aluminium;14;155;65;gasoleo;965;965
+Peugeot;107 Urb.;1.0L 68 hp 3 Cyl.;1KR-FE;998;68;6000;93;3600;4.5;106;10.5;MT;2wd;aluminium;aluminium;14;155;65;gasolina;880;865
+Peugeot;206+;1.1L 60 hp;TU1;1124;60;5500;94;3300;5.7;135;;MT;2wd;aluminium;aluminium;14;175;65;gasolina;1020;1013
+Peugeot;206+;1.4L 75 hp;TU3;1361;75;5500;120;3400;6.3;150;10.2;MT;2wd;aluminium;aluminium;14;175;65;gasolina;1027;1016
+Peugeot;206+;1.4L HDi 70 hp;DV4 TD;1399;68;4000;160;2000;4.2;110;17.9;MT;2wd;aluminium;aluminium;14;175;65;gasoleo;1055;1042
+Peugeot;3008;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;7.1;165;11.0;MT;2wd;aluminium;aluminium;16;215;60;gasolina;1474;0
+Peugeot;3008;1.6L THP 150 hp;EP6 DT;1598;150;5800;240;1400;7.4;176;10.5;MT 6;2wd;aluminium;aluminium;16;215;60;gasolina;1534;0
+Peugeot;3008;1.6L HDi FAP 110 hp;DV6 TED4;1560;109;4000;240;1750;5.1;137;18.0;MT 6;2wd;aluminium;aluminium;16;215;60;gasoleo;1500;0
+Peugeot;3008;1.6L HDi FAP 110 hp;DV6 TED4;1560;109;4000;240;1750;4.9;130;18.0;AMT 6;2wd;aluminium;aluminium;16;215;60;gasoleo;1500;0
+Peugeot;3008;2.0L HDi FAP 150 hp;DW10;1997;150;3750;340;2000;5.6;146;;MT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1604;0
+Peugeot;3008;2.0L HDi FAP 163 hp;DW10;1997;163;3750;340;2000;6.7;176;;AT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1614;0
+Peugeot;1007;1.4L HDi 70 hp;DV4 TD;1399;68;4000;160;2000;4.5;120;17.9;MT;2wd;aluminium;aluminium;16;195;50;gasoleo;1243;0
+Peugeot;1007 2-Tronic;1.6L 110 hp;TU5;1587;109;5750;147;4000;6.6;156;11.0;AMT 5;2wd;cast iron;aluminium;16;195;50;gasolina;1216;0
+Peugeot;1007;1.6L HDi FAP 110 hp;DV6 TED4;1560;109;4000;240;1750;4.8;125;18.0;MT;2wd;aluminium;aluminium;16;195;50;gasoleo;1348;0
+Peugeot;807 (2002) SR;2.0L 136 hp;EW10 J4;1997;136;6000;190;4100;9.1;;10.8;MT;2wd;aluminium;aluminium;15;205;65;gasolina;1570;0
+Peugeot;807 (2002) ST;2.0L 136 hp;EW10 J4;1997;136;6000;190;4100;9.0;;10.8;MT;2wd;aluminium;aluminium;16;215;60;gasolina;1570;0
+Peugeot;807 (2002) ST;2.2L 158 hp;EW12 J4;2231;158;5650;217;3900;9.7;;10.8;MT;2wd;aluminium;aluminium;15;215;65;gasolina;1606;0
+Peugeot;807 (2002) SV;3.0L V6 204 hp;ES9;2946;204;6000;285;3750;11.5;;10.9;AT 4;2wd;aluminium;aluminium;16;215;60;gasolina;1762;0
+Peugeot;807 (2002) Pullman;3.0L V6 204 hp;ES9;2946;204;6000;285;3750;11.5;;10.9;AT 4;2wd;aluminium;aluminium;16;215;60;gasolina;1784;0
+Peugeot;807 (2002) SR;2.0L HDi 110 hp;DW10 ATED;1997;107;4000;270;1750;7.2;;17.0;MT;2wd;cast iron;aluminium;15;215;65;gasoleo;1668;0
+Peugeot;807 (2002) ST;2.0L HDi 110 hp;DW10 ATED;1997;107;4000;270;1750;7.0;186;17.0;MT;2wd;cast iron;aluminium;16;215;60;gasoleo;1743;0
+Peugeot;807 (2002) SV;2.2L HDi 130 hp;DW12A;2179;128;4000;314;2000;7.3;195;18.0;MT 6;2wd;cast iron;aluminium;15;215;65;gasoleo;1783;0
+Peugeot;807;2.0L 140 hp;EW10 J4;1997;140;6000;195;4000;9.0;213;;MT;2wd;aluminium;aluminium;16;215;60;gasolina;1709;0
+Peugeot;807;2.0L HDi 120 hp;DW10;1997;120;4000;300;2000;6.9;182;17.3;MT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1811;0
+Peugeot;807;2.0L HDi 136 hp FAP;DW10 TED4;1997;136;4000;320;2000;7.1;188;17.6;MT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1818;0
+Peugeot;807;2.2L HDi 170 hp FAP;DW12B;2179;170;4000;370;1500;7.2;191;16.6;MT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1865;0
+Peugeot;807;2.2L HDi 170 hp FAP;DW12B;2179;170;4000;370;1500;8.2;218;16.6;AT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1893;0
+Peugeot;607 (2002);2.2L HDi 130 hp;DW12A;2179;133;4000;314;2000;6.7;;18.0;MT;2wd;cast iron;aluminium;16;225;55;gasoleo;1535;0
+Peugeot;607;2.2L 160 hp;EW12 J4;2231;158;5650;217;3900;9.2;;10.8;MT;2wd;aluminium;aluminium;17;225;50;gasolina;1496;0
+Peugeot;607;3.0L V6 210 hp;ES9;2946;211;6000;290;3750;10.2;242;10.9;AT 6;2wd;aluminium;aluminium;17;225;50;gasolina;1719;0
+Peugeot;607;2.0L HDi FAP 110 hp;DW10 ATED;1997;107;4000;250;1750;;;17.6;MT;2wd;cast iron;aluminium;17;225;50;gasoleo;;0
+Peugeot;607;2.2L HDi FAP 130 hp;DW12A;2179;133;4000;314;2000;6.6;;18.0;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;;0
+Peugeot;607;2.7L V6 HDi 200 hp FAP;DT17TED4 (LionV6);2721;204;4000;440;1900;8.4;223;17.3;AT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1798;0
+Peugeot;4007;2.2L HDi 156 hp FAP;DW12B;2179;156;4000;380;2000;7.2;191;16.6;MT 6;4wd;cast iron;aluminium;16;215;70;gasoleo;1822;0
+Peugeot;4007 Sport Pack.;2.2L HDi 156 hp FAP;DW12B;2179;156;4000;380;2000;7.3;194;16.6;MT 6;4wd;cast iron;aluminium;18;225;55;gasoleo;1822;0
+Peugeot;4007;2.4L 170 hp;4B12;2360;170;6000;232;4100;9.3;222;10.5;hpT;4wd;aluminium;aluminium;18;225;55;gasolina;1715;0
+Peugeot;407;1.8L 125 hp;EW7 J4;1749;125;6000;170;3750;7.7;181;10.8;MT;2wd;aluminium;aluminium;16;205;60;gasolina;1475;0
+Peugeot;407;1.6L Hdi FAP 110 hp;DV6 TED4;1560;109;4000;240;1750;4.9;129;18.0;MT;2wd;aluminium;aluminium;16;205;60;gasolina;1505;0
+Peugeot;407;2.0L 140 hp;EW10;1997;140;6000;200;4000;8.1;192;10.8;MT;2wd;aluminium;aluminium;17;215;55;gasolina;1490;0
+Peugeot;407;2.0L HDi FAP 140 hp;DW10;1997;140;4000;320;2000;5.7;150;17.6;MT 6;2wd;cast iron;aluminium;17;215;55;gasoleo;1580;0
+Peugeot;407;2.2L HDi FAP 170 hp;DW12B;2179;170;4000;370;1500;6.1;159;16.6;MT 6;2wd;cast iron;aluminium;17;215;55;gasoleo;1699;0
+Peugeot;407;2.0L HDi FAP 136 hp;DW10 TED4;1997;136;4000;320;2000;7.1;186;17.6;AT 6;2wd;cast iron;aluminium;17;215;55;gasoleo;1636;0
+Peugeot;407;2.2L 163 hp;EW12 J4;2231;163;5875;220;4150;9.0;214;10.8;MT 6;2wd;aluminium;aluminium;17;215;55;gasolina;1555;0
+Peugeot;407;3.0L V6 211 hp;ES9 /A;2946;211;6000;290;3750;9.8;233;10.9;AT 6;2wd;aluminium;aluminium;18;235;45;gasolina;1660;0
+Peugeot;407;2.7L V6 HDi FAP 204 hp;DT17TED4 (LionV6);2721;204;4000;440;1900;8.4;223;17.3;AT 6;2wd;cast iron;aluminium;18;235;45;gasoleo;1802;0
+Peugeot;407 SW;2.0L 140 hp;EW10;1997;140;6000;200;4000;8.3;196;10.8;MT;2wd;aluminium;aluminium;17;215;55;gasolina;1533;0
+Peugeot;407 SW;1.6L HDi FAP 110 hp;DV6 TED4;1560;109;4000;240;1750;4.9;129;18.0;MT;2wd;aluminium;aluminium;16;205;60;gasoleo;1545;0
+Peugeot;407 SW;2.0L HDi FAP 140 hp;DW10;1997;140;4000;320;2000;5.7;150;17.6;MT 6;2wd;cast iron;aluminium;17;215;55;gasoleo;1620;0
+Peugeot;407 SW;2.2L 163 hp;EW12 J4;2231;163;5875;220;4150;9.2;219;10.8;MT 6;2wd;aluminium;aluminium;17;215;55;gasolina;1610;0
+Peugeot;407 SW;2.0L HDi FAP 136 hp;DW10 TED4;1997;136;4000;320;2000;7.2;192;17.6;AT 6;2wd;cast iron;aluminium;17;215;55;gasoleo;1676;0
+Peugeot;407 SW;2.2L HDi FAP 170 hp;DW12B;2179;170;4000;370;1500;6.2;165;16.6;MT 6;2wd;cast iron;aluminium;17;215;55;gasoleo;1750;0
+Peugeot;407 SW;3.0L V6 211 hp;ES9 /A;2946;211;6000;290;3750;9.9;236;10.9;AT 6;2wd;aluminium;aluminium;18;235;45;gasolina;1715;0
+Peugeot;407 SW;2.7L V6 HDi FAP 204 hp;DT17TED4 (LionV6);2721;204;4000;440;1900;8.5;225;17.3;AT 6;2wd;cast iron;aluminium;18;235;45;gasoleo;1852;0
+Peugeot;407 coupé;2.2L 163 hp;EW12 J4;2231;163;5875;220;4150;9.2;219;10.8;MT 6;2wd;aluminium;aluminium;17;215;55;gasolina;1600;0
+Peugeot;407 coupé Pack.;2.2L 163 hp;EW12 J4;2231;163;5875;220;4150;9.2;219;10.8;MT 6;2wd;aluminium;aluminium;18;235;45;gasolina;1600;0
+Peugeot;407 coupé;3.0L V6 210 hp;ES9;2946;211;6000;290;3750;10.2;242;10.9;MT 6;2wd;aluminium;aluminium;18;235;45;gasolina;1687;0
+Peugeot;407 coupé;3.0L V6 210 hp;ES9;2946;211;6000;290;3750;10.2;242;10.9;AT 6;2wd;aluminium;aluminium;18;235;45;gasolina;1712;0
+Peugeot;407 coupé;2.7L HDi V6 204 hp FAP;DT17TED4 (LionV6);2721;204;4000;440;1900;8.5;226;17.3;AT 6;2wd;cast iron;aluminium;18;235;45;gasoleo;1799;0
+Peugeot;308;1.4L VTi 95 hp;EP3;1397;95;6000;136;4000;6.5;155;11.0;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1346;1337
+Peugeot;308;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;15;195;65;gasoleo;1378;1368
+Peugeot;308 Sport;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1378;1368
+Peugeot;308;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1362;1352
+Peugeot;308 Sport;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1362;1352
+Peugeot;308 Prem. 5p;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;17;225;45;gasolina;1362;0
+Peugeot;308 Sport 5p;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;7.0;165;11.0;AT 4;2wd;aluminium;aluminium;16;205;55;gasolina;1387;0
+Peugeot;308;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;15;195;65;gasoleo;;0
+Peugeot;308 Sport;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;;0
+Peugeot;308 Prem. 5p;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.9;130;18.0;MT 6;2wd;aluminium;aluminium;17;225;45;gasoleo;1397;0
+Peugeot;308;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.0;165;10.5;MT 6;2wd;aluminium;aluminium;16;205;55;gasolina;;0
+Peugeot;308 Sport;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.5;120;18.0;AT 6;2wd;aluminium;aluminium;16;205;55;gasoleo;1409;1399
+Peugeot;308;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;5.3;140;17.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1496;1483
+Peugeot;308 Prem. 5p;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;5.5;146;17.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1496;0
+Peugeot;308 GT;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;5.5;146;17.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1483;0
+Peugeot;308 Prem. 5p;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;6.8;180;17.6;AT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1522;0
+Peugeot;308 Prem. 5p;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.2;171;10.5;MT 6;2wd;aluminium;aluminium;17;225;45;gasolina;;0
+Peugeot;308 GT;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.2;171;10.5;MT 6;2wd;aluminium;aluminium;18;225;40;gasolina;;0
+Peugeot;308 GT;1.6L THP 175 hp;EP6T;1598;174;6000;240;1600;7.6;180;10.5;MT 6;2wd;aluminium;aluminium;18;225;40;gasolina;1446;0
+Peugeot;308 SW;1.4L VTi 95 hp;EP3;1397;95;6000;136;4000;6.7;159;11.0;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1426;0
+Peugeot;308 SW;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.7;125;18.0;MT;2wd;aluminium;aluminium;15;195;65;gasoleo;1453;0
+Peugeot;308 SW;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.9;164;11.0;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1515;0
+Peugeot;308 SW Sport;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.9;164;11.0;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1515;0
+Peugeot;308 SW;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.9;129;18.0;MT 6;2wd;aluminium;aluminium;15;195;65;gasoleo;;0
+Peugeot;308 SW Sport;1.6L VTi 120 hp;DV6;1598;120;6000;160;4250;7.7;182;11.0;AT 4;2wd;aluminium;aluminium;16;205;55;gasolina;1541;0
+Peugeot;308 SW Prem.;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.9;164;11.0;MT;2wd;aluminium;aluminium;17;225;45;gasolina;1515;0
+Peugeot;308 SW;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.5;177;10.5;MT 6;2wd;aluminium;aluminium;16;215;55;gasolina;1561;0
+Peugeot;308 SW Sport;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.9;130;18.0;MT 6;2wd;aluminium;aluminium;16;205;55;gasoleo;1570;0
+Peugeot;308 SW Prem.;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.5;177;10.5;MT 6;2wd;aluminium;aluminium;17;225;45;gasolina;1561;0
+Peugeot;308 SW;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;5.9;155;17.6;MT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1650;0
+Peugeot;308 SW Prem.;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.9;130;18.0;MT 6;2wd;aluminium;aluminium;17;225;45;gasoleo;1570;0
+Peugeot;308 SW Prem.;1.6L THP 140 hp;EP6T;1598;140;6000;240;1400;8.2;194;10.5;AT 4;2wd;aluminium;aluminium;17;225;45;gasolina;1577;0
+Peugeot;308 SW Prem.;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;5.9;155;17.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1650;0
+Peugeot;308 SW Sport;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;7.1;187;17.6;AT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1675;0
+Peugeot;308 SW Prem.;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;7.1;187;17.6;AT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1675;0
+Peugeot;308 CC;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.5;177;10.5;MT 6;2wd;aluminium;aluminium;17;225;45;gasolina;1587;0
+Peugeot;308 CC;2.0L HDi FAP 140 hp;DW10;1997;140;4000;320;2000;5.9;155;17.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1674;0
+Peugeot;308 CC Sport;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.5;177;10.5;MT 6;2wd;aluminium;aluminium;18;225;40;gasolina;1587;0
+Peugeot;308 CC Sport;1.6L THP 140 hp;EP6T;1598;140;6000;240;1400;8.1;192;10.5;AT 4;2wd;aluminium;aluminium;18;225;40;gasolina;1598;0
+Peugeot;308 CC;2.0L HDi FAP 140 hp;DW10;1997;140;4000;320;2000;5.9;155;17.6;MT 6;2wd;cast iron;aluminium;18;225;40;gasoleo;1674;0
+Peugeot;308 CC Sport;2.0L HDi FAP 136 hp;DW10;1997;136;4000;320;2000;7.0;185;17.6;AT 6;2wd;cast iron;aluminium;18;225;40;gasoleo;1695;0
+Peugeot;207;1.4L 75 hp;TU3;1361;73;5400;118;3300;6.3;150;10.5;MT;2wd;aluminium;aluminium;15;185;65;gasolina;1223;1213
+Peugeot;207;1.4L HDi 70 hp;DV4 TD;1399;68;4000;160;2000;4.4;115;17.9;MT;2wd;aluminium;aluminium;15;185;65;gasoleo;1261;1251
+Peugeot;207;1.4L VTi 95 hp;EP3;1397;95;6000;136;4000;5.9;140;11.0;MT;2wd;aluminium;aluminium;15;185;65;gasolina;1253;1240
+Peugeot;207;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.4;117;18.0;MT;2wd;aluminium;aluminium;15;185;65;gasoleo;1280;1272
+Peugeot;207 Sport;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.1;145;11.0;MT;2wd;aluminium;aluminium;16;195;55;gasolina;1275;1275
+Peugeot;207 Sport;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.3;115;18.0;MT;2wd;aluminium;aluminium;16;195;55;gasoleo;1280;1272
+Peugeot;207;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;16;195;55;gasoleo;1328;1319
+Peugeot;207 Sport;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;7.0;167;11.0;AT 4;2wd;aluminium;aluminium;16;195;55;gasolina;1321;0
+Peugeot;207 GT;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;17;205;45;gasoleo;1328;1319
+Peugeot;207 GT;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.0;164;10.5;MT;2wd;aluminium;aluminium;17;205;45;gasolina;1356;0
+Peugeot;207 RC;1.6L THP 175 hp;EP6T;1598;174;6000;240;1600;7.2;171;10.5;MT;2wd;aluminium;aluminium;17;205;45;gasolina;1325;0
+Peugeot;207 CC;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.5;155;11.0;MT;2wd;aluminium;aluminium;16;195;55;gasolina;1427;0
+Peugeot;207 CC;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;7.2;173;11.0;AT 4;2wd;aluminium;aluminium;16;195;55;gasolina;1466;0
+Peugeot;207 CC;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;5.2;130;18.0;MT;2wd;aluminium;aluminium;16;195;55;gasoleo;1488;0
+Peugeot;207 CC;1.6L THP 150 hp;EP6T;1598;150;5800;240;1400;7.2;171;10.5;MT;2wd;aluminium;aluminium;17;205;45;gasolina;1493;0
+Peugeot;207 CC Sport;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;5.2;130;18.0;MT;2wd;aluminium;aluminium;17;205;45;gasoleo;1488;0
+Peugeot;207 SW;1.4L 75 hp;TU3;1361;73;5400;118;3300;6.5;155;10.5;MT;2wd;aluminium;aluminium;15;185;65;gasolina;1271;0
+Peugeot;207 SW;1.4L VTi 95 hp;EP3;1397;95;6000;136;4000;6.3;150;11.0;MT;2wd;aluminium;aluminium;15;185;65;gasolina;1290;0
+Peugeot;207 SW;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.5;119;18.0;MT;2wd;aluminium;aluminium;15;185;65;gasoleo;1339;0
+Peugeot;207 SW;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.3;150;11.0;MT;2wd;aluminium;aluminium;16;195;55;gasolina;1302;0
+Peugeot;207 SW Sport;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.5;117;18.0;MT;2wd;aluminium;aluminium;16;195;55;gasoleo;1339;0
+Peugeot;207 SW Outdoor;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;6.4;152;11.0;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1329;0
+Peugeot;207 SW;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;16;195;55;gasoleo;1350;0
+Peugeot;207 SW Outdoor;1.6L HDi 90 hp;DV6;1560;90;4000;215;1750;4.7;125;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1373;0
+Peugeot;207 SW;1.6L VTi 120 hp;EP6;1598;120;6000;160;4250;7.0;165;11.0;AT 4;2wd;aluminium;aluminium;16;195;55;gasolina;1335;0
+Peugeot;207 SW Outdoor;1.6L HDi FAP 110 hp;DV6;1560;109;4000;240;1750;5.0;130;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1387;0
+Nissan;Pixo;1.0L 70 hp;;997;68;6000;90;3400;4.4;103;11.0;MT;2wd;aluminium;aluminium;14;155;65;gasolina;925;0
+Nissan;Pixo;1.0L 70 hp;;997;68;6000;90;3400;5.0;128;11.0;AT 4;2wd;aluminium;aluminium;14;155;65;gasolina;;0
+Nissan;Micra;1.2L 80 hp;;1240;80;5200;110;3600;5.9;139;9.9;MT;2wd;aluminium;aluminium;14;165;70;gasolina;1021;1021
+Nissan;Micra;1.4L 88 hp;;1386;88;5200;128;3200;6.3;150;9.9;MT;2wd;aluminium;aluminium;15;175;60;gasolina;1032;1032
+Nissan;Micra;1.5L dCi 86 hp;;1461;86;3750;200;1900;4.6;120;18.8;MT;2wd;cast iron;aluminium;14;165;70;gasoleo;1136;0
+Nissan;Micra;1.2L 80 hp;;1240;80;5200;110;3600;6.6;159;9.9;AT 4;2wd;aluminium;aluminium;15;175;60;gasolina;1032;0
+Nissan;Micra 25 An.;1.5L dCi 86 hp;;1461;86;3750;200;1900;4.6;120;18.8;MT;2wd;cast iron;aluminium;15;175;60;gasoleo;1136;0
+Nissan;Micra Tekna;1.4L 88 hp;;1386;88;5200;128;3200;6.3;150;9.9;MT;2wd;aluminium;aluminium;16;185;50;gasolina;1032;0
+Nissan;Micra Tekna;1.4L 88 hp;;1386;88;5200;128;3200;6.8;163;9.9;AT 4;2wd;aluminium;aluminium;16;185;50;gasolina;1032;0
+Nissan;Micra Tekna;1.5L dCi 86 hp;;1461;86;3750;200;1900;4.6;120;18.8;MT;2wd;cast iron;aluminium;16;185;50;gasoleo;1136;0
+Nissan;Micra C+C;1.4L 88 hp;;1386;88;5200;128;3200;6.6;158;9.9;MT;2wd;aluminium;aluminium;15;175;60;gasolina;1210;0
+Nissan;Micra C+C;1.6L 110 hp;;1598;110;6000;153;4400;6.7;160;10.7;MT;2wd;aluminium;aluminium;16;185;50;gasolina;1225;0
+Nissan;Note;1.4L 88 hp;;1386;88;5200;128;3200;6.3;150;9.9;MT;2wd;aluminium;aluminium;15;185;65;gasolina;1167;0
+Nissan;Note;1.5L dCi 86 hp;;1461;86;3750;200;1900;4.9;129;18.8;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1240;0
+Nissan;Note;1.6L 110 hp;;1598;110;6000;153;4400;6.6;155;10.7;MT;2wd;aluminium;aluminium;15;185;65;gasolina;1182;0
+Nissan;Note Tekna;1.6L 110 hp;;1598;110;6000;153;4400;6.6;156;10.7;MT;2wd;aluminium;aluminium;16;185;55;gasolina;1182;0
+Nissan;Note Tekna;1.6L 110 hp;;1598;110;6000;153;4400;6.8;159;10.7;AT 4;2wd;aluminium;aluminium;16;185;55;gasolina;1206;0
+Nissan;Note Tekna;1.5L dCi 86 hp;;1461;86;3750;200;1900;4.9;129;18.8;MT;2wd;cast iron;aluminium;16;185;55;gasoleo;1240;0
+Nissan;Note;1.5L dCi 105 hp;K9KTHP;1461;103;4000;240;2000;5.1;136;15.3;MT 6;2wd;cast iron;aluminium;15;185;65;gasoleo;1353;0
+Nissan;Note Tekna;1.5L dCi 105 hp;K9KTHP;1461;103;4000;240;2000;5.1;136;15.3;MT 6;2wd;cast iron;aluminium;16;185;55;gasoleo;1353;0
+Nissan;Tiida;1.6L 110 hp;;1598;110;6000;153;4400;6.9;165;10.7;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1278;0
+Nissan;Tiida;1.8L 126 hp;;1798;126;5200;173;4800;7.8;188;9.9;MT 6;2wd;aluminium;aluminium;15;195;65;gasolina;1307;0
+Nissan;Tiida;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.2;138;15.3;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1389;0
+Nissan;Tiida;1.6L 110 hp;;1598;110;6000;153;4400;7.4;178;10.7;AT 4;2wd;aluminium;aluminium;15;195;65;gasolina;1299;0
+Nissan;370Z;3.7L V6 330 hp;;3696;330;7000;366;5200;10.5;249;11.0;MT 6;Av/Ar;aluminium;aluminium;18;225;50;gasolina;1571;0
+Nissan;370Z;3.7L V6 330 hp;;3696;330;7000;366;5200;10.4;247;11.0;AT 7;Av/Ar;aluminium;aluminium;18;225;50;gasolina;1583;0
+Nissan;GT-R;3.8L V6 490 hp;;3799;486;6400;588;3200;12.2;298;9.0;AT 6;4wd;aluminium;aluminium;20;225;40;gasolina;1815;0
+Nissan;GT-R Premium;3.8L V6 490 hp;;3799;486;6400;588;3200;12.2;298;9.0;AT 6;4wd;aluminium;aluminium;20;225;40;gasolina;1815;0
+Nissan;Qashqai;1.6L 115 hp;;1598;114;6000;156;4400;6.7;159;10.7;MT;2wd;aluminium;aluminium;16;215;65;gasolina;1372;0
+Nissan;Qashqai Acenta;1.6L 115 hp;;1598;114;6000;156;4400;6.7;159;10.7;MT;2wd;aluminium;aluminium;17;215;60;gasolina;1372;0
+Nissan;Qashqai Tekna Sp.;1.6L 115 hp;;1598;114;6000;156;4400;6.7;159;10.7;MT;2wd;aluminium;aluminium;18;215;55;gasolina;1372;0
+Nissan;Qashqai;2.0L 140 hp;;1997;141;6000;196;4800;8.1;192;10.2;MT 6;2wd;aluminium;aluminium;16;215;65;gasolina;1431;0
+Nissan;Qashqai Acenta;2.0L 140 hp;;1997;141;6000;196;4800;8.1;192;10.2;MT 6;2wd;aluminium;aluminium;17;215;60;gasolina;1431;0
+Nissan;Qashqai Tekna Sp.;2.0L 140 hp;;1997;141;6000;196;4800;8.1;192;10.2;MT 6;2wd;aluminium;aluminium;18;215;55;gasolina;1431;0
+Nissan;Qashqai;2.0L 140 hp;;1997;141;6000;196;4800;7.9;189;10.2;hpT;2wd;aluminium;aluminium;16;215;65;gasolina;1453;0
+Nissan;Qashqai Acenta;2.0L 140 hp;;1997;141;6000;196;4800;7.9;189;10.2;hpT;2wd;aluminium;aluminium;17;215;60;gasolina;1453;0
+Nissan;Qashqai Tekna Sp.;2.0L 140 hp;;1997;141;6000;196;4800;7.9;189;10.2;hpT;2wd;aluminium;aluminium;18;215;55;gasolina;1453;0
+Nissan;Qashqai;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.2;139;15.3;MT 6;2wd;cast iron;aluminium;16;215;65;gasoleo;1482;0
+Nissan;Qashqai Acenta;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.2;139;15.3;MT 6;2wd;cast iron;aluminium;17;215;60;gasoleo;1482;0
+Nissan;Qashqai Tekna Sp.;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.2;139;15.3;MT 6;2wd;cast iron;aluminium;18;215;55;gasoleo;1482;0
+Nissan;Qashqai;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.6;174;16.0;MT 6;2wd;cast iron;aluminium;16;215;65;gasoleo;1595;0
+Nissan;Qashqai Acenta;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.6;174;16.0;MT 6;2wd;cast iron;aluminium;17;215;60;gasoleo;1595;0
+Nissan;Qashqai Tekna Sp.;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.6;174;16.0;MT 6;2wd;cast iron;aluminium;18;215;55;gasoleo;1595;0
+Nissan;Qashqai Acenta;2.0L 140 hp;;1997;141;6000;196;4800;8.4;199;10.2;MT 6;4wd;aluminium;aluminium;17;215;60;gasolina;1490;0
+Nissan;Qashqai Tekna Sp.;2.0L 140 hp;;1997;141;6000;196;4800;8.4;199;10.2;MT 6;4wd;aluminium;aluminium;18;215;55;gasolina;1490;0
+Nissan;Qashqai Acenta;2.0L 140 hp;;1997;141;6000;196;4800;8.3;198;10.2;hpT;4wd;aluminium;aluminium;17;215;60;gasolina;1529;0
+Nissan;Qashqai Tekna Sp.;2.0L 140 hp;;1997;141;6000;196;4800;8.3;198;10.2;hpT;4wd;aluminium;aluminium;18;215;55;gasolina;1529;0
+Nissan;Qashqai;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.9;184;16.0;MT 6;4wd;cast iron;aluminium;16;215;65;gasoleo;1657;0
+Nissan;Qashqai Acenta;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.9;184;16.0;MT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1657;0
+Nissan;Qashqai Tekna Sp.;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.9;184;16.0;MT 6;4wd;cast iron;aluminium;18;215;55;gasoleo;1657;0
+Nissan;Qashqai;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.8;208;16.0;AT 6;4wd;cast iron;aluminium;16;215;65;gasoleo;1689;0
+Nissan;Qashqai Acenta;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.8;208;16.0;AT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1689;0
+Nissan;Qashqai Tekna Sp.;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.8;208;16.0;AT 6;4wd;cast iron;aluminium;18;215;55;gasoleo;1689;0
+Nissan;Qashqai +2;1.6L 115 hp;;1598;114;6000;156;4400;7.0;165;10.7;MT;2wd;aluminium;aluminium;16;215;65;gasolina;1604;0
+Nissan;Qashqai +2 Acenta;1.6L 115 hp;;1598;114;6000;156;4400;7.0;165;10.7;MT;2wd;aluminium;aluminium;17;215;60;gasolina;1604;0
+Nissan;Qashqai +2 Tekna Sp.;1.6L 115 hp;;1598;114;6000;156;4400;7.0;165;10.7;MT;2wd;aluminium;aluminium;18;215;55;gasolina;1604;0
+Nissan;Qashqai +2;2.0L 140 hp;;1997;141;6000;196;4800;8.4;197;10.2;MT 6;2wd;aluminium;aluminium;16;215;65;gasolina;1551;0
+Nissan;Qashqai +2 Acenta;2.0L 140 hp;;1997;141;6000;196;4800;8.4;197;10.2;MT 6;2wd;aluminium;aluminium;17;215;60;gasolina;1551;0
+Nissan;Qashqai +2 Tekna Sp.;2.0L 140 hp;;1997;141;6000;196;4800;8.4;197;10.2;MT 6;2wd;aluminium;aluminium;18;215;55;gasolina;1551;0
+Nissan;Qashqai +2;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.7;149;15.3;MT 6;2wd;cast iron;aluminium;16;215;65;gasoleo;1586;0
+Nissan;Qashqai +2 Acenta;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.7;149;15.3;MT 6;2wd;cast iron;aluminium;17;215;60;gasoleo;1586;0
+Nissan;Qashqai +2 Tekna Sp.;1.5L dCi 105 hp;K9KTHP;1461;106;4000;240;2000;5.7;149;15.3;MT 6;2wd;cast iron;aluminium;18;215;55;gasoleo;1586;0
+Nissan;Qashqai +2;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.7;177;15.6;MT 6;2wd;cast iron;aluminium;16;215;65;gasoleo;1706;0
+Nissan;Qashqai +2 Acenta;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.7;177;15.6;MT 6;2wd;cast iron;aluminium;17;215;60;gasoleo;1706;0
+Nissan;Qashqai +2 Tekna Sp.;2.0L dCi 150 hp;;1995;150;4000;340;2000;6.7;177;15.6;MT 6;2wd;cast iron;aluminium;18;215;55;gasoleo;1706;0
+Nissan;Qashqai +2 Acenta;2.0L 140 hp;;1997;141;6000;196;4800;8.6;205;10.2;MT 6;4wd;aluminium;aluminium;17;215;60;gasolina;1604;0
+Nissan;Qashqai +2 Tekna Sp.;2.0L 140 hp;;1997;141;6000;196;4800;8.6;205;10.2;MT 6;4wd;aluminium;aluminium;18;215;55;gasolina;1604;0
+Nissan;Qashqai +2 Acenta;2.0L 140 hp;;1997;141;6000;196;4800;8.5;199;10.2;hpT;4wd;aluminium;aluminium;17;215;60;gasolina;1604;0
+Nissan;Qashqai +2 Tekna Sp.;2.0L 140 hp;;1997;141;6000;196;4800;8.5;199;10.2;hpT;4wd;aluminium;aluminium;18;215;55;gasolina;1604;0
+Nissan;Qashqai +2;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.0;188;15.6;MT 6;4wd;cast iron;aluminium;16;215;65;gasoleo;1771;0
+Nissan;Qashqai +2 Acenta;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.0;188;15.6;MT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1771;0
+Nissan;Qashqai +2 Tekna Sp.;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.0;188;15.6;MT 6;4wd;cast iron;aluminium;18;215;55;gasoleo;1771;0
+Nissan;Qashqai +2;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.9;209;15.6;AT 6;4wd;cast iron;aluminium;16;215;65;gasoleo;1807;0
+Nissan;Qashqai +2 Acenta;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.9;209;15.6;AT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1807;0
+Nissan;Qashqai +2 Tekna Sp.;2.0L dCi 150 hp;;1995;150;4000;340;2000;7.9;209;15.6;AT 6;4wd;cast iron;aluminium;18;215;55;gasoleo;1807;0
+Nissan;X-Trail XE;2.0L 141 hp;;1997;141;6000;196;4800;8.7;208;10.2;MT 6;4wd;aluminium;aluminium;16;215;65;gasolina;1557;0
+Nissan;X-Trail SE;2.0L 141 hp;;1997;141;6000;196;4800;8.7;208;10.2;MT 6;4wd;aluminium;aluminium;17;215;46;gasolina;1557;0
+Nissan;X-Trail XE;2.0L dCi 150 hp;;1998;150;4000;320;2000;7.1;190;15.6;MT 6;4wd;cast iron;aluminium;16;215;65;gasoleo;1700;0
+Nissan;X-Trail SE;2.0L dCi 150 hp;;1998;150;4000;320;2000;7.1;190;15.6;MT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1700;0
+Nissan;X-Trail Plat.;2.0L dCi 150 hp;;1998;150;4000;320;2000;7.1;190;15.6;MT 6;4wd;cast iron;aluminium;18;215;55;gasoleo;1700;0
+Nissan;X-Trail SE;2.0L dCi 150 hp;;1995;150;4000;320;2000;8.1;216;15.6;AT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1712;0
+Nissan;X-Trail Plat.;2.0L dCi 150 hp;;1995;150;4000;320;2000;8.1;216;15.6;AT 6;4wd;cast iron;aluminium;18;215;55;gasoleo;1712;0
+Nissan;Pathfinder 5 pl.;2.5L dCi 171 hp;;2488;171;4000;403;2000;9.8;264;16.5;MT 6 with reductor (2.6);4wd;cast iron;aluminium;17;255;65;gasoleo;;0
+Nissan;Pathfinder 7 pl.;2.5L dCi 171 hp;;2488;171;4000;403;2000;9.8;264;16.5;MT 6 with reductor (2.6);4wd;cast iron;aluminium;17;255;65;gasoleo;;0
+Nissan;Pathfinder 7 pl.;2.5L dCi 171 hp;;2488;171;4000;403;2000;10.2;276;16.5;AT 5 with reductor (2.6);4wd;cast iron;aluminium;17;255;65;gasoleo;;0
+Nissan;Murano;3.5L V6 S- 256 hp;;3498;256;6000;334;4400;10.9;261;10.3;hpT;4wd;aluminium;aluminium;18;225;65;gasolina;;0
+Nissan;Murano (2005);3.5L V6 234 hp;;3498;234;6000;318;3600;12.3;295;10.3;hpT;4wd;aluminium;aluminium;18;225;65;gasolina;1945;0
+Dacia;Sandero;1.4L 75 hp;;1390;75;5500;112;3000;7.0;165;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1050;0
+Dacia;Sandero;1.2L 75 hp;;1149;75;5500;108;4250;5.9;139;9.8;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1050;0
+Dacia;Sandero;1.6L 90 hp;;1598;87;5500;128;3000;7.2;170;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1055;0
+Dacia;Sandero;1.5L dCi 70 hp;;1461;68;4000;160;1700;4.5;120;17.6;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1165;0
+Dacia;Sandero;1.5L dCi 85 hp;;1461;86;3750;200;1900;4.6;120;17.6;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1165;0
+Dacia;Logan (2005 & 2007);1.4L 75 hp;;1390;75;5500;112;3000;6.9;166;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1050;0
+Dacia;Logan (2005 & 2007);1.6L 90 hp;;1598;87;5500;128;3000;7.3;175;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1055;0
+Dacia;Logan (2007);1.6L 105 hp;;1598;105;5750;148;3750;7.1;170;9.8;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1190;0
+Dacia;Logan (2007);1.5L dCi 70 hp;;1461;68;4000;160;1700;4.7;125;17.9;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1140;0
+Dacia;Logan Break (2007);1.4L 75 hp;;1390;75;5500;112;3000;7.6;179;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1240;0
+Dacia;Logan Break (2007);1.6L 90 hp;;1598;87;5500;128;3000;7.6;180;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1240;0
+Dacia;Logan Break (2007) 7 pl.;1.6L 90 hp;;1598;87;5500;128;3000;7.8;185;9.5;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1270;0
+Dacia;Logan Break (2007);1.5L dCi 70 hp;;1461;68;4000;160;1700;5.3;140;17.9;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1280;0
+Dacia;Logan Break (2007) 7 pl.;1.5L dCi 70 hp;;1461;68;4000;160;1700;5.3;140;17.9;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1320;0
+Dacia;Logan Break (2007);1.6L 105 hp;;1598;105;5750;148;3750;7.5;178;9.8;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1270;0
+Dacia;Logan Break (2007) 7 pl.;1.6L 105 hp;;1598;105;5750;148;3750;7.5;178;9.8;MT;2wd;cast iron;aluminium;15;185;65;gasolina;1300;0
+Dacia;Logan Break (2007);1.5L dCi 85 hp;;1461;86;3750;200;1900;5.2;137;17.6;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1280;0
+Dacia;Logan Break (2007) 7 pl.;1.5L dCi 85 hp;;1461;86;3750;200;1900;5.2;137;17.6;MT;2wd;cast iron;aluminium;15;185;65;gasoleo;1330;0
+Citroen;C1;1.0L 68 hp;;998;68;6000;93;3600;4.5;106;10.5;MT;2wd;aluminium;aluminium;14;155;65;gasolina;875;865
+Citroen;C1 sensodrive;1.0L 68 hp;;998;68;6000;93;3600;4.6;107;10.5;AMT 5;2wd;aluminium;aluminium;14;155;65;gasolina;910;900
+Citroen;C1;1.4L HDi 55 hp;;1399;54;4000;130;1750;4.1;109;17.9;MT;2wd;aluminium;aluminium;14;155;65;gasoleo;965;955
+Citroen;Xsara Picasso;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.1;136;18.0;MT;2wd;aluminium;aluminium;15;185;65;gasoleo;1398;0
+Citroen;Xsara Picasso Satisf.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.9;;18.0;MT;2wd;aluminium;aluminium;15;185;65;gasoleo;1313;0
+Citroen;Xsara Picasso Excl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.1;136;18.0;MT;2wd;aluminium;aluminium;15;185;65;gasoleo;1468;0
+Citroen;C2 (2006/2008);1.1L 60 hp;;1124;60;5500;94;3200;5.8;138;10.5;MT;2wd;aluminium;aluminium;14;175;65;gasolina;1031;0
+Citroen;C2 (2006/2008);1.4L 73 hp;;1361;73;5400;118;3300;6.0;143;10.5;MT;2wd;aluminium;aluminium;14;175;65;gasolina;1065;0
+Citroen;C2 VTR (2006);1.4L 73 hp;;1361;73;5400;118;3300;6.0;143;10.5;MT;2wd;aluminium;aluminium;15;185;55;gasolina;1065;0
+Citroen;C2 SensoDrive (2006);1.4L 73 hp;;1361;73;5400;118;3300;5.8;138;10.5;AMT 5;2wd;aluminium;aluminium;15;185;55;gasolina;1070;0
+Citroen;C2 Stop&Start (2006);1.4L 90 hp;;1361;88;5250;133;3250;5.6;133;10.2;AT 5;2wd;aluminium;aluminium;15;185;55;gasolina;1088;0
+Citroen;C2 Sensodrive (2006);1.6L 110 hp;;1587;109;5750;147;4000;6.3;151;11.0;AMT 5;2wd;cast iron;aluminium;16;195;45;gasolina;1146;0
+Citroen;C2 VTS (2006/2008);1.6L 120 hp;;1587;122;6500;143;3750;6.9;163;;MT;2wd;cast iron;aluminium;16;195;45;gasolina;1159;0
+Citroen;C2 (2006/2008);1.4L HDi 70 hp;;1399;68;4000;150;1750;4.3;113;17.9;MT;2wd;aluminium;aluminium;14;175;65;gasoleo;1078;0
+Citroen;C2 VTR (2006);1.4L HDi 70 hp;;1399;68;4000;150;1750;4.3;113;17.9;MT;2wd;aluminium;aluminium;15;185;55;gasoleo;1078;0
+Citroen;C2 VTR Sensodrive (2006);1.4L HDi 70 hp;;1399;68;4000;150;1750;4.2;111;17.9;AMT 5;2wd;aluminium;aluminium;15;185;55;gasoleo;1116;0
+Citroen;C2 VTR (2008);1.4L 73 hp;;1361;73;5400;118;3300;6.0;143;10.5;MT;2wd;aluminium;aluminium;15;185;55;gasolina;1065;0
+Citroen;C2 VTS (2008);1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.4;119;18.0;MT;2wd;aluminium;aluminium;16;195;45;gasoleo;1197;0
+Citroen;C3 Picasso;1.4L VTi 95 hp;;1397;95;6000;136;4000;6.9;159;11.0;MT;2wd;aluminium;aluminium;15;195;60;gasolina;1334;0
+Citroen;C3 Picasso;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.8;128;17.6;MT;2wd;aluminium;aluminium;15;195;60;gasoleo;1364;0
+Citroen;C3 Picasso;1.6L VTi 120 hp;;1598;120;6000;160;4250;6.9;159;11.0;MT;2wd;aluminium;aluminium;16;195;55;gasolina;1365;0
+Citroen;C3 Picasso Excl.;1.4L VTi 95 hp;;1397;95;6000;136;4000;6.8;157;11.0;MT;2wd;aluminium;aluminium;16;195;55;gasolina;1334;0
+Citroen;C3 Picasso Excl.;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.7;125;17.6;MT;2wd;aluminium;aluminium;16;195;55;gasoleo;1364;0
+Citroen;C3 Picasso;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.9;130;18.0;MT;2wd;aluminium;aluminium;16;195;55;gasoleo;1408;0
+Citroen;C-Crosser;2.2L HDi FAP 160 hp;;2179;156;4000;380;2000;7.2;191;16.6;MT 6;4wd;cast iron;aluminium;16;215;70;gasoleo;1825;0
+Citroen;C-Crosser Excl.;2.2L HDi FAP 160 hp;;2179;156;4000;380;2000;7.3;194;16.6;MT 6;4wd;cast iron;aluminium;18;225;55;gasoleo;;0
+Citroen;C-Crosser;2.4L 170 hp;;2360;170;6000;232;4000;9.3;222;10.5;hpT;4wd;aluminium;aluminium;18;225;55;gasolina;1715;0
+Citroen;C6;2.2L HDi FAP 170 hp;;2179;170;4000;370;1500;7.6;199;16.6;AT 6;2wd;cast iron;aluminium;18;245;45;gasoleo;1923;0
+Citroen;C6;3.0L V6 210 hp;;2946;211;6000;290;3750;11.2;266;10.9;AT 6;2wd;aluminium;aluminium;18;245;45;gasolina;1891;0
+Citroen;C6;2.7L V6 HDi 205 hp;;2721;204;4000;440;1900;8.7;230;17.3;AT 6;2wd;cast iron;aluminium;18;245;45;gasoleo;1946;0
+Citroen;C8 (2002);2.0L 136 hp;;1997;136;6000;190;4100;9.1;;10.8;MT;2wd;aluminium;aluminium;16;215;60;gasolina;1645;0
+Citroen;C8 (2002);2.0L 136 hp;;1997;136;6000;190;4100;9.6;;10.8;AT 4;2wd;aluminium;aluminium;15;205;65;gasolina;1612;0
+Citroen;C8 (2002);2.2L 160 hp;;2231;158;5650;217;3900;9.7;;10.8;MT;2wd;aluminium;aluminium;16;215;60;gasolina;1681;0
+Citroen;C8 (2002);3.0L V6 205 hp;;2946;204;6000;285;3750;11.5;;10.9;AT 4;2wd;aluminium;aluminium;16;215;60;gasolina;1837;0
+Citroen;C8 Captain chairs (2002);3.0L V6 205 hp;;2946;204;6000;285;3750;11.5;;10.9;AT 4;2wd;aluminium;aluminium;16;215;60;gasolina;1859;0
+Citroen;C8 (2002);2.0L HDi FAP 110 hp;;1997;107;4000;270;1750;7.2;;17.0;MT;2wd;cast iron;aluminium;15;215;65;gasoleo;1743;0
+Citroen;C8 (2002);2.2L HDi 130 hp;;2179;128;4000;314;2000;7.4;;18.0;MT;2wd;cast iron;aluminium;15;215;65;gasoleo;1783;0
+Citroen;C8 Captain chairs (2002);2.2L HDi 130 hp;;2179;128;4000;314;2000;7.4;;18.0;MT;2wd;cast iron;aluminium;15;215;65;gasoleo;1825;0
+Citroen;C8;2.0L HDi 120 hp;;1997;120;4000;300;2000;6.9;182;17.3;MT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1846;0
+Citroen;C8;2.0L 143 hp;;1997;140;6250;195;4000;9.0;213;11.4;MT 6;2wd;aluminium;aluminium;16;215;60;gasolina;1706;0
+Citroen;C8;2.0L HDi FAP 138 hp;;1997;136;4000;320;2000;7.1;188;17.6;MT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1818;0
+Citroen;C8;2.2L HDi FAP 173 hp;;2179;170;4000;370;1500;7.2;191;16.6;MT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1865;0
+Citroen;C8;2.2L HDi FAP 173 hp;;2179;170;4000;370;1500;8.2;218;16.6;AT 6;2wd;cast iron;aluminium;16;215;60;gasoleo;1893;0
+Citroen;C3 (2002);1.1L 60 hp;;1124;60;5500;94;3200;6.0;;10.5;MT;2wd;aluminium;aluminium;14;165;70;gasolina;978;0
+Citroen;C3 (2002);1.4L 73 hp;;1361;73;5400;118;3300;6.2;;10.5;MT;2wd;aluminium;aluminium;14;165;70;gasolina;1005;0
+Citroen;C3 (2002);1.4L 73 hp;;1361;73;5400;118;3300;7.1;;10.5;AT 4;2wd;aluminium;aluminium;15;185;60;gasolina;1039;0
+Citroen;C3 (2002) Excl.;1.4L 73 hp;;1361;73;5400;118;3300;6.2;;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1005;0
+Citroen;C3 (2002);1.6L 110 hp;;1587;109;5750;147;4000;6.5;;11.0;MT;2wd;cast iron;aluminium;15;185;60;gasolina;1138;0
+Citroen;C3 (2002);1.4L HDi 70 hp;;1399;68;4000;150;1750;4.2;;17.9;MT;2wd;aluminium;aluminium;14;165;70;gasoleo;1022;0
+Citroen;C3 (2002) Excl.;1.4L HDi 70 hp;;1399;68;4000;150;1750;4.2;;17.9;MT;2wd;aluminium;aluminium;15;185;60;gasoleo;1022;0
+Citroen;C3;1.1L 60 hp;;1124;60;5500;94;3200;6.0;143;10.5;MT;2wd;aluminium;aluminium;14;175;65;gasolina;1085;0
+Citroen;C3;1.4L 73 hp;;1361;73;5400;118;3300;6.1;145;10.5;MT;2wd;aluminium;aluminium;14;175;65;gasolina;1089;0
+Citroen;C3 Excl.;1.4L 73 hp;;1361;73;5400;118;3300;6.1;145;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1089;0
+Citroen;C3 Sensodrive Stop&Start;1.4L 90 hp;;1361;88;5250;133;3250;5.7;135;10.2;AMT 5;2wd;aluminium;aluminium;15;185;60;gasolina;1132;0
+Citroen;C3 Sensodrive XTR;1.4L 90 hp;;1361;88;5250;133;3250;6.0;143;10.2;AMT 5;2wd;aluminium;aluminium;15;185;60;gasolina;1149;0
+Citroen;C3;1.6L 110 hp;;1587;109;5750;147;4000;6.5;155;11.0;MT;2wd;cast iron;aluminium;16;195;50;gasolina;1159;0
+Citroen;C3 Sensodrive;1.6L 110 hp;;1587;109;5750;147;4000;6.2;148;11.0;AMT 5;2wd;cast iron;aluminium;16;195;50;gasolina;1179;0
+Citroen;C3;1.4L HDi 70 hp;;1399;68;4000;150;1750;4.4;115;17.9;MT;2wd;aluminium;aluminium;14;175;65;gasoleo;1022;0
+Citroen;C3 Sensodrive;1.4L HDi 70 hp;;1399;68;4000;150;1750;4.3;113;17.9;AMT 5;2wd;aluminium;aluminium;14;175;65;gasoleo;1022;0
+Citroen;C3 Excl.;1.4L HDi 70 hp;;1399;68;4000;150;1750;4.4;115;17.9;MT;2wd;aluminium;aluminium;15;185;60;gasoleo;1022;0
+Citroen;C3 XTR;1.4L HDi 70 hp;;1399;68;4000;150;1750;4.4;115;17.9;MT;2wd;aluminium;aluminium;15;185;60;gasoleo;1075;0
+Citroen;C3;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;118;17.6;MT;2wd;aluminium;aluminium;15;185;60;gasoleo;1179;0
+Citroen;C3 XTR;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;118;17.6;MT;2wd;aluminium;aluminium;15;185;60;gasoleo;1193;0
+Citroen;C3 VTR;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;118;17.6;MT;2wd;aluminium;aluminium;16;195;50;gasoleo;1179;0
+Citroen;C3;1.6L HDi 110 hp;;1560;109;4000;240;1750;4.5;120;18.0;MT;2wd;aluminium;aluminium;16;195;50;gasoleo;1202;0
+Citroen;C3 pluriel (2002);1.4L 70 hp;;1361;73;5400;118;3300;6.8;;10.5;MT;2wd;aluminium;aluminium;15;185;65;gasolina;1211;0
+Citroen;C3 pluriel (2002) Sensodrive;1.6L 110 hp;;1587;109;5750;147;4000;6.6;;11.0;AMT 5;2wd;cast iron;aluminium;15;185;65;gasolina;1252;0
+Citroen;C4 coupé;1.4L 90 hp;;1361;88;5250;133;3250;6.4;153;10.2;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1256;0
+Citroen;C4 coupé;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;117;17.6;MT;2wd;aluminium;aluminium;15;195;65;gasoleo;1330;0
+Citroen;C4 coupé Cool;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;117;17.6;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1330;0
+Citroen;C4 coupé VTN@V;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;117;17.6;MT;2wd;aluminium;aluminium;17;205;50;gasoleo;1330;0
+Citroen;C4 coupé Cool;1.4L 90 hp;;1361;88;5250;133;3250;6.4;153;10.2;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1256;0
+Citroen;C4 coupé Cool;1.6L VTi 120 hp;;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1292;0
+Citroen;C4 coupé VTS;1.6L VTi 120 hp;;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;17;205;50;gasolina;1292;0
+Citroen;C4 coupé;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;119;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1344;0
+Citroen;C4 coupé VTS;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;119;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1344;0
+Citroen;C4 coupé VTS;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;120;18.0;AMT 6;2wd;aluminium;aluminium;17;205;50;gasoleo;1368;0
+Citroen;C4 coupé;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;120;18.0;AMT 6;2wd;aluminium;aluminium;16;205;55;gasoleo;1368;0
+Citroen;C4 coupé VTS;1.6L THP 150 hp;;1598;150;5800;240;1400;6.9;164;10.5;MT 6;2wd;aluminium;aluminium;17;205;50;gasolina;1346;0
+Citroen;C4 coupé VTS;2.0L HDi FAP 140 hp;;1997;140;4000;320;2000;5.3;139;17.6;MT 6;2wd;cast iron;aluminium;17;205;50;gasoleo;1454;0
+Citroen;C4 coupé VTS +;2.0L HDi FAP 140 hp;;1997;140;4000;320;2000;5.3;139;17.6;MT 6;2wd;cast iron;aluminium;17;205;50;gasoleo;1454;0
+Citroen;C4;1.4L 90 hp;;1361;88;5250;133;3250;6.4;153;10.2;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1257;0
+Citroen;C4;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;117;17.6;MT;2wd;aluminium;aluminium;15;195;65;gasoleo;1332;0
+Citroen;C4 Cool;1.4L 90 hp;;1361;88;5250;133;3250;6.4;153;10.2;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1257;0
+Citroen;C4 Cool;1.6L VTi 120 hp;;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1295;0
+Citroen;C4 Cool;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;117;17.6;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1332;0
+Citroen;C4 Excl.;1.6L VTi 120 hp;;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;17;205;50;gasolina;1295;0
+Citroen;C4 Excl. +;1.6L VTi 120 hp;;1598;120;6000;160;4250;6.7;159;11.0;MT;2wd;aluminium;aluminium;17;205;50;gasolina;1295;0
+Citroen;C4;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;119;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1345;0
+Citroen;C4 VTN@V;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;119;18.0;MT;2wd;aluminium;aluminium;16;205;55;gasoleo;1345;0
+Citroen;C4 VTN@V;1.6L HDi 90 hp;;1560;90;4000;215;1750;4.4;117;17.6;MT;2wd;aluminium;aluminium;17;205;50;gasoleo;1332;0
+Citroen;C4;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;120;18.0;AMT 6;2wd;aluminium;aluminium;16;205;55;gasoleo;1368;0
+Citroen;C4 VTN@V;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;4.5;120;18.0;AMT 6;2wd;aluminium;aluminium;17;205;50;gasoleo;1368;0
+Citroen;C4;1.6L THP 150 hp;;1598;150;5800;240;1400;6.9;164;10.5;MT 6;2wd;aluminium;aluminium;17;205;50;gasolina;1351;0
+Citroen;C4;2.0L HDi FAP 140 hp;;1997;140;4000;320;2000;5.3;139;17.6;MT 6;2wd;cast iron;aluminium;17;205;50;gasoleo;1456;0
+Citroen;C4;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;6.6;175;17.6;AT 6;2wd;cast iron;aluminium;17;205;50;gasoleo;1491;0
+Citroen;C4 Picasso;1.6L VTi 120 hp;;1598;120;6000;160;4250;7.4;174;11.0;MT;2wd;aluminium;aluminium;16;215;55;gasolina;1533;0
+Citroen;C4 Picasso VTN@V;1.6L VTi 120 hp;;1598;120;6000;160;4250;7.5;177;11.0;MT;2wd;aluminium;aluminium;17;215;50;gasolina;1533;0
+Citroen;C4 Picasso;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.5;145;18.0;MT;2wd;aluminium;aluminium;16;215;55;gasoleo;1564;0
+Citroen;C4 Picasso VTN@V;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.6;147;18.0;MT;2wd;aluminium;aluminium;17;215;50;gasoleo;1564;0
+Citroen;C4 Picasso Excl. +;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.6;147;18.0;MT;2wd;aluminium;aluminium;18;215;45;gasoleo;1564;0
+Citroen;C4 Picasso;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.3;140;18.0;AMT 6;2wd;aluminium;aluminium;16;215;55;gasoleo;1574;0
+Citroen;C4 Picasso Excl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.4;142;18.0;AMT 6;2wd;aluminium;aluminium;17;215;50;gasoleo;1574;0
+Citroen;C4 Picasso Excl. +;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.4;142;18.0;AMT 6;2wd;aluminium;aluminium;18;215;45;gasoleo;1574;0
+Citroen;C4 Picasso;1.6L THP 150 hp;;1598;150;5800;240;1400;7.3;173;10.5;AMT 6;2wd;aluminium;aluminium;16;215;55;gasolina;1581;0
+Citroen;C4 Picasso VTN@V;1.6L THP 150 hp;;1598;150;5800;240;1400;7.4;176;10.5;AMT 6;2wd;aluminium;aluminium;17;215;50;gasolina;1581;0
+Citroen;C4 Picasso Excl. +;1.6L THP 150 hp;;1598;150;5800;240;1400;7.4;176;10.5;AMT 6;2wd;aluminium;aluminium;18;215;45;gasolina;1581;0
+Citroen;C4 Picasso;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;5.9;155;17.6;AMT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1656;0
+Citroen;C4 Picasso VTN@V;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;6.0;157;17.6;AMT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1656;0
+Citroen;C4 Picasso Excl. +;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;6.0;157;17.6;AMT 6;2wd;cast iron;aluminium;18;215;45;gasoleo;1656;0
+Citroen;C4 Picasso Excl. +;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;7.4;195;17.6;AT 6;2wd;cast iron;aluminium;18;215;45;gasoleo;1715;0
+Citroen;C4 Picasso 7 pl.;1.6L VTi 120 hp;;1598;120;6000;160;4250;7.4;174;11.0;MT;2wd;aluminium;aluminium;16;215;55;gasolina;1561;0
+Citroen;C4 Picasso VTN@V 7 pl.;1.6L VTi 120 hp;;1598;120;6000;160;4250;7.5;177;11.0;MT;2wd;aluminium;aluminium;17;215;50;gasolina;1561;0
+Citroen;C4 Picasso 7 pl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.5;145;18.0;MT;2wd;aluminium;aluminium;16;215;55;gasoleo;1605;0
+Citroen;C4 Picasso VTN@V 7 pl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.6;147;18.0;MT;2wd;aluminium;aluminium;17;215;50;gasoleo;1605;0
+Citroen;C4 Picasso Excl. + 7 pl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.6;147;18.0;MT;2wd;aluminium;aluminium;18;215;45;gasoleo;1605;0
+Citroen;C4 Picasso 7 pl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.3;140;18.0;AMT 6;2wd;aluminium;aluminium;16;215;55;gasoleo;1614;0
+Citroen;C4 Picasso Excl. 7 pl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.4;142;18.0;AMT 6;2wd;aluminium;aluminium;17;215;50;gasoleo;1614;0
+Citroen;C4 Picasso Excl. + 7 pl.;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.4;142;18.0;AMT 6;2wd;aluminium;aluminium;18;215;45;gasoleo;1614;0
+Citroen;C4 Picasso 7 pl.;1.6L THP 150 hp;;1598;150;5800;240;1400;7.3;173;10.5;AMT 6;2wd;aluminium;aluminium;16;215;55;gasolina;1605;0
+Citroen;C4 Picasso VTN@V 7 pl.;1.6L THP 150 hp;;1598;150;5800;240;1400;7.4;176;10.5;AMT 6;2wd;aluminium;aluminium;17;215;50;gasolina;1605;0
+Citroen;C4 Picasso Excl. + 7 pl.;1.6L THP 150 hp;;1598;150;5800;240;1400;7.4;176;10.5;AMT 6;2wd;aluminium;aluminium;18;215;45;gasolina;1605;0
+Citroen;C4 Picasso 7 pl.;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;5.9;155;17.6;AMT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1695;0
+Citroen;C4 Picasso VTN@V 7 pl.;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;6.0;157;17.6;AMT 6;2wd;cast iron;aluminium;17;215;50;gasoleo;1695;0
+Citroen;C4 Picasso Excl. + 7 pl.;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;6.0;157;17.6;AMT 6;2wd;cast iron;aluminium;18;215;45;gasoleo;1695;0
+Citroen;C4 Picasso Excl. + 7 pl.;2.0L HDi FAP 135 hp;;1997;136;4000;320;2000;7.4;195;17.6;AT 6;2wd;cast iron;aluminium;18;215;45;gasoleo;1725;0
+Citroen;C5;2.0L 140 hp;;1997;140;6000;200;4000;8.9;212;10.8;AT 4;2wd;aluminium;aluminium;16;225;60;gasolina;1658;0
+Citroen;C5;2.0L 140 hp;;1997;140;6000;200;4000;8.4;198;10.8;MT;2wd;aluminium;aluminium;16;225;60;gasolina;1596;0
+Citroen;C5 S;2.0L 140 hp;;1997;140;6000;200;4000;8.4;198;10.8;MT;2wd;aluminium;aluminium;17;225;55;gasolina;1596;0
+Citroen;C5;1.8L 127 hp;;1749;125;6000;170;3750;7.9;188;11.0;MT;2wd;aluminium;aluminium;16;225;60;gasolina;1585;0
+Citroen;C5 Busi.;1.8L 127 hp;;1749;125;6000;170;3750;7.9;188;11.0;MT;2wd;aluminium;aluminium;17;225;55;gasolina;1585;0
+Citroen;C5;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.6;149;18.0;MT;2wd;aluminium;aluminium;16;225;60;gasoleo;1578;0
+Citroen;C5 S;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.6;149;18.0;MT;2wd;aluminium;aluminium;17;225;55;gasoleo;1578;0
+Citroen;C5;2.0L HDi FAP 138 hp;;1997;136;4000;320;2000;6.0;157;17.6;MT 6;2wd;cast iron;aluminium;16;225;60;gasoleo;1683;0
+Citroen;C5 S;2.0L HDi FAP 138 hp;;1997;136;4000;320;2000;6.0;157;17.6;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1683;0
+Citroen;C5;2.0L HDi FAP 138 hp;;1997;136;4000;320;2000;7.1;189;17.6;AT 6;2wd;cast iron;aluminium;16;225;60;gasoleo;1733;0
+Citroen;C5 Excl.;2.0L HDi FAP 138 hp;;1997;136;4000;320;2000;7.1;189;17.6;AT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1733;0
+Citroen;C5;2.0L HDi FAP 140 hp;;1997;140;4000;320;2000;5.8;153;17.6;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1683;0
+Citroen;C5;2.2L HDi FAP 170 hp;;2179;170;4000;370;1500;6.5;172;16.6;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1804;0
+Citroen;C5;3.0L V6 215 hp;;2946;211;6000;290;3750;10.5;248;10.9;AT 6;2wd;aluminium;aluminium;18;245;45;gasolina;1800;0
+Citroen;C5;2.7L HDi V6 FAP 208 hp;;2721;204;4000;440;1900;8.5;223;17.3;AT 6;2wd;cast iron;aluminium;18;245;45;gasoleo;1841;0
+Citroen;C5 Tourer;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.7;150;18.0;MT;2wd;aluminium;aluminium;16;225;60;gasoleo;1612;0
+Citroen;C5 Tourer S;1.6L HDi FAP 110 hp;;1560;109;4000;240;1750;5.7;150;18.0;MT;2wd;aluminium;aluminium;17;225;55;gasoleo;1612;0
+Citroen;C5 Tourer;2.0L 140 hp;;1997;140;6000;200;4000;8.5;200;10.8;MT;2wd;aluminium;aluminium;17;225;55;gasolina;1653;0
+Citroen;C5 Tourer;2.0L HDi FAP 140 hp;;1997;140;4000;320;2000;5.9;155;17.6;MT 6;;cast iron;aluminium;16;225;60;gasoleo;1730;0
+Citroen;C5 Tourer Busi.;2.0L HDi FAP 140 hp;;1997;140;4000;320;2000;5.9;155;17.6;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1730;0
+Citroen;C5 Tourer;2.0L HDi FAP 138 hp;;1997;136;4000;320;2000;7.2;191;17.6;AT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1770;0
+Citroen;C5 Tourer;2.2L HDi FAP 170 hp;;2179;170;4000;370;1500;6.6;175;16.6;MT 6;2wd;cast iron;aluminium;17;225;55;gasoleo;1840;0
+Mitsubishi;Colt CZ3 (2004);1.1L 75 hp;;1124;75;6000;100;3500;5.5;130;10.5;MT;2wd;aluminium;aluminium;14;175;65;gasolina;930;0
+Mitsubishi;Colt CZ3 Invite (2004);1.1L 75 hp;;1124;75;6000;100;3500;5.5;130;10.5;MT;2wd;aluminium;aluminium;15;195;50;gasolina;930;0
+Mitsubishi;Colt CZ3 (2004);1.3L 95 hp;;1332;95;6000;125;4000;6.0;143;10.5;MT;2wd;aluminium;aluminium;15;195;50;gasolina;955;0
+Mitsubishi;Colt CZ3 (2004);1.5L 110 hp;;1499;109;6000;145;4000;6.1;;10.5;MT;2wd;aluminium;aluminium;16;205;45;gasolina;960;0
+Mitsubishi;Colt CZ3 (2004);1.5L DI-D 95 hp;;1493;95;4000;210;1800;4.8;129;18.0;MT;2wd;aluminium;aluminium;15;195;50;gasolina;1070;0
+Mitsubishi;Colt CZ3 Instyle (2004);1.5L DI-D 95 hp;;1493;95;4000;210;1800;4.8;129;18.0;MT;2wd;aluminium;aluminium;16;205;45;gasolina;1070;0
+Mitsubishi;Colt CZT (2004);1.5L Turbo;;;;?;;;;;;;2wd;;;;;;gasolina;;0
+Mitsubishi;Colt (2004);1.1L 75 hp;;1124;75;6000;100;3500;5.5;130;10.5;MT;2wd;aluminium;aluminium;14;175;65;gasolina;965;0
+Mitsubishi;Colt Invite (2004);1.1L 75 hp;;1124;75;6000;100;3500;5.5;130;10.5;MT;2wd;aluminium;aluminium;15;195;50;gasolina;965;0
+Mitsubishi;Colt (2004);1.3L 95 hp;;1332;95;6000;125;4000;5.8;138;10.5;MT;2wd;aluminium;aluminium;14;175;65;gasolina;970;0
+Mitsubishi;Colt Invite (2004);1.3L 95 hp;;1332;95;6000;125;4000;5.8;138;10.5;MT;2wd;aluminium;aluminium;15;195;50;gasolina;970;0
+Mitsubishi;Colt (2004);1.5L 110 hp;;1499;109;6000;145;4000;6.2;;10.5;MT;2wd;aluminium;aluminium;16;205;45;gasolina;990;0
+Mitsubishi;Colt Allshift (2004);1.5L 110 hp;;1499;109;6000;145;4000;5.9;;10.5;AMT 6;2wd;aluminium;aluminium;16;205;45;gasolina;995;0
+Mitsubishi;Colt (2004);1.5L DI-D 95 hp;;1493;95;4000;210;1800;4.6;;18.0;MT;2wd;aluminium;aluminium;14;175;65;gasolina;1085;0
+Mitsubishi;Colt Invite (2004);1.5L DI-D 95 hp;;1493;95;4000;210;1800;4.6;;18.0;MT;2wd;aluminium;aluminium;15;195;50;gasolina;1085;0
+Mitsubishi;Colt Instyle (2004);1.5L DI-D 95 hp;;1493;95;4000;210;1800;4.6;;18.0;MT;2wd;aluminium;aluminium;16;205;45;gasolina;1085;0
+Mitsubishi;Colt Allshift Instyle (2004);1.5L DI-D 95 hp;;1493;95;4000;210;1800;4.4;;18.0;AMT 6;2wd;aluminium;aluminium;16;205;45;gasolina;1090;0
+Mitsubishi;Colt CZC;1.5L 110 hp;;1499;109;6000;145;4000;6.6;157;10.5;MT;2wd;aluminium;aluminium;16;205;45;gasolina;1185;0
+Mitsubishi;Colt CZC;1.5L T 145 hp;;1468;145;6000;210;3500;7.1;168;9.0;MT;2wd;cast iron;aluminium;16;205;45;gasolina;1275;0
+Mitsubishi;Colt;1.1L 75 hp;;1124;75;6000;100;4000;4.9;115;11.0;MT;2wd;aluminium;aluminium;15;195;50;gasolina;1045;1015
+Mitsubishi;Colt;1.3L 95 hp;;1332;95;6000;125;4000;5.0;119;11.0;MT;2wd;aluminium;aluminium;15;195;50;gasolina;1050;1020
+Mitsubishi;Colt Ralliart;1.5L T 150 hp;;1468;150;6000;210;3500;6.8;161;9.0;MT;2wd;cast iron;aluminium;16;205;45;gasolina;1135;0
+Mitsubishi;Lancer Sportback;1.8L 140 hp;;1798;143;6000;178;4250;7.9;188;10.5;MT;2wd;aluminium;aluminium;16;205;60;gasolina;1430;0
+Mitsubishi;Lancer Sportback Motion;1.8L 140 hp;;1798;143;6000;178;4250;7.9;188;10.5;MT;2wd;aluminium;aluminium;18;215;45;gasolina;1460;0
+Mitsubishi;Lancer Sportback;1.8L 140 hp;;1798;143;6000;178;4250;8.3;198;10.5;hpT;2wd;aluminium;aluminium;18;215;45;gasolina;1490;0
+Mitsubishi;Lancer Sportback;2.0L DI-D 140 hp;;1968;140;4000;310;1750;6.3;165;18.0;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1540;0
+Mitsubishi;Lancer Sportback Motion;2.0L DI-D 140 hp;;1968;140;4000;310;1750;6.5;173;18.0;MT 6;2wd;cast iron;aluminium;18;215;45;gasolina;1565;0
+Mitsubishi;Lancer Sportback Ralliart;2.0L T 240 hp;;1998;241;6000;343;2500;10.2;243;9.0;DCT 6;4wd;aluminium;aluminium;18;215;45;gasolina;1670;0
+Mitsubishi;Lancer;2.0L DI-D 140 hp;;1968;140;4000;310;1750;5.9;157;18.0;MT 6;2wd;cast iron;aluminium;16;205;60;gasolina;1500;0
+Mitsubishi;Lancer Instyle;2.0L DI-D 140 hp;;1968;140;4000;310;1750;6.3;165;18.0;MT 6;2wd;cast iron;aluminium;18;215;45;gasolina;1525;0
+Mitsubishi;Lancer;1.8L 140 hp;;1798;143;6000;178;4250;7.9;188;10.5;hpT;2wd;aluminium;aluminium;18;215;45;gasolina;1455;0
+Mitsubishi;Lancer Evolution GSR;2.0L T 295 hp;;1998;295;6500;366;3500;10.2;243;9.0;MT;4wd;aluminium;aluminium;18;245;40;gasolina;1635;0
+Mitsubishi;Lancer Evolution MR TC-SST;2.0L T 295 hp;;1998;295;6500;366;3500;10.5;250;9.0;DCT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1675;0
+Mitsubishi;Lancer Ralliart;2.0L T 240 hp;;1998;241;6000;343;2500;10.0;238;9.0;DCT 6;4wd;aluminium;aluminium;18;215;45;gasolina;1625;0
+Mitsubishi;Grandis;2.0L DI-D 140 hp;;1968;136;4000;310;1750;6.6;176;18.0;MT 6;2wd;cast iron;aluminium;16;215;60;gasolina;1785;0
+Mitsubishi;Grandis Invite;2.0L DI-D 140 hp;;1968;136;4000;310;1750;6.6;176;18.0;MT 6;2wd;cast iron;aluminium;17;215;55;gasolina;1785;0
+Mitsubishi;Outlander;2.0L DI-D 140 hp;;1968;140;4000;310;1750;6.7;177;18.0;MT 6;4wd;cast iron;aluminium;16;215;70;gasolina;1730;0
+Mitsubishi;Outlander Intense +;2.0L DI-D 140 hp;;1968;140;4000;310;1750;6.9;183;18.0;MT 6;4wd;cast iron;aluminium;18;225;55;gasolina;1765;0
+Mitsubishi;Outlander;2.2L DI-D 140 hp;;2179;156;4000;380;2000;7.3;194;16.6;MT 6;4wd;cast iron;aluminium;18;225;55;gasolina;1810;0
+Mitsubishi;Outlander;2.4L 170 hp;;2360;170;6000;232;4100;9.2;220;10.5;MT;2wd;aluminium;aluminium;16;215;70;gasolina;1570;0
+Mitsubishi;Outlander;2.4L 170 hp;;2360;170;6000;232;4100;9.3;222;10.5;hpT;4wd;aluminium;aluminium;18;225;55;gasolina;1700;0
+Mitsubishi;Pajero 3p.;3.2L DI-D 160 hp;;3200;160;3800;381;2000;9.2;244;17.0;MT with reductor (1.9);4wd;cast iron;aluminium;17;265;65;gasolina;2160;0
+Mitsubishi;Pajero 3p. Intense;3.2L DI-D 160 hp;;3200;160;3800;381;2000;9.2;244;17.0;MT with reductor (1.9);4wd;cast iron;aluminium;18;265;60;gasolina;2160;0
+Mitsubishi;Pajero 3p.;3.2L DI-D 170 hp;;3200;170;3800;373;2000;10.5;278;17.0;AT with reductor (1.9);4wd;cast iron;aluminium;18;265;60;gasolina;2150;0
+Mitsubishi;Pajero 5p.;3.2L DI-D 160 hp;;3200;160;3800;381;2000;9.3;246;17.0;MT with reductor (1.9);4wd;cast iron;aluminium;17;265;65;gasolina;2340;0
+Mitsubishi;Pajero 5p. Intense;3.2L DI-D 160 hp;;3200;160;3800;381;2000;9.3;246;17.0;MT with reductor (1.9);4wd;cast iron;aluminium;18;265;60;gasolina;2340;0
+Mitsubishi;Pajero 5p.;3.2L DI-D 170 hp;;3200;170;3800;373;2000;10.6;280;17.0;AT with reductor (1.9);4wd;cast iron;aluminium;18;265;60;gasolina;2330;0
+Mitsubishi;Pajero 5p.;3.8L V6 250 hp;;3828;250;6000;329;2750;13.5;324;9.8;AT with reductor (1.9);4wd;cast iron;aluminium;18;265;60;gasolina;2290;0
+Mitsubishi;L200 Double Cab.;2.5L DI-D 136 hp;;2477;136;4000;314;2000;8.6;228;17.5;MT with reductor (1.9);4wd;cast iron;aluminium;16;245;70;gasolina;1955;0
+Volkswagen;Fox;1.2L 55 hp 3 cyl.;;1198;54;4750;108;3000;6.1;146;10.3;MT;2wd;aluminium;aluminium;14;165;70;gasolina;998;0
+Volkswagen;Fox;1.4L 75 hp;;1390;75;5000;124;2750;6.7;161;10.5;MT;2wd;cast iron;aluminium;14;165;70;gasolina;1012;0
+Volkswagen;Fox;1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;1600;4.9;132;19.5;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;1085;0
+Volkswagen;Polo;1.2L 60 hp 3 cyl.;;1198;60;5200;108;3000;5.8;138;10.3;MT;2wd;aluminium;aluminium;14;165;70;gasolina;;0
+Volkswagen;Polo;1.4L 80 hp;;1390;80;5000;132;3800;6.3;150;10.5;MT;2wd;aluminium;aluminium;14;165;70;gasolina;1038;0
+Volkswagen;Polo GT;1.4L 80 hp;;1390;80;5000;132;3800;6.3;150;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1038;0
+Volkswagen;Polo;1.4L 80 hp;;1390;80;5000;132;3800;6.9;163;10.5;AT 6;2wd;aluminium;aluminium;14;165;70;gasolina;;0
+Volkswagen;Polo;1.6L 105 hp;;1598;105;5600;153;3800;6.7;159;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1056;0
+Volkswagen;Polo;1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;1600;4.5;119;19.5;MT;;cast iron;aluminium;14;165;70;gasoleo;;0
+Volkswagen;Polo;1.4L TDI 80 hp;;1422;80;4000;195;2200;4.5;119;19.5;MT;;cast iron;aluminium;14;165;70;gasoleo;;0
+Volkswagen;Polo BlueMotion;1.4L TDI80 hp;;1422;80;4000;195;1800;3.8;99;19.5;MT;;cast iron;aluminium;14;165;70;gasoleo;1109;0
+Volkswagen;Polo GT;1.4L TDI 80 hp;;1422;80;4000;195;2200;4.5;119;19.5;MT;;cast iron;aluminium;14;185;60;gasoleo;;0
+Volkswagen;Polo;1.9L TDI 100 hp;;1896;101;4000;240;1800;4.8;127;19.0;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;;0
+Volkswagen;Polo GTI;1.8L T 150 hp;;1781;150;5800;220;1950;7.8;186;9.5;MT;2wd;cast iron;aluminium;16;205;45;gasolina;1164;0
+Volkswagen;Crosspolo;1.4L 75 hp;;1390;75;5000;126;3800;6.7;161;10.5;MT;2wd;aluminium;aluminium;17;215;40;gasolina;1087;0
+Volkswagen;Crosspolo;1.4L 100 hp;;1390;101;6000;126;4400;6.8;163;10.5;MT;2wd;aluminium;aluminium;17;215;40;gasolina;1097;0
+Volkswagen;Crosspolo;1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;1600;4.9;132;19.5;MT;2wd;cast iron;aluminium;17;215;40;gasoleo;1155;0
+Volkswagen;Crosspolo;1.9L TDI 100 hp;;1896;101;4000;240;1800;5.1;138;19.0;MT;2wd;cast iron;aluminium;17;215;40;gasoleo;1190;0
+Volkswagen;Polo (2009);1.2L 60 hp 3 cyl.;;1198;60;5200;108;3000;5.5;128;10.5;MT;2wd;aluminium;aluminium;14;175;70;gasolina;1068;0
+Volkswagen;Polo (2009);1.2L 69 hp 3 cyl.;;1198;69;5400;112;3000;5.5;128;10.5;MT;2wd;aluminium;aluminium;14;175;70;gasolina;1068;0
+Volkswagen;Polo (2009);1.4L 86 hp;;1390;86;5000;132;3800;5.9;139;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1071;0
+Volkswagen;Polo (2009);1.4L 86 hp;;1390;86;5000;132;3800;5.8;135;10.5;DCT 7;2wd;aluminium;aluminium;15;185;60;gasolina;1104;0
+Volkswagen;Polo (2009);1.2L TSI 105 hp;;;105;?;;;5.5;129;;MT 6;2wd;;;15;185;60;gasolina;;0
+Volkswagen;Polo (2009);1.6L TDI 75 hp;;1598;75;4000;195;1500;4.2;109;16.5;MT;2wd;cast iron;aluminium;14;175;70;gasoleo;1157;0
+Volkswagen;Polo (2009);1.6L TDI 90 hp;;1598;90;4200;230;1500;4.2;109;16.5;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1157;0
+Volkswagen;Polo (2009);1.6L TDI 90 hp;;1598;90;4200;230;1500;4.3;112;16.5;DCT 7;2wd;cast iron;aluminium;15;185;60;gasoleo;1179;0
+Volkswagen;Polo (2009) Bluemotion;1.6L TDI 90 hp;;1598;90;4200;230;1500;3.8;96;16.5;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;;0
+Volkswagen;Polo (2009);1.6L TDI 105 hp;;1598;105;4400;250;1500;4.2;109;16.5;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1165;0
+Volkswagen;Scirocco;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.4;149;10.0;MT 6;2wd;cast iron;aluminium;17;205;50;gasolina;1319;0
+Volkswagen;Scirocco;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.6;154;10.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1346;0
+Volkswagen;Scirocco;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.3;147;10.0;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1360;0
+Volkswagen;Scirocco;2.0L TSI 200 hp;;1984;200;5100;280;1700;7.6;179;9.8;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1373;0
+Volkswagen;Scirocco;2.0L TSI 200 hp;;1984;200;5100;280;1700;7.6;179;9.8;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1393;0
+Volkswagen;Scirocco;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.1;134;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1379;0
+Volkswagen;Scirocco;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.5;145;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1395;0
+Volkswagen;Scirocco;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.3;139;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1395;0
+Volkswagen;Scirocco;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.6;147;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1421;0
+Volkswagen;Scirocco R;2.0L TSI 265 hp;;1984;265;6000;350;2500;8.3;194;9.8;MT 6;2wd;cast iron;aluminium;18;235;40;gasolina;1408;0
+Volkswagen;Scirocco R;2.0L TSI 265 hp;;1984;265;6000;350;2500;8.2;192;9.8;DCT 6;2wd;cast iron;aluminium;18;235;40;gasolina;1428;0
+Volkswagen;New Beetle Cab.;1.6L 100 hp;;1595;102;5600;148;3800;7.7;;10.5;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1292;0
+Volkswagen;New Beetle Cab.;2.0L 116 hp;;1984;116;5400;172;3200;8.8;;10.3;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1324;0
+Volkswagen;New Beetle Cab.;2.0L 116 hp;;1984;116;5400;172;3200;9.2;;10.3;AT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1352;0
+Volkswagen;New Beetle;1.6L 100 hp;;1595;101;5600;145;3800;8.1;;10.3;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1205;0
+Volkswagen;New Beetle;1.8L T 150 hp;;1781;150;5800;220;2000;8.3;;9.5;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1264;0
+Volkswagen;New Beetle;2.3L V5 170 hp;;2324;170;6200;220;3300;8.9;;10.8;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1327;0
+Volkswagen;New Beetle RSi;3.2L V6 225 hp;;3200;225;6200;317;3200;;;;MT 6;4wd;;;18;235;40;gasolina;;0
+Volkswagen;Eos;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.5;154;10.0;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1536;0
+Volkswagen;Eos;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.7;159;10.0;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1562;0
+Volkswagen;Eos;2.0L TSI 200 hp;;1984;200;5100;280;1800;8.0;188;10.3;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1611;0
+Volkswagen;Eos;2.0L TSI 200 hp;;1984;200;5100;280;1800;8.0;188;10.3;DCT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1632;0
+Volkswagen;Eos;3.2L V6 250 hp;;3189;250;6300;320;2500;9.2;219;10.9;DCT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1702;0
+Volkswagen;Eos;2.0L TDI140 hp;;1968;140;4200;320;1750;5.8;152;16.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1627;0
+Volkswagen;Eos;2.0L TDI140 hp;;1968;140;4200;320;1750;6.3;166;16.5;DCT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1649;0
+Volkswagen;Jetta;1.6L 102 hp;;1595;102;5600;148;3800;7.4;178;10.5;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1268;0
+Volkswagen;Jetta;1.6L FSI 115 hp;;1598;116;6000;155;4000;6.8;166;12.0;MT 6;2wd;aluminium;aluminium;16;205;55;gasolina;1271;0
+Volkswagen;Jetta;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.2;140;19.0;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1345;0
+Volkswagen;Jetta;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.7;154;19.0;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1384;0
+Volkswagen;Jetta;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.5;149;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1393;0
+Volkswagen;Jetta;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.1;165;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1410;0
+Volkswagen;Sharan;1.8L T 150 hp;;1781;150;5800;210;1800;9.4;;;MT 6 or AT 5;2wd;;;15;205;60;gasolina;1668;0
+Volkswagen;Sharan;2.8L V6 204 hp;;2792;204;6200;265;3400;10.5;;;MT 6 or AT 4;2wd or 4wd;;;16;215;55;gasolina;1752;0
+Volkswagen;Sharan;1.9L TDI 115 hp;;1896;115;4000;310;1900;6.3;;;MT 6 or AT 5;2wd;;;15;205;60;gasoleo;1678;0
+Volkswagen;Caddy;1.4L 80 hp;;1390;80;5000;132;3800;7.9;188;10.5;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1485;0
+Volkswagen;Caddy;1.6L 102 hp;;1595;102;5600;148;3800;8.2;195;10.5;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1495;0
+Volkswagen;Caddy;1.9L TDI 75 hp;;1896;75;4000;210;1900;6.0;158;;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1560;0
+Volkswagen;Caddy;1.9L TDI 104 hp;;1896;105;4000;250;1900;6.2;164;19.0;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1560;0
+Volkswagen;Caddy Bluemotion;1.9L TDI 104 hp;;1896;105;4000;250;1900;5.7;149;19.0;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1560;0
+Volkswagen;Caddy;1.9L TDI 104 hp;;1896;105;4000;250;1900;6.7;177;19.0;DCT 5;2wd;cast iron;aluminium;15;195;65;gasoleo;1560;0
+Volkswagen;Caddy;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.3;167;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;;0
+Volkswagen;Golf R32 (2006);3.2L V6 250 hp;;3189;250;6300;320;2800;10.7;255;10.9;MT 6;4wd;cast iron;aluminium;18;225;40;gasolina;1541;1510
+Volkswagen;Golf R32 (2006);3.2L V6 250 hp;;3189;250;6300;320;2800;9.7;231;10.9;DCT 6;4wd;cast iron;aluminium;18;225;40;gasolina;1569;1538
+Volkswagen;Golf GTI (2007);2.0L TFSI 200 hp;;1984;200;6000;280;1800;8.0;189;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1372;1336
+Volkswagen;Golf GTI (2007);2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.9;188;10.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1391;1355
+Volkswagen;Golf (2007);1.9L TDI 105 hp;;1896;105;4000;250;1900;5.8;157;19.0;MT 6;4wd;cast iron;aluminium;15;195;65;gasoleo;1464;1424
+Volkswagen;Golf (2007) Sportline;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.8;157;19.0;MT 6;4wd;cast iron;aluminium;16;205;55;gasoleo;1464;1424
+Volkswagen;Golf (2007);2.0L TDI 140 hp;;1968;140;4000;320;1750;5.9;159;18.5;MT 6;4wd;cast iron;aluminium;16;205;55;gasoleo;1450;1416
+Volkswagen;Golf (2007) Highline;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;160;18.5;MT 6;4wd;cast iron;aluminium;15;195;65;gasoleo;1450;1416
+Volkswagen;Golf (2007) GT Sport 3p.;1.6L 102 hp;;1595;102;5600;148;3800;7.4;176;10.3;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1173;0
+Volkswagen;Golf (2007) GT Sport 3p.;1.6L FSI 115 hp;;1598;116;6000;155;4000;6.7;161;12.0;MT 6;2wd;aluminium;aluminium;16;205;55;gasolina;1184;0
+Volkswagen;Golf (2007) GT Sport 3p.;1.4L TSI 122 hp;;1390;122;5500;200;1500;6.3;149;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1205;0
+Volkswagen;Golf (2007) GT Sport 3p.;1.4L TSI 140 hp;;1390;140;5600;220;1500;7.1;169;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1262;0
+Volkswagen;Golf (2007) GT Sport 3p.;1.4L TSI 170 hp;;1390;170;6000;240;1750;7.3;174;10.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1298;0
+Volkswagen;Golf;1.6L 102 hp;;1595;102;5600;148;3800;7.1;166;10.5;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1232;0
+Volkswagen;Golf;1.6L 102 hp;;1595;102;5600;148;3800;6.7;157;10.5;DCT 7;2wd;aluminium;aluminium;15;195;65;gasolina;1265;0
+Volkswagen;Golf;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.2;144;10.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasolina;1290;0
+Volkswagen;Golf;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.0;138;10.0;DCT 7;2wd;cast iron;aluminium;15;195;65;gasolina;1290;0
+Volkswagen;Golf Sport;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.2;144;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1290;0
+Volkswagen;Golf Sport;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.0;138;10.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1290;0
+Volkswagen;Golf;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.3;145;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1346;0
+Volkswagen;Golf;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.0;139;10.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1346;0
+Volkswagen;Golf GTI;2.0L TSI 210 hp;;1984;211;5300;280;1700;7.3;170;9.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1393;0
+Volkswagen;Golf GTI;2.0L TSI 210 hp;;1984;211;5300;280;1700;7.4;173;9.6;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1414;0
+Volkswagen;Golf;1.6L TDI105 hp;;1598;105;4400;250;1500;4.1;107;16.5;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1314;0
+Volkswagen;Golf Sport;1.6L TDI105 hp;;1598;105;4400;250;1500;4.1;107;16.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1314;0
+Volkswagen;Golf;2.0L TDI140 hp;;1968;140;4200;320;1750;4.9;129;16.5;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1374;0
+Volkswagen;Golf;2.0L TDI140 hp;;1968;140;4200;320;1750;5.4;142;16.5;DCT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1397;0
+Volkswagen;Golf Sport;2.0L TDI140 hp;;1968;140;4200;320;1750;4.9;129;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1374;0
+Volkswagen;Golf Sport;2.0L TDI140 hp;;1968;140;4200;320;1750;5.4;142;16.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1397;0
+Volkswagen;Golf Sport;2.0L TDI140 hp;;1968;140;4200;320;1750;5.5;145;16.5;MT 6;4wd;cast iron;aluminium;16;205;55;gasoleo;1474;0
+Volkswagen;Golf GTD;2.0L TDI170 hp;;1968;170;4200;350;1750;5.3;139;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1404;0
+Volkswagen;Golf GTD;2.0L TDI170 hp;;1968;170;4200;350;1750;5.6;147;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1426;0
+Volkswagen;Golf Plus;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.5;152;10.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasolina;1416;0
+Volkswagen;Golf Plus;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.3;146;10.0;DCT 7;2wd;cast iron;aluminium;15;195;65;gasolina;1438;0
+Volkswagen;Golf Plus Sport;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.5;152;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1416;0
+Volkswagen;Golf Plus Sport;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.5;152;10.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1416;0
+Volkswagen;Golf Plus Sport;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.5;153;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;;0
+Volkswagen;Golf Plus Sport;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.3;147;10.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;;0
+Volkswagen;Golf Plus;1.6L TDI105 hp;;1598;105;4400;250;1500;4.8;126;16.5;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1446;0
+Volkswagen;Golf Plus Sport;1.6L TDI105 hp;;1598;105;4400;250;1500;4.8;126;16.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1446;0
+Volkswagen;Golf Plus;2.0L TDI140 hp;;1968;140;4200;320;1750;5.1;135;16.5;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;;0
+Volkswagen;Golf Plus;2.0L TDI140 hp;;1968;140;4200;320;1750;5.6;146;16.5;DCT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1505;0
+Volkswagen;Golf Plus Sport;2.0L TDI140 hp;;1968;140;4200;320;1750;5.1;135;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;;0
+Volkswagen;Golf Plus Sport;2.0L TDI140 hp;;1968;140;4200;320;1750;5.6;146;16.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1505;0
+Volkswagen;Golf Variant;1.6L 102 hp;;1595;102;5600;148;3800;7.4;176;10.5;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1278;0
+Volkswagen;Golf Variant;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.2;137;19.0;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1361;0
+Volkswagen;Golf Variant Bluemotion;1.9L TDI 105 hp;;1896;105;4000;250;1900;4.6;122;19.0;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1357;0
+Volkswagen;Golf Variant;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.3;139;19.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasoleo;1376;0
+Volkswagen;Golf Variant;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.4;153;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1310;0
+Volkswagen;Golf Variant;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.3;148;10.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1331;0
+Volkswagen;Golf Variant;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.6;154;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1354;0
+Volkswagen;Golf Variant;1.4L TSI 160 hp;;1390;160;5800;240;1500;6.4;148;10.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1369;0
+Volkswagen;Golf Variant;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.5;143;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1399;0
+Volkswagen;Golf Variant;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.8;154;16.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1430;0
+Volkswagen;Touran;1.9L TDI 90 hp;;1896;90;4000;210;1800;6.0;157;19.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1573;0
+Volkswagen;Touran;1.6L 102 hp;;1595;102;5600;148;3800;8.1;193;10.5;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1502;0
+Volkswagen;Touran;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.9;156;19.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1573;0
+Volkswagen;Touran;1.4L TSI 140 hp;;1390;140;5600;220;1500;7.4;176;10.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasolina;1553;0
+Volkswagen;Touran Advance;1.6L 102 hp;;1595;102;5600;148;3800;8.1;193;10.5;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1502;0
+Volkswagen;Touran Advance;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.9;156;19.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1573;0
+Volkswagen;Touran;1.4L TSI 140 hp;;1390;140;5600;220;1500;7.5;179;10.0;DCT 6;2wd;cast iron;aluminium;15;195;65;gasolina;1575;0
+Volkswagen;Touran Bluemotion;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.4;145;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1557;0
+Volkswagen;Touran Advance;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.6;148;19.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasoleo;1601;0
+Volkswagen;Touran Advance;1.4L TSI 140 hp;;1390;140;5600;220;1500;7.4;176;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1553;0
+Volkswagen;Touran Advance;1.4L TSI 140 hp;;1390;140;5600;220;1500;7.5;179;10.0;DCT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1575;0
+Volkswagen;Touran Sport;1.4L TSI 140 hp;;1390;140;5600;220;1500;7.4;176;10.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1553;0
+Volkswagen;Touran Sport;1.4L TSI 140 hp;;1390;140;5600;220;1500;7.5;179;10.0;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1575;0
+Volkswagen;Touran;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;159;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1633;0
+Volkswagen;Touran;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.5;172;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1667;0
+Volkswagen;Touran Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;159;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1633;0
+Volkswagen;Touran Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.5;172;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1667;0
+Volkswagen;Touran;2.0L TDI 170 hp;;1968;170;4000;350;1750;6.6;174;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1625;0
+Volkswagen;Touran;2.0L TDI 170 hp;;1968;170;4000;350;1750;6.9;182;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1660;0
+Volkswagen;Touran Sport;2.0L TDI 170 hp;;1968;170;4000;350;1750;6.6;174;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1625;0
+Volkswagen;Touran Sport;2.0L TDI 170 hp;;1968;170;4000;350;1750;6.9;182;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1660;0
+Volkswagen;Touran (2003);1.6L FSI 115 hp;;1598;116;5800;155;4000;7.4;;12.0;MT 6;2wd;aluminium;aluminium;16;205;55;gasolina;1423;0
+Volkswagen;Touran (2003);1.9L TDI 100 hp;;1896;101;4000;250;1900;5.9;;19.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1498;0
+Volkswagen;Touran (2003) Trendline;1.9L TDI 100 hp;;1896;101;4000;250;1900;5.9;;19.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1498;0
+Volkswagen;Touran (2003) Trendline;2.0L TDI 136 hp;;1968;136;4000;320;1750;6.0;;18.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1561;0
+Volkswagen;Touran (2003) Highline;2.0L TDI 136 hp;;1968;136;4000;320;1750;6.0;;18.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1558;0
+Volkswagen;Passat CC;1.8L TSI 160 hp;;1798;160;6200;250;1500;7.6;178;9.8;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1505;0
+Volkswagen;Passat CC;1.8L TSI 160 hp;;1798;160;6200;250;1500;7.3;172;9.8;DCT 7;2wd;cast iron;aluminium;17;235;45;gasolina;;0
+Volkswagen;Passat CC;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.9;186;10.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1516;0
+Volkswagen;Passat CC;2.0L TSI 200 hp;;1984;200;6000;280;1800;8.5;199;10.5;AT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1529;0
+Volkswagen;Passat CC;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.6;146;16.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1541;0
+Volkswagen;Passat CC;2.0L TDI 140 hp;;1968;140;4200;320;1750;6.0;158;16.5;DCT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1560;0
+Volkswagen;Passat CC;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.6;146;16.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1547;0
+Volkswagen;Passat CC;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.1;159;16.5;DCT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1565;0
+Volkswagen;Passat CC;3.6L V6 FSI 300 hp;;3598;299;6600;350;2400;10.1;242;11.4;DCT 6;4wd;cast iron;aluminium;17;235;45;gasolina;1707;0
+Volkswagen;Passat;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.6;157;10.0;MT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1463;0
+Volkswagen;Passat;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.4;152;10.0;DCT 7;2wd;cast iron;aluminium;16;215;55;gasolina;1485;0
+Volkswagen;Passat;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.6;180;9.6;MT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1492;0
+Volkswagen;Passat R-Line;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.6;180;9.6;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1492;0
+Volkswagen;Passat;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.9;186;10.5;MT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1520;0
+Volkswagen;Passat R-Line;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.9;186;10.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1520;0
+Volkswagen;Passat;2.0L TSI 200 hp;;1984;200;6000;280;1800;8.5;199;10.5;AT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1538;0
+Volkswagen;Passat R-Line;2.0L TSI 200 hp;;1984;200;6000;280;1800;8.5;199;10.5;AT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1538;0
+Volkswagen;Passat;3.2L V6 FSI 250 hp;;3168;250;6250;330;2750;9.8;223;12.0;DCT 6;4wd;cast iron;aluminium;17;235;45;gasolina;1735;0
+Volkswagen;Passat R36;3.6L V6 FSI 300 hp;;3598;299;6600;350;2400;10.5;249;11.4;DCT 6;4wd;cast iron;aluminium;18;235;40;gasolina;1764;0
+Volkswagen;Passat;2.0L TDI110 hp;;1968;110;4200;250;1500;5.5;143;16.5;MT;2wd;cast iron;aluminium;16;215;55;gasoleo;1510;0
+Volkswagen;Passat Bluemotion;2.0L TDI110 hp;;1968;110;4100;250;1750;4.9;128;16.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1493;0
+Volkswagen;Passat;2.0L TDI140 hp;;1968;140;4200;320;1750;5.6;146;16.5;MT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1529;0
+Volkswagen;Passat;2.0L TDI140 hp;;1968;140;4200;320;1750;6.0;158;16.5;MT 6;4wd;cast iron;aluminium;16;215;55;gasoleo;1627;0
+Volkswagen;Passat R-Line;2.0L TDI140 hp;;1968;140;4200;320;1750;5.6;146;16.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1529;0
+Volkswagen;Passat;2.0L TDI140 hp;;1968;140;4200;320;1750;6.0;158;16.5;DCT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1549;0
+Volkswagen;Passat R-Line;2.0L TDI140 hp;;1968;140;4200;320;1750;6.0;158;16.5;MT 6;4wd;cast iron;aluminium;17;235;45;gasoleo;1629;0
+Volkswagen;Passat R-Line;2.0L TDI140 hp;;1968;140;4200;320;1750;6.0;158;16.5;DCT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1551;0
+Volkswagen;Passat;2.0L TDI170 hp;;1968;170;4200;350;1750;5.6;146;16.5;MT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1530;0
+Volkswagen;Passat R-Line;2.0L TDI170 hp;;1968;170;4200;350;1750;5.6;146;16.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1532;0
+Volkswagen;Passat;2.0L TDI170 hp;;1968;170;4200;350;1750;6.1;159;16.5;DCT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1552;0
+Volkswagen;Passat R-Line;2.0L TDI170 hp;;1968;170;4200;350;1750;6.1;159;16.5;DCT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1554;0
+Volkswagen;Passat Variant Bluemotion;2.0L TDI110 hp;;1968;110;4100;250;1750;4.9;129;16.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1543;0
+Volkswagen;Passat Variant;2.0L TDI110 hp;;1968;110;4200;250;1500;5.6;146;16.5;MT;2wd;cast iron;aluminium;16;215;55;gasoleo;1557;0
+Volkswagen;Passat Variant;2.0L TDI140 hp;;1968;140;4200;320;1750;5.7;148;16.5;MT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1572;0
+Volkswagen;Passat Variant;2.0L TDI140 hp;;1968;140;4200;320;1750;6.1;159;16.5;MT 6;4wd;cast iron;aluminium;16;215;55;gasoleo;1671;0
+Volkswagen;Passat Variant R-Line;2.0L TDI140 hp;;1968;140;4200;320;1750;5.7;148;16.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1572;0
+Volkswagen;Passat Variant;2.0L TDI140 hp;;1968;140;4200;320;1750;6.1;159;16.5;DCT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1594;0
+Volkswagen;Passat Variant R-Line;2.0L TDI140 hp;;1968;140;4200;320;1750;6.1;159;16.5;MT 6;4wd;cast iron;aluminium;17;235;45;gasoleo;1671;0
+Volkswagen;Passat Variant R-Line;2.0L TDI140 hp;;1968;140;4200;320;1750;6.1;159;16.5;DCT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1594;0
+Volkswagen;Passat Variant;2.0L TDI170 hp;;1968;170;4200;350;1750;5.7;149;16.5;MT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1574;0
+Volkswagen;Passat Variant R-Line;2.0L TDI170 hp;;1968;170;4200;350;1750;5.7;149;16.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1574;0
+Volkswagen;Passat Variant;2.0L TDI170 hp;;1968;170;4200;350;1750;6.2;159;16.5;DCT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1596;0
+Volkswagen;Passat Variant R-Line;2.0L TDI170 hp;;1968;170;4200;350;1750;6.2;159;16.5;DCT 6;2wd;cast iron;aluminium;17;235;45;gasoleo;1596;0
+Volkswagen;Passat Variant;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.7;159;10.0;MT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1504;0
+Volkswagen;Passat Variant;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.5;154;10.0;DCT 7;2wd;cast iron;aluminium;16;215;55;gasolina;1520;0
+Volkswagen;Passat Variant;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.8;186;9.6;MT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1534;0
+Volkswagen;Passat Variant R-Line;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.8;186;9.6;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1534;0
+Volkswagen;Passat Variant;2.0L TSI 200 hp;;1984;200;6000;280;1800;8.0;188;10.5;MT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1575;0
+Volkswagen;Passat Variant R-Line;2.0L TSI 200 hp;;1984;200;6000;280;1800;8.0;188;10.5;MT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1575;0
+Volkswagen;Passat Variant;2.0L TSI 200 hp;;1984;200;6000;280;1800;8.6;199;10.5;AT 6;2wd;cast iron;aluminium;16;215;55;gasolina;1593;0
+Volkswagen;Passat Variant R-Line;2.0L TSI 200 hp;;1984;200;6000;280;1800;8.6;199;10.5;AT 6;2wd;cast iron;aluminium;17;235;45;gasolina;1593;0
+Volkswagen;Passat Variant;3.2L V6 FSI 250 hp;;3168;250;6250;330;2750;10.0;238;12.0;DCT 6;4wd;cast iron;aluminium;17;235;45;gasolina;1790;0
+Volkswagen;Passat Variant R36;3.6L V6 FSI 300 hp;;3598;299;6600;350;2400;10.5;249;11.4;DCT 6;4wd;cast iron;aluminium;18;235;40;gasolina;1822;0
+Volkswagen;Phaeton;3.0L V6 TDI 240 hp;;2967;239;4000;500;1500;9.0;239;16.8;AT 6;4wd;cast iron;aluminium;17;235;55;gasoleo;2233;0
+Volkswagen;Phaeton;3.6L V6 280 hp;;3598;280;6250;370;3500;11.7;273;;AT 6;4wd;cast iron;aluminium;17;235;55;gasolina;2154;0
+Volkswagen;Phaeton;6.0L W12 450 hp;;5998;450;6050;560;2750;14.5;348;10.8;AT 5;4wd;aluminium;aluminium;18;255;45;gasolina;2392;0
+Volkswagen;Phaeton (2004);5.0L V10 TDI 313 hp;;4921;313;3750;750;2000;11.4;308;18.5;AT 6;4wd;aluminium;aluminium;18;255;45;gasoleo;2400;0
+Volkswagen;Phaeton (2004);3.2L V6 240 hp;;3189;241;6200;315;2400;11.4;;11.25;MT 6;2wd;cast iron;aluminium;16;235;60;gasolina;1996;0
+Volkswagen;Phaeton (2004);3.2L V6 240 hp;;3189;241;6200;315;2400;12.1;;11.25;AT 5;2wd;cast iron;aluminium;16;235;60;gasolina;2056;0
+Volkswagen;Tiguan;1.4L TSI 150 hp;;1390;120;5800;240;1750;7.4;171;10.0;MT 6;2wd;cast iron;aluminium;16;215;65;gasolina;1526;0
+Volkswagen;Tiguan;1.4L TSI 150 hp;;1390;120;5800;240;1750;8.0;185;10.0;MT 6;4wd;cast iron;aluminium;17;215;60;gasolina;1621;0
+Volkswagen;Tiguan R-Line;1.4L TSI 150 hp;;1390;120;5800;240;1750;8.0;185;10.0;MT 6;4wd;cast iron;aluminium;19;255;40;gasolina;1621;0
+Volkswagen;Tiguan;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.9;155;16.5;MT 6;2wd;cast iron;aluminium;16;215;65;gasoleo;1553;0
+Volkswagen;Tiguan;2.0L TDI 140 hp;;1968;140;4200;320;1750;6.4;167;16.5;MT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1665;0
+Volkswagen;Tiguan;2.0L TDI 140 hp;;1968;140;4200;320;1750;7.5;199;16.5;AT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1679;0
+Volkswagen;Tiguan R-Line;2.0L TDI 140 hp;;1968;140;4200;320;1750;6.4;167;16.5;MT 6;4wd;cast iron;aluminium;19;255;40;gasoleo;1665;0
+Volkswagen;Tiguan R-Line;2.0L TDI 140 hp;;1968;140;4200;320;1750;7.5;199;16.5;AT 6;4wd;cast iron;aluminium;19;255;40;gasoleo;1679;0
+Volkswagen;Tiguan;2.0L TSI 170 hp;;1984;170;4300;280;1700;8.9;213;;MT 6;4wd;cast iron;aluminium;17;215;60;gasolina;1646;0
+Volkswagen;Tiguan;2.0L TSI 170 hp;;1984;170;4300;280;1700;9.9;234;;AT 6;4wd;cast iron;aluminium;17;215;60;gasolina;1667;0
+Volkswagen;Tiguan R-Line;2.0L TSI 170 hp;;1984;170;4300;280;1700;8.9;213;;MT 6;4wd;cast iron;aluminium;19;255;40;gasolina;1646;0
+Volkswagen;Tiguan R-Line;2.0L TSI 170 hp;;1984;170;4300;280;1700;9.9;234;;AT 6;4wd;cast iron;aluminium;19;255;40;gasolina;1667;0
+Volkswagen;Tiguan;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.6;172;16.5;MT 6;4wd;cast iron;aluminium;17;215;60;gasoleo;1684;0
+Volkswagen;Tiguan R-Line;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.6;172;16.5;MT 6;4wd;cast iron;aluminium;19;255;40;gasoleo;1684;0
+Volkswagen;Tiguan;2.0L TSI 200 hp;;1984;200;5100;280;1700;8.9;213;10.5;MT 6;4wd;cast iron;aluminium;17;215;60;gasolina;1662;0
+Volkswagen;Tiguan;2.0L TSI 200 hp;;1984;200;5100;280;1700;9.9;234;10.5;AT 6;4wd;cast iron;aluminium;17;215;60;gasolina;1684;0
+Volkswagen;Tiguan R-Line;2.0L TSI 200 hp;;1984;200;5100;280;1700;8.9;213;10.5;MT 6;4wd;cast iron;aluminium;19;255;40;gasolina;1662;0
+Volkswagen;Tiguan R-Line;2.0L TSI 200 hp;;1984;200;5100;280;1700;9.9;234;10.5;AT 6;4wd;cast iron;aluminium;19;255;40;gasolina;1684;0
+Volkswagen;Touareg;2.5L TDI R5 174 hp;;2461;174;3500;400;2000;10.1;267;18.5;MT 6 with reductor (2.66);4wd;aluminium;aluminium;18;255;55;gasoleo;2247;0
+Volkswagen;Touareg;2.5L TDI R5 174 hp;;2461;174;3500;400;2000;10.4;275;18.5;AT 6 with reductor (2.66);4wd;aluminium;aluminium;18;255;55;gasoleo;2267;0
+Volkswagen;Touareg;3.0L V6 TDI 240 hp;;2967;239;4000;550;2000;9.6;254;16.8;MT 6 with reductor (2.66);4wd;cast iron;aluminium;18;255;55;gasoleo;2301;0
+Volkswagen;Touareg;3.0L V6 TDI 240 hp;;2967;239;4000;550;2000;9.9;262;16.8;AT 6 with reductor (2.66);4wd;cast iron;aluminium;18;255;55;gasoleo;2321;0
+Volkswagen;Touareg Indiv.;3.0L V6 TDI 240 hp;;2967;239;4000;550;2000;9.6;254;16.8;MT 6;4wd;cast iron;aluminium;18;255;55;gasoleo;2301;0
+Volkswagen;Touareg Indiv.;3.0L V6 TDI 240 hp;;2967;239;4000;550;2000;9.9;262;16.8;AT 6 with reductor (2.66);4wd;cast iron;aluminium;18;275;45;gasoleo;2321;0
+Volkswagen;Touareg;3.6L V6 FSI 280 hp;;3598;280;6200;360;2500;13.3;317;12.0;AT 6 with reductor (2.66);4wd;cast iron;aluminium;18;255;55;gasolina;2238;0
+Volkswagen;Touareg Indiv.;3.6L V6 FSI 280 hp;;3598;280;6200;360;2500;13.3;317;12.0;AT 6 with reductor (2.66);4wd;cast iron;aluminium;18;275;45;gasolina;2238;0
+Volkswagen;Touareg;4.2L V8 350 hp;;4163;350;6800;440;3500;13.8;329;12.5;AT 6 with reductor (2.66);4wd;aluminium;aluminium;18;255;55;gasolina;2332;0
+Volkswagen;Touareg;5.0L V10 TDI 313 hp;;4921;313;3750;750;2000;11.9;315;18.5;AT 6 with reductor (2.66);4wd;aluminium;aluminium;18;255;55;gasoleo;2602;0
+Volkswagen;Touareg;6.0L W12 450 hp;;5998;450;6000;600;3250;15.7;375;;AT 6;4wd;aluminium;aluminium;19;275;45;gasolina;2480;0
+Volkswagen;Touareg R50;5.0L V10 TDI 350 hp;;4921;351;3500;850;2000;11.9;315;18.5;AT 6 with reductor (2.66);4wd;aluminium;aluminium;21;295;35;gasoleo;2602;0
+Skoda;Fabia;1.2L 60 hp 3 cyl.;;1198;60;5200;108;3000;5.9;140;10.3;MT;2wd;aluminium;aluminium;14;165;70;gasolina;1115;0
+Skoda;Fabia Young;1.2L 60 hp 3 cyl.;;1198;60;5200;108;3000;5.9;140;10.3;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1115;0
+Skoda;Fabia Combi;1.2L 60 hp 3 cyl.;;1198;60;5200;108;3000;5.9;140;10.3;MT;2wd;aluminium;aluminium;14;165;70;gasolina;1140;0
+Skoda;Fabia;1.2L 70 hp 3 cyl.;;1198;69;5400;112;3000;5.9;140;10.5;MT;2wd;aluminium;aluminium;14;165;70;gasolina;1125;0
+Skoda;Fabia Young;1.2L 70 hp 3 cyl.;;1198;69;5400;112;3000;5.9;140;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1125;0
+Skoda;Fabia Combi;1.2L 70 hp 3 cyl.;;1198;69;5400;112;3000;5.9;140;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1145;0
+Skoda;Fabia;1.4L 85 hp;;1390;86;5000;132;3800;6.5;155;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1135;0
+Skoda;Fabia Combi;1.4L 85 hp;;1390;86;5000;132;3800;6.5;155;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1150;0
+Skoda;Fabia;1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;1600;4.8;127;19.5;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;1200;0
+Skoda;Fabia Combi;1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;1600;4.8;127;19.5;MT;2wd;cast iron;aluminium;14;165;70;gasoleo;1220;0
+Skoda;Fabia Combi Young;1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;1600;4.8;127;19.5;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;1220;0
+Skoda;Fabia;1.4L TDI 80 hp 3cyl.;;1422;80;4000;195;2200;4.6;120;19.5;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;1205;0
+Skoda;Fabia Combi;1.4L TDI 80 hp 3 cyl.;;1422;80;4000;195;2200;4.6;120;19.5;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;1225;0
+Skoda;Fabia GreenLine;1.4L TDI 80 hp3 cyl.;;1422;80;4000;195;2200;4.1;109;19.5;MT;2wd;cast iron;aluminium;14;175;70;gasoleo;1195;0
+Skoda;Fabia Combi;1.9L TDI 105 hp;;1896;105;4000;240;1800;4.9;129;19.0;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;1265;0
+Skoda;Fabia;1.9L TDI 105 hp;;1896;105;4000;240;1800;4.9;129;19.0;MT;2wd;cast iron;aluminium;14;185;60;gasoleo;1245;0
+Skoda;Fabia Sport;1.9L TDI 105 hp;;1896;105;4000;240;1800;4.9;129;19.0;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1245;0
+Skoda;Fabia Combi Sport;1.9L TDI 105 hp;;1896;105;4000;240;1800;4.9;129;19.0;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1265;0
+Skoda;Fabia;1.6L 105 hp;;1598;105;5600;153;3800;6.9;165;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1145;0
+Skoda;Fabia Combi;1.6L 105 hp;;1598;105;5600;153;3800;6.9;165;10.5;MT;2wd;aluminium;aluminium;14;185;60;gasolina;1165;0
+Skoda;Fabia Sport;1.6L 105 hp;;1598;105;5600;153;3800;6.9;165;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1145;0
+Skoda;Fabia Combi Sport;1.6L 105 hp;;1598;105;5600;153;3800;6.9;165;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1165;0
+Skoda;Fabia Combi Sport;1.6L 105 hp;;1598;105;5600;153;3800;7.5;180;10.5;AT 6;2wd;aluminium;aluminium;15;195;55;gasolina;1210;0
+Skoda;Fabia Sport;1.6L 105 hp;;1598;105;5600;153;3800;7.6;181;10.5;AT 6;2wd;aluminium;aluminium;15;195;55;gasolina;1190;0
+Skoda;Roomster;1.2L 70 hp 3 cyl.;;1198;69;5400;112;3000;6.7;159;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1225;0
+Skoda;Roomster;1.4L 85 hp;;1390;86;5000;126;3300;6.8;162;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1230;0
+Skoda;Roomster Style;1.4L 85 hp;;1390;86;5000;126;3300;6.8;162;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1230;0
+Skoda;Roomster;1.6L 105 hp;;1598;105;5700;155;3500;7.0;167;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1255;0
+Skoda;Roomster Sport;1.6L 105 hp;;1598;105;5700;155;3500;7.0;167;10.5;MT;2wd;aluminium;aluminium;16;205;45;gasolina;1255;0
+Skoda;Roomster Sport;1.6L 105 hp;;1598;105;5700;155;3500;8.1;185;10.5;AT 6;2wd;aluminium;aluminium;16;205;45;gasolina;1285;0
+Skoda;Roomster Scoot;1.6L 105 hp;;1598;105;5700;155;3500;7.0;167;10.5;MT;2wd;aluminium;aluminium;17;205;40;gasolina;1255;0
+Skoda;Roomster Scoot;1.6L 105 hp;;1598;105;5700;155;3500;8.1;185;10.5;AT 6;2wd;aluminium;aluminium;17;205;40;gasolina;1285;0
+Skoda;Roomster;1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;1600;5.3;139;19.5;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1305;0
+Skoda;Roomster;1.4L TDI 80 hp 3 cyl.;;1422;80;4000;195;2200;5.1;135;19.5;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1315;0
+Skoda;Roomster Style;1.4L TDI 80 hp 3 cyl.;;1422;80;4000;195;2200;5.1;135;19.5;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1315;0
+Skoda;Roomster;1.9L TDI 105 hp;;1896;105;4000;240;1800;5.4;139;19.0;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1330;0
+Skoda;Roomster Sport;1.9L TDI 105 hp;;1896;105;4000;240;1800;5.4;139;19.0;MT;2wd;cast iron;aluminium;16;205;45;gasoleo;1330;0
+Skoda;Roomster Scoot;1.9L TDI 105 hp;;1896;105;4000;240;1800;5.4;139;19.0;MT;2wd;cast iron;aluminium;17;205;40;gasoleo;1330;0
+Skoda;Scoot;1.8L TSI 160 hp;;1798;160;4500;250;1500;7.8;182;9.6;MT 6;4wd;cast iron;aluminium;17;225;50;gasolina;1560;0
+Skoda;Scoot;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.4;173;18.5;MT 6;4wd;cast iron;aluminium;17;225;50;gasoleo;1605;0
+Skoda;Octavia;1.6L 102 hp;;1595;102;5600;148;3800;7.4;176;10.5;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1310;0
+Skoda;Octavia;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.6;154;10.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasolina;1340;0
+Skoda;Octavia;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.3;147;10.0;DCT 7;2wd;cast iron;aluminium;15;195;65;gasolina;1360;0
+Skoda;Octavia;1.8L TSI 160 hp;;1798;160;4500;250;1500;7.0;163;9.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1380;0
+Skoda;Octavia;1.8L TSI 160 hp;;1798;160;4500;250;1500;6.6;155;9.6;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1385;0
+Skoda;Octavia Laurin&Klement;1.8L TSI 160 hp;;1798;160;4500;250;1500;7.0;163;9.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1380;0
+Skoda;Octavia Laurin&Klement;1.8L TSI 160 hp;;1798;160;4500;250;1500;6.6;155;9.6;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1385;0
+Skoda;Octavia RS;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.5;175;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1450;0
+Skoda;Octavia RS;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.7;180;10.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1470;0
+Skoda;Octavia;1.9L TDI 105 hp;;1896;105;4000;250;1900;4.9;130;18.5;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1410;0
+Skoda;Octavia;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.9;155;18.5;DCT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1410;0
+Skoda;Octavia;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.5;145;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1410;0
+Skoda;Octavia;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;158;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1430;0
+Skoda;Octavia Laurin&Klement;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.5;145;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1410;0
+Skoda;Octavia Laurin&Klement;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;158;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1430;0
+Skoda;Octavia RS;2.0L TDI170 hp;;1968;170;4200;350;1750;5.7;150;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1485;0
+Skoda;Octavia RS;2.0L TDI170 hp;;1968;170;4200;350;1750;6.0;159;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1505;0
+Skoda;Octavia Combi;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.6;154;10.0;MT 6;2wd;cast iron;aluminium;15;195;65;gasolina;1355;0
+Skoda;Octavia Combi;1.4L TSI 122 hp;;1390;122;5000;200;1500;6.3;147;10.0;DCT 7;2wd;cast iron;aluminium;15;195;65;gasolina;1395;0
+Skoda;Octavia Combi;1.8L TSI 160 hp;;1798;160;4500;250;1500;7.0;163;9.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1395;0
+Skoda;Octavia Combi;1.8L TSI 160 hp;;1798;160;4500;250;1500;6.6;155;9.6;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1415;0
+Skoda;Octavia Combi Laurin&Klement;1.8L TSI 160 hp;;1798;160;4500;250;1500;7.0;163;9.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1395;0
+Skoda;Octavia Combi Laurin&Klement;1.8L TSI 160 hp;;1798;160;4500;250;1500;6.6;155;9.6;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1415;0
+Skoda;Octavia Combi RS;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.5;175;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1485;0
+Skoda;Octavia Combi RS;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.7;180;10.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1485;0
+Skoda;Octavia Combi;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.1;135;18.5;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;;0
+Skoda;Octavia Combi;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.9;155;18.5;DCT 6;2wd;cast iron;aluminium;15;195;65;gasoleo;1425;0
+Skoda;Octavia Combi;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.7;150;18.5;MT 6;4wd;cast iron;aluminium;16;205;55;gasoleo;1425;0
+Skoda;Octavia Combi;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.5;145;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1425;0
+Skoda;Octavia Combi;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;158;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1445;0
+Skoda;Octavia Combi Laurin&Klement;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.5;145;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1425;0
+Skoda;Octavia Combi Laurin&Klement;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;158;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1445;0
+Skoda;Octavia Combi RS;2.0L TDI170 hp;;1968;170;4200;350;1750;5.7;150;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1500;0
+Skoda;Octavia Combi RS;2.0L TDI170 hp;;1968;170;4200;350;1750;6.0;159;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1520;0
+Skoda;Octavia GreenLine;1.6L TDI 105 hp;;1598;105;4400;250;1500;;;;MT;2wd;cast iron;aluminium;;;;gasoleo;;0
+Skoda;Superb;1.4L TSI 125 hp;;1390;125;5000;200;1500;6.8;157;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1500;0
+Skoda;Superb;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.6;180;9.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1529;0
+Skoda;Superb;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.1;168;9.6;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1546;0
+Skoda;Superb;1.8L TSI 160 hp;;1798;160;5000;250;1500;8.2;198;9.6;MT 6;4wd;cast iron;aluminium;16;205;55;gasolina;1563;0
+Skoda;Superb Elegance;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.6;180;9.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1529;0
+Skoda;Superb Elegance;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.1;168;9.6;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1546;0
+Skoda;Superb Elegance;1.8L TSI 160 hp;;1798;160;5000;250;1500;8.2;198;9.6;MT 6;4wd;cast iron;aluminium;17;225;45;gasolina;1563;0
+Skoda;Superb;3.6L V6 FSI 260 hp;;3598;260;6000;350;2500;10.0;238;11.4;AT 6;4wd;cast iron;aluminium;17;225;45;gasolina;1740;0
+Skoda;Superb;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.7;151;18.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1531;0
+Skoda;Superb;2.0L TDI 140 hp;;1968;140;4000;320;1800;5.9;155;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1565;0
+Skoda;Superb;2.0L TDI 140 hp;;1968;140;4000;320;1800;6.8;177;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1587;0
+Skoda;Superb Elegance;2.0L TDI 140 hp;;1968;140;4000;320;1800;5.9;155;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1565;0
+Skoda;Superb Elegance;2.0L TDI 140 hp;;1968;140;4000;320;1800;6.8;177;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1587;0
+Skoda;Superb;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.8;153;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1573;0
+Skoda;Superb;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.1;159;16.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1590;0
+Skoda;Superb;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.4;168;16.5;MT 6;4wd;cast iron;aluminium;16;205;55;gasoleo;1668;0
+Skoda;Superb Elegance;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.8;153;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1573;0
+Skoda;Superb Elegance;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.1;159;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1590;0
+Skoda;Superb Elegance;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.4;168;16.5;MT 6;4wd;cast iron;aluminium;17;225;45;gasoleo;1668;0
+Seat;Ibiza (2006);1.2L 64 hp 3 cyl.;;1198;64;5400;112;3000;5.9;142;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1038;1015
+Seat;Ibiza (2006);1.4L 75 hp;;1390;75;5000;126;3800;6.5;156;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1057;1034
+Seat;Ibiza (2006);1.4L 75 hp;;1390;75;5000;126;3800;7.5;180;10.5;AT 4;2wd;aluminium;aluminium;15;195;55;gasolina;1094;1067
+Seat;Ibiza (2006);1.4L 100 hp;;1390;101;6000;126;4400;6.6;158;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1073;1049
+Seat;Ibiza (2006) Sport;1.4L 100 hp;;1390;101;6000;126;4400;6.6;158;10.5;MT;2wd;aluminium;aluminium;16;205;45;gasolina;1073;1049
+Seat;Ibiza (2006) FR;1.8L T 150 hp;;1781;150;5800;220;1950;7.8;187;9.5;MT;2wd;cast iron;aluminium;17;205;40;gasolina;1203;1154
+Seat;Ibiza (2006) Cupra;1.8L T 180 hp;;1781;180;5800;245;2000;7.9;190;9.5;MT;2wd;cast iron;aluminium;17;205;40;gasolina;1177;0
+Seat;Ibiza (2006);1.4L TDI 70 hp 3 cyl.;;1422;69;4000;155;2200;4.7;127;19.5;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1131;1106
+Seat;Ibiza (2006);1.4L TDI 80 hp 3 cyl.;;1422;80;4000;195;2200;4.6;124;19.5;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1131;1106
+Seat;Ibiza (2006) Sport;1.4L TDI 80 hp 3 cyl.;;1422;80;4000;195;2200;4.6;124;19.5;MT;2wd;cast iron;aluminium;16;205;45;gasoleo;1131;1106
+Seat;Ibiza (2006);1.9L TDI 100 hp;;1896;101;4000;240;1800;4.9;132;19.0;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1165;1142
+Seat;Ibiza (2006) Sport;1.9L TDI 100 hp;;1896;101;4000;240;1800;4.9;132;19.0;MT;2wd;cast iron;aluminium;16;205;45;gasoleo;1165;1142
+Seat;Ibiza (2006) FR;1.9L TDI 130 hp;;1896;131;4000;310;1900;5.2;140;19.0;MT 6;2wd;cast iron;aluminium;17;205;40;gasoleo;1218;1192
+Seat;Ibiza (2006) Cupra;1.9L TDI 160 hp;;1896;160;3750;330;1900;5.4;146;19.0;MT 6;2wd;cast iron;aluminium;17;205;40;gasoleo;1215;0
+Seat;Ibiza (2006) Ecomotive;1.4L TDI 80 hp3 cyl.;;1422;80;4000;195;2200;3.8;99;19.5;MT;2wd;cast iron;aluminium;14;165;70;gasoleo;1184;1159
+Seat;Ibiza SportCoupé;1.2L 70 hp 3 cyl.;;1198;69;5400;112;3000;5.9;139;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1049;0
+Seat;Ibiza SportCoupé;1.4L 85 hp;;1390;86;5000;132;3800;6.2;149;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1075;0
+Seat;Ibiza SportCoupé Sport;1.4L 85 hp;;1390;86;5000;132;3800;6.2;149;10.5;MT;2wd;aluminium;aluminium;16;215;45;gasolina;1075;0
+Seat;Ibiza SportCoupé;1.6L 105 hp;;1598;105;5600;153;3800;6.6;157;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1090;0
+Seat;Ibiza SportCoupé;1.6L 105 hp;;1598;105;5600;153;3800;6.2;148;10.5;DCT 7;2wd;aluminium;aluminium;15;185;60;gasolina;1120;0
+Seat;Ibiza SportCoupé Sport;1.6L 105 hp;;1598;105;5600;153;3800;6.6;157;10.5;MT;2wd;aluminium;aluminium;16;215;45;gasolina;1090;0
+Seat;Ibiza SportCoupé Sport;1.6L 105 hp;;1598;105;5600;153;3800;6.2;148;10.5;DCT 7;2wd;aluminium;aluminium;16;215;45;gasolina;1120;0
+Seat;Ibiza SportCoupé FR;1.4L TSI 150 hp;;1390;150;?;220;1250;6.3;146;;DCT 7;2wd;cast iron;aluminium;17;215;40;gasolina;;0
+Seat;Ibiza SportCoupé Cupra;1.4L TSI 180 hp;;1390;180;?;250;1750;6.7;159;;DCT 7;2wd;cast iron;aluminium;17;215;40;gasolina;1244;0
+Seat;Ibiza SportCoupé;1.4L TDI 80 hp3 cyl.;;1422;80;4000;195;2200;4.3;114;19.5;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1150;0
+Seat;Ibiza SportCoupé Ecomotive;1.4L TDI 80 hp3 cyl.;;1422;80;4000;195;2200;3.7;98;19.5;MT;2wd;cast iron;aluminium;14;175;70;gasoleo;1140;0
+Seat;Ibiza SportCoupé;1.6L TDI90 hp;;1598;90;4000;210;1800;4.2;109;16.5;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1175;0
+Seat;Ibiza SportCoupé Sport;1.6L TDI90 hp;;1598;90;4000;210;1800;4.2;109;16.5;MT;2wd;cast iron;aluminium;16;215;45;gasoleo;1175;0
+Seat;Ibiza SportCoupé;1.9L TDI 105 hp;;1896;105;4000;240;1900;4.5;119;19.0;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1175;0
+Seat;Ibiza SportCoupé Sport;1.9L TDI 105 hp;;1896;105;4000;240;1900;4.5;119;19.0;MT;2wd;cast iron;aluminium;16;215;45;gasoleo;1175;0
+Seat;Ibiza;1.2L 70 hp 3 cyl.;;1198;69;5400;112;3000;5.9;139;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1074;0
+Seat;Ibiza;1.4L 85 hp;;1390;86;5000;132;3800;6.2;149;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1100;0
+Seat;Ibiza Sport;1.4L 85 hp;;1390;86;5000;132;3800;6.2;149;10.5;MT;2wd;aluminium;aluminium;16;215;45;gasolina;1100;0
+Seat;Ibiza;1.6L 105 hp;;1598;105;5600;153;3800;6.6;157;10.5;MT;2wd;aluminium;aluminium;15;185;60;gasolina;1115;0
+Seat;Ibiza;1.6L 105 hp;;1598;105;5600;153;3800;6.2;148;10.5;DCT 7;2wd;aluminium;aluminium;15;185;60;gasolina;1145;0
+Seat;Ibiza Sport;1.6L 105 hp;;1598;105;5600;153;3800;6.6;157;10.5;MT;2wd;aluminium;aluminium;16;215;45;gasolina;1115;0
+Seat;Ibiza Sport;1.6L 105 hp;;1598;105;5600;153;3800;6.2;148;10.5;DCT 7;2wd;aluminium;aluminium;16;215;45;gasolina;1145;0
+Seat;Ibiza;1.4L TSI 150 hp;;1390;150;?;220;1250;6.3;146;;DCT 7;2wd;cast iron;aluminium;17;215;40;gasolina;;0
+Seat;Ibiza;1.4L TDI 80 hp3 cyl.;;1422;80;4000;195;2200;4.3;114;19.5;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1175;0
+Seat;Ibiza Ecomotive;1.4L TDI 80 hp3 cyl.;;1422;80;4000;195;2200;3.7;98;19.5;MT;2wd;cast iron;aluminium;14;175;70;gasoleo;1165;0
+Seat;Ibiza;1.6L TDI90 hp;;1598;90;4000;210;1800;4.2;109;16.5;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;;0
+Seat;Ibiza Sport;1.6L TDI90 hp;;1598;90;4000;210;1800;4.2;109;16.5;MT;2wd;cast iron;aluminium;16;215;45;gasoleo;;0
+Seat;Ibiza;1.9L TDI 105 hp;;1896;105;4000;240;1900;4.5;119;19.0;MT;2wd;cast iron;aluminium;15;185;60;gasoleo;1200;0
+Seat;Ibiza Sport;1.9L TDI 105 hp;;1896;105;4000;240;1900;4.5;119;19.0;MT;2wd;cast iron;aluminium;16;215;45;gasoleo;1200;0
+Seat;Cordoba;1.4L 85 hp;;1390;86;5000;130;3800;6.5;154;10.5;MT;2wd;aluminium;aluminium;15;195;55;gasolina;1150;0
+Seat;Cordoba;1.4L TDI 80 hp;;1422;80;4000;195;2200;4.6;119;19.5;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1219;0
+Seat;Cordoba;1.9L TDI 100 hp;;1896;101;4000;240;1800;4.9;132;19.0;MT;2wd;cast iron;aluminium;15;195;55;gasoleo;1246;0
+Seat;Cordoba Sport;1.9L TDI 100 hp;;1896;101;4000;240;1800;4.9;132;19.0;MT;2wd;cast iron;aluminium;16;205;45;gasoleo;1246;0
+Seat;Leon;1.4L 85 hp;;1390;86;5000;130;3600;6.9;154;10.5;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1251;0
+Seat;Leon;1.6L 102 hp;;1595;102;5600;148;3800;7.2;169;10.5;MT;2wd;cast iron;aluminium;15;195;65;gasolina;1280;0
+Seat;Leon;1.4L TSI 125 hp;;1390;125;5000;200;1500;6.2;148;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1324;0
+Seat;Leon Sport;1.4L TSI 125 hp;;1390;125;5000;200;1500;6.2;148;10.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1324;0
+Seat;Leon;1.8L TSI 160 hp;;1798;160;5000;250;1500;6.8;159;10.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1395;0
+Seat;Leon Sport;1.8L TSI 160 hp;;1798;160;5000;250;1500;6.8;159;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1395;0
+Seat;Leon Sport;1.8L TSI 160 hp;;1798;160;5000;250;1500;6.6;153;10.5;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1370;0
+Seat;Leon FR;2.0L TSI 211 hp;;1984;211;5300;280;1700;7.3;170;9.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1395;0
+Seat;Leon FR;2.0L TSI 211 hp;;1984;211;5300;280;1700;7.5;174;9.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1425;0
+Seat;Leon Cupra;2.0L TSI 240 hp;;1984;241;5700;300;2200;8.2;199;10.3;MT 6;2wd;cast iron;aluminium;18;225;40;gasolina;1450;0
+Seat;Leon;1.9L TDI 90 hp;;1896;90;4000;210;1800;5.0;135;19.0;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1365;0
+Seat;Leon Ecomotive;1.9L TDI 105 hp;;1896;105;4000;250;1900;4.5;119;19.0;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1325;0
+Seat;Leon;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.8;154;19.0;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1395;0
+Seat;Leon;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.6;147;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1390;0
+Seat;Leon Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.6;147;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1390;0
+Seat;Leon Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.7;154;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1430;0
+Seat;Leon FR;2.0L TDI170 hp;;1968;170;4200;350;1750;5.3;139;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1395;0
+Seat;Leon FR;2.0L TDI170 hp;;1968;170;4200;350;1750;5.7;150;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1420;0
+Seat;Altea;1.4L 85 hp;;1390;86;5000;132;3800;7.3;159;10.5;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1366;0
+Seat;Altea;1.6L 102 hp;;1595;102;5600;148;3800;7.3;173;10.3;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1395;0
+Seat;Altea Style;1.6L 102 hp;;1595;102;5600;148;3800;7.3;173;10.3;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1395;0
+Seat;Altea;1.4L TSI 125 hp;;1390;125;5000;200;1500;6.4;152;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1439;0
+Seat;Altea Sport;1.4L TSI 125 hp;;1390;125;5000;200;1500;6.4;152;10.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1439;0
+Seat;Altea;1.8L TSI 160 hp;;1798;160;6200;250;1500;7.1;165;9.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1475;0
+Seat;Altea;1.8L TSI 160 hp;;1798;160;6200;250;1500;6.7;157;9.6;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1495;0
+Seat;Altea;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.4;142;18.5;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1480;0
+Seat;Altea Style;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.4;142;18.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1480;0
+Seat;Altea;1.9L TDI 105 hp;;1896;105;4000;250;1900;6.0;159;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1510;0
+Seat;Altea;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.8;157;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1505;0
+Seat;Altea Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.8;157;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1505;0
+Seat;Altea Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;160;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1540;0
+Seat;Altea Sport;2.0L TDI170 hp;;1968;170;4200;350;1750;5.6;146;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1505;0
+Seat;Altea XL;1.6L 102 hp;;1595;102;5600;148;3800;7.5;178;10.5;MT;2wd;aluminium;aluminium;15;195;65;gasolina;1434;0
+Seat;Altea XL Style;1.6L 102 hp;;1595;102;5600;148;3800;7.5;178;10.5;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1434;0
+Seat;Altea XL;1.4L TSI 125 hp;;1390;125;5000;200;1500;6.4;152;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1478;0
+Seat;Altea XL Sport;1.4L TSI 125 hp;;1390;125;5000;200;1500;6.4;152;10.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1478;0
+Seat;Altea XL;1.8L TSI 160 hp;;1798;160;5000;250;1500;7.1;165;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1505;0
+Seat;Altea XL;1.8L TSI 160 hp;;1798;160;5000;250;1500;6.8;159;10.5;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1525;0
+Seat;Altea XL;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.4;146;19.0;MT;2wd;cast iron;aluminium;15;195;65;gasoleo;1519;0
+Seat;Altea XL Style;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.4;146;19.0;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1519;0
+Seat;Altea XL Style;1.9L TDI 105 hp;;1896;105;4000;250;1900;6.0;159;19.0;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1549;0
+Seat;Altea XL;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.9;157;18.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1544;0
+Seat;Altea XL Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.9;157;18.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1544;0
+Seat;Altea XL Sport;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;162;18.0;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1579;0
+Seat;Altea XLSport;2.0L TDI170 hp;;1968;170;4200;350;1750;5.7;149;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1544;0
+Seat;Altea Freetrack;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.1;163;18.5;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1579;0
+Seat;Altea Freetrack;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.5;171;18.5;MT 6;4wd;cast iron;aluminium;17;225;50;gasoleo;1643;0
+Seat;Altea Freetrack;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.0;159;16.5;MT 6;4wd;cast iron;aluminium;17;225;50;gasoleo;1615;0
+Seat;Altea Freetrack;2.0L TSI 211 hp;;1984;211;5300;280;1700;8.4;197;9.6;DCT 6;4wd;cast iron;aluminium;17;225;50;gasolina;1661;0
+Seat;Toledo;1.6L 102 hp;;1595;102;5600;148;3800;7.7;185;10.5;MT;2wd;cast iron;aluminium;16;205;55;gasolina;1419;0
+Seat;Toledo;2.0L FSI 150 hp;;1984;150;6000;200;3500;8.4;201;11.5;MT 6;2wd;aluminium;aluminium;16;205;55;gasolina;1474;0
+Seat;Toledo Sport-up;2.0L FSI 150 hp;;1984;150;6000;200;3500;8.4;201;11.5;MT 6;2wd;aluminium;aluminium;17;225;45;gasolina;1474;0
+Seat;Toledo;2.0L FSI 150 hp;;1984;150;6000;200;3500;8.9;214;11.5;AT 6;2wd;aluminium;aluminium;16;205;55;gasolina;1515;0
+Seat;Toledo Sport-up;2.0L FSI 150 hp;;1984;150;6000;200;3500;9.1;218;11.5;AT 6;2wd;aluminium;aluminium;17;225;45;gasolina;1515;0
+Seat;Toledo;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.4;146;19.0;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1504;0
+Seat;Toledo;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.9;159;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1529;0
+Seat;Toledo Sport-up;2.0L TDI 140 hp;;1968;140;4000;320;1750;5.8;157;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1529;0
+Seat;Toledo;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.2;168;18.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1564;0
+Seat;Toledo Sport-up;2.0L TDI 140 hp;;1968;140;4000;320;1750;6.0;160;18.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1564;0
+Seat;Toledo;2.0L TDI 170 hp;;1968;170;4200;350;1800;6.2;167;18.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1529;0
+Seat;Toledo Sport-up;2.0L TDI 170 hp;;1968;170;4200;350;1800;6.2;167;18.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1529;0
+Seat;Exeo;1.6L 102 hp;;1595;102;5600;148;3800;7.5;175;10.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1385;0
+Seat;Exeo;1.8L 150 hp;;1781;150;5500;220;2000;7.9;184;9.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1475;0
+Seat;Exeo Sport;1.8L 150 hp;;1781;150;5500;220;2000;7.9;184;9.5;MT;2wd;cast iron;aluminium;17;225;45;gasolina;1475;0
+Seat;Exeo;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.7;179;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1505;0
+Seat;Exeo;2.0L TDI143 hp;;1968;143;4200;320;1750;5.5;146;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1505;0
+Seat;Exeo Sport;2.0L TDI143 hp;;1968;143;4200;320;1750;5.5;146;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1505;0
+Seat;Exeo;2.0L TDI170hp;;1968;170;4200;350;1750;5.9;153;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1530;0
+Seat;Exeo ST;1.6L 102 hp;;1595;102;5600;148;3800;7.7;179;10.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1445;0
+Seat;Exeo ST;1.8L 150 hp;;1781;150;5700;220;1800;8.1;189;9.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1535;0
+Seat;Exeo ST Sport;1.8L 150 hp;;1781;150;5700;220;1800;8.1;189;9.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1535;0
+Seat;Exeo ST;2.0L TSI 200 hp;;1984;200;6000;280;1800;7.9;184;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1565;0
+Seat;Exeo ST;2.0L TDI143 hp;;1968;143;4200;320;1750;5.7;149;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1565;0
+Seat;Exeo ST Sport;2.0L TDI143 hp;;1968;143;4200;320;1750;5.7;149;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1565;0
+Seat;Exeo ST;2.0L TDI170hp;;1968;170;4200;350;1750;5.9;159;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1590;0
+Seat;Alhambra;1.8L 150 hp;;1781;150;5800;220;1800;9.4;225;9.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1674;0
+Seat;Alhambra;1.9L TDI 115 hp;;1896;116;4000;310;1900;6.5;172;18.0;MT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1724;0
+Seat;Alhambra;1.9L TDI 115 hp;;1896;116;4000;310;1900;7.4;196;18.0;AT 5;2wd;cast iron;aluminium;16;215;55;gasoleo;1757;0
+Seat;Alhambra Sport +;1.9L TDI 115 hp;;1896;116;4000;310;1900;7.4;196;18.0;AT 5;2wd;cast iron;aluminium;17;225;45;gasoleo;1757;0
+Seat;Alhambra;1.9L TDI 115 hp;;1896;116;4000;310;1900;7.1;188;18.0;MT 6;4wd;cast iron;aluminium;16;215;55;gasoleo;1784;0
+Seat;Alhambra;2.0L TDI 140 hp;;1968;140;4000;310;1750;6.6;175;18.0;MT 6;2wd;cast iron;aluminium;16;215;55;gasoleo;1740;0
+Seat;Alhambra Ecomotive;2.0L TDI 140 hp;;1968;140;4000;310;1750;6.0;159;18.0;MT 6;2wd;cast iron;aluminium;16;195;60;gasoleo;1740;0
+Seat;Alhambra Sport +;2.0L TDI 140 hp;;1968;140;4000;310;1750;6.6;175;18.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1740;0
+Audi;A3;1.4L TFSI 125 hp;;1390;125;5000;200;1500;5.9;140;10.0;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1360;1320
+Audi;A3 Ambiente;1.4L TFSI 125 hp;;1390;125;5000;200;1500;5.9;140;10.0;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1360;1320
+Audi;A3;1.4L TFSI 125 hp;;1390;125;5000;200;1500;5.6;133;10.0;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1385;1345
+Audi;A3 Ambiente;1.4L TFSI 125 hp;;1390;125;5000;200;1500;5.6;133;10.0;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1385;1345
+Audi;A3;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.7;155;9.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1395;1355
+Audi;A3 Ambiente;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.7;155;9.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1395;1355
+Audi;A3;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.6;153;9.6;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1410;1370
+Audi;A3 Ambiente;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.6;153;9.6;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1410;1370
+Audi;A3 Ambiente;1.8L TFSI 160 hp;;1798;160;5000;250;1500;7.5;174;9.6;MT 6;4wd;cast iron;aluminium;17;225;45;gasolina;1490;1450
+Audi;A3;2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.1;164;10.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1410;1370
+Audi;A3 Ambiente;2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.1;164;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1410;1370
+Audi;A3;2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.2;166;10.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1445;1405
+Audi;A3;2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.5;174;10.5;DCT 6;4wd;cast iron;aluminium;17;225;45;gasolina;1530;1490
+Audi;S3;2.0L TFSI 265 hp;;1984;265;6000;350;2500;8.5;198;9.8;MT 6;4wd;cast iron;aluminium;18;225;40;gasolina;1570;1530
+Audi;S3;2.0L TFSI 265 hp;;1984;265;6000;350;2500;8.3;193;9.8;DCT 6;4wd;cast iron;aluminium;18;225;40;gasolina;1590;1550
+Audi;A3;3.2L V6 250 hp;;3189;250;6300;320;2500;9.4;224;11.3;DCT 6;4wd;cast iron;aluminium;17;225;45;gasolina;1625;1585
+Audi;A3;1.9L TDIe 105 hp;;1896;105;4000;250;1900;4.5;119;18.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1355;0
+Audi;A3 Ambiente;1.9L TDIe 105 hp;;1896;105;4000;250;1900;4.5;119;18.5;MT;2wd;cast iron;aluminium;17;225;45;gasoleo;1355;0
+Audi;A3;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.1;135;19.0;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1410;1370
+Audi;A3 Ambiente;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.1;135;19.0;MT;2wd;cast iron;aluminium;17;225;45;gasoleo;1410;1370
+Audi;A3;1.9L TDI 105 hp;;1896;105;4000;250;1900;4.7;124;19.0;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1395;1355
+Audi;A3 Ambiente;1.9L TDI 105 hp;;1896;105;4000;250;1900;4.7;124;19.0;MT;2wd;cast iron;aluminium;17;225;45;gasoleo;1395;1355
+Audi;A3;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.9;144;19.0;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1435;1395
+Audi;A3 Ambiente;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.9;144;19.0;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1435;1395
+Audi;A3;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.1;134;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1435;1395
+Audi;A3 Ambiente;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.1;134;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1435;1395
+Audi;A3;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.4;143;16.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1460;1420
+Audi;A3 Ambiente;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.4;143;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1460;1420
+Audi;A3;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.6;146;16.5;MT 6;4wd;cast iron;aluminium;16;205;55;gasoleo;1535;1495
+Audi;A3 Ambiente;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.6;146;16.5;MT 6;4wd;cast iron;aluminium;17;225;45;gasoleo;1535;1495
+Audi;A3;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.2;139;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1435;1395
+Audi;A3 Ambiente;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.2;139;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1435;1395
+Audi;A3;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.6;147;16.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1460;1420
+Audi;A3 Ambiente;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.6;147;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1460;1420
+Audi;A3;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.6;148;16.5;MT 6;4wd;cast iron;aluminium;16;205;55;gasoleo;1540;1500
+Audi;A3 Ambiente;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.6;148;16.5;MT 6;4wd;cast iron;aluminium;17;225;45;gasoleo;1540;1500
+Audi;A3 Cabrio;1.6L 102 hp;;1595;102;5600;148;3800;7.0;167;10.3;MT;2wd;aluminium;aluminium;16;205;55;gasolina;1405;0
+Audi;A3 Cabrio Ambition;1.6L 102 hp;;1595;102;5600;148;3800;7.0;167;10.3;MT;2wd;aluminium;aluminium;17;225;45;gasolina;1405;0
+Audi;A3 Cabrio;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.8;159;9.6;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1500;0
+Audi;A3 Cabrio Ambition;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.8;159;9.6;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1500;0
+Audi;A3 Cabrio;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.7;156;9.6;DCT 7;2wd;cast iron;aluminium;16;205;55;gasolina;1530;0
+Audi;A3 Cabrio Ambition;1.8L TFSI 160 hp;;1798;160;5000;250;1500;6.7;156;9.6;DCT 7;2wd;cast iron;aluminium;17;225;45;gasolina;1530;0
+Audi;A3 Cabrio;2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.2;169;10.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasolina;1510;0
+Audi;A3 Cabrio Ambition;2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.2;169;10.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1510;0
+Audi;A3 Cabrio Ambition;2.0L TFSI 200 hp;;1984;200;6000;280;1800;7.3;171;10.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasolina;1560;0
+Audi;A3 Cabrio;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.1;134;18.5;MT;2wd;cast iron;aluminium;16;205;55;gasoleo;1500;0
+Audi;A3 Cabrio Ambition;1.9L TDI 105 hp;;1896;105;4000;250;1900;5.1;134;18.5;MT;2wd;cast iron;aluminium;17;225;45;gasoleo;1500;0
+Audi;A3 Cabrio;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.3;139;16.5;MT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1550;0
+Audi;A3 Cabrio Ambition;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.3;139;16.5;MT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1550;0
+Audi;A3 Cabrio;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.6;148;16.5;DCT 6;2wd;cast iron;aluminium;16;205;55;gasoleo;1570;0
+Audi;A3 Cabrio Ambition;2.0L TDI 140 hp;;1968;140;4200;320;1750;5.6;148;16.5;DCT 6;2wd;cast iron;aluminium;17;225;45;gasoleo;1570;0
+Audi;TT;1.8L TFSI 160 hp;;1798;160;6200;250;1500;6.7;155;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1315;0
+Audi;TT;2.0L TFSI 200 hp;;1984;200;5100;280;1800;7.7;178;10.3;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1335;0
+Audi;TT;2.0L TFSI 200 hp;;1984;200;5100;280;1800;7.7;178;10.3;DCT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1335;0
+Audi;TT;2.0L TFSI 200 hp;;1984;200;5100;280;1800;7.7;178;10.3;DCT 6;4wd;cast iron;aluminium;16;225;55;gasolina;1435;0
+Audi;TT;3.2L V6 250 hp;;3189;250;6300;320;2500;10.3;247;11.3;MT 6;4wd;cast iron;aluminium;17;245;45;gasolina;1485;0
+Audi;TT;3.2L V6 250 hp;;3189;250;6300;320;2500;9.4;224;11.3;DCT 6;4wd;cast iron;aluminium;17;245;45;gasolina;1505;0
+Audi;TTS;2.0L TFSI 272 hp;;1984;272;6000;350;2500;8.1;188;9.8;MT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1470;0
+Audi;TTS;2.0L TFSI 272 hp;;1984;272;6000;350;2500;7.9;184;9.8;DCT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1490;0
+Audi;TT RS;2.5L 340 hp5 cyl.;;2480;340;6500;450;1600;9.2;214;10.0;MT 6;4wd;cast iron;aluminium;18;245;40;gasolina;1525;0
+Audi;TT;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.3;139;16.5;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1445;0
+Audi;TT Roadster;1.8L TFSI 160 hp;;1798;160;6200;250;1500;6.9;159;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1360;0
+Audi;TT Roadster;2.0L TFSI 200 hp;;1984;200;5100;280;1800;7.8;181;10.3;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1370;0
+Audi;TT Roadster;2.0L TFSI 200 hp;;1984;200;5100;280;1800;7.8;181;10.3;DCT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1390;0
+Audi;TT Roadster;2.0L TFSI 200 hp;;1984;200;5100;280;1800;7.8;181;10.3;DCT 6;4wd;cast iron;aluminium;16;225;55;gasolina;1480;0
+Audi;TT Roadster;3.2L V6 250 hp;;3189;250;6300;320;2500;10.4;250;11.3;MT 6;4wd;cast iron;aluminium;17;245;45;gasolina;1545;0
+Audi;TT Roadster;3.2L V6 250 hp;;3189;250;6300;320;2500;9.5;227;11.3;DCT 6;4wd;cast iron;aluminium;17;245;45;gasolina;1565;0
+Audi;TTS Roadster;2.0L TFSI 272 hp;;1984;272;6000;350;2500;8.3;193;9.8;MT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1530;0
+Audi;TTS Roadster;2.0L TFSI 272 hp;;1984;272;6000;350;2500;8.0;187;9.8;DCT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1550;0
+Audi;TT RS Roadster;2.5L 340 hp5 cyl.;;2480;340;6500;450;1600;9.5;221;10.0;MT 6;4wd;cast iron;aluminium;18;245;40;gasolina;1585;0
+Audi;TT Roadster;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.5;144;16.5;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1490;0
+Audi;A4;1.8L TFSI 120 hp;;1798;120;6200;250;1500;7.1;164;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1485;0
+Audi;A4;1.8L TFSI 120 hp;;1798;120;6200;250;1500;7.2;165;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1545;0
+Audi;A4;1.8L TFSI 160 hp;;1798;160;6200;250;1500;7.1;164;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1485;0
+Audi;A4;1.8L TFSI 160 hp;;1798;160;6200;250;1500;7.2;165;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1545;0
+Audi;A4;1.8L TFSI 160 hp;;1798;160;6200;250;1500;7.6;176;9.6;MT 6;4wd;cast iron;aluminium;16;225;55;gasolina;1585;0
+Audi;A4;2.0L TFSI 180 hp;;1984;180;4000;320;1500;6.6;154;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1505;0
+Audi;A4;2.0L TFSI 180 hp;;1984;180;4000;320;1500;7.1;167;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1540;0
+Audi;A4;2.0L TFSI 211 hp;;1984;211;6000;350;1500;6.6;154;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1510;0
+Audi;A4;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.1;167;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1555;0
+Audi;A4;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.4;172;9.6;MT 6;4wd;cast iron;aluminium;16;225;55;gasolina;1595;0
+Audi;A4;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.4;172;9.6;DCT 7;4wd;cast iron;aluminium;16;225;55;gasolina;1640;0
+Audi;A4;3.2L V6 FSI 265 hp;;3123;265;6500;330;3000;8.2;194;12.5;hpT;2wd;cast iron;aluminium;17;225;50;gasolina;1605;0
+Audi;A4;3.2L V6 FSI 265 hp;;3123;265;6500;330;3000;8.9;213;12.5;MT 6;4wd;cast iron;aluminium;17;225;50;gasolina;1655;0
+Audi;A4;3.2L V6 FSI 265 hp;;3123;265;6500;330;3000;9.0;215;12.5;AT 6;4wd;cast iron;aluminium;17;225;50;gasolina;1685;0
+Audi;S4;3.0L V6 TFSI 333 hp;;2995;333;7000;440;2900;9.7;225;10.3;MT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1725;0
+Audi;S4;3.0L V6 TFSI 333 hp;;2995;333;7000;440;2900;9.4;219;10.3;DCT 7;4wd;aluminium;aluminium;18;245;40;gasolina;1760;0
+Audi;A4;2.0L TDI 120 hp;;1968;120;4200;290;1750;5.1;134;16.5;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1540;0
+Audi;A4;2.0L TDI 143 hp;;1968;143;4200;320;1750;5.3;139;16.5;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1535;0
+Audi;A4;2.0L TDI 143 hp;;1968;143;4200;320;1750;5.8;154;16.5;hpT;2wd;cast iron;aluminium;16;225;55;gasoleo;1570;0
+Audi;A4;2.0L TDI 143 hp;;1968;143;4200;320;1750;5.9;155;16.5;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1630;0
+Audi;A4;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.3;140;16.5;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1535;0
+Audi;A4;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.9;156;16.5;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1630;0
+Audi;A4;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.0;159;16.8;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1645;0
+Audi;A4;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.4;167;16.8;hpT;2wd;cast iron;aluminium;16;225;55;gasoleo;1670;0
+Audi;A4;3.0L V6 TDI 240 hp;;2967;239;4400;500;1500;6.6;173;16.8;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1730;0
+Audi;A4;3.0L V6 TDI 240 hp;;2967;239;4400;500;1500;6.9;182;16.8;AT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1765;0
+Audi;A4 Avant;1.8L TFSI 120 hp;;1798;120;6200;250;1500;7.2;169;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1545;0
+Audi;A4 Avant;1.8L TFSI 120 hp;;1798;120;6200;250;1500;7.5;174;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1590;0
+Audi;A4 Avant;1.8L TFSI 160 hp;;1798;160;6200;250;1500;7.2;169;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1545;0
+Audi;A4 Avant;1.8L TFSI 160 hp;;1798;160;6200;250;1500;7.5;174;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1585;0
+Audi;A4 Avant;1.8L TFSI 160 hp;;1798;160;6200;250;1500;7.7;179;9.6;MT 6;4wd;cast iron;aluminium;16;225;55;gasolina;1635;0
+Audi;A4 Avant;2.0L TFSI 180 hp;;1984;180;4000;320;1500;6.8;159;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1565;0
+Audi;A4 Avant;2.0L TFSI 180 hp;;1984;180;4000;320;1500;7.3;172;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1600;0
+Audi;A4 Avant;2.0L TFSI 211 hp;;1984;211;6000;350;1500;6.8;159;9.6;MT 6;2wd;cast iron;aluminium;16;225;55;gasolina;1570;0
+Audi;A4 Avant;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.3;172;9.6;hpT;2wd;cast iron;aluminium;16;225;55;gasolina;1605;0
+Audi;A4 Avant;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.6;176;9.6;MT 6;4wd;cast iron;aluminium;16;225;55;gasolina;1640;0
+Audi;A4 Avant;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.6;175;9.6;DCT 7;4wd;cast iron;aluminium;16;225;55;gasolina;1680;0
+Audi;A4 Avant;3.2L V6 FSI 265 hp;;3123;265;6500;330;3000;8.4;199;12.5;hpT;2wd;cast iron;aluminium;17;225;50;gasolina;1665;0
+Audi;A4 Avant;3.2L V6 FSI 265 hp;;3123;265;6500;330;3000;9.1;216;12.5;MT 6;4wd;cast iron;aluminium;17;225;50;gasolina;1705;0
+Audi;A4 Avant;3.2L V6 FSI 265 hp;;3123;265;6500;330;3000;9.2;219;12.5;AT 6;4wd;cast iron;aluminium;17;225;50;gasolina;1735;0
+Audi;S4 Avant;3.0L V6 TFSI 333 hp;;2995;333;7000;440;2900;9.9;229;10.3;MT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1780;0
+Audi;S4 Avant;3.0L V6 TFSI 333 hp;;2995;333;7000;440;2900;9.6;224;10.3;DCT 7;4wd;aluminium;aluminium;18;245;40;gasolina;1810;0
+Audi;A4 Avant;2.0L TDI 120 hp;;1968;120;4200;290;1750;5.3;140;16.5;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1600;0
+Audi;A4 Avant;2.0L TDI 143 hp;;1968;143;4200;320;1750;5.4;143;16.5;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1595;0
+Audi;A4 Avant;2.0L TDI 143 hp;;1968;143;4200;320;1750;6.0;159;16.5;hpT;2wd;cast iron;aluminium;16;225;55;gasoleo;1630;0
+Audi;A4 Avant;2.0L TDI 143 hp;;1968;143;4200;320;1750;6.2;162;16.5;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1660;0
+Audi;A4 Avant;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.6;149;16.5;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1595;0
+Audi;A4 Avant;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.2;162;16.5;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1670;0
+Audi;A4 Avant;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.2;163;16.8;MT 6;2wd;cast iron;aluminium;16;225;55;gasoleo;1695;0
+Audi;A4 Avant;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.5;169;16.8;hpT;2wd;cast iron;aluminium;16;225;55;gasoleo;1720;0
+Audi;A4 Avant;3.0L V6 TDI 240 hp;;2967;239;4400;500;1500;6.8;176;16.8;MT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1770;0
+Audi;A4 Avant;3.0L V6 TDI 240 hp;;2967;239;4400;500;1500;7.2;186;16.8;AT 6;4wd;cast iron;aluminium;16;225;55;gasoleo;1810;0
+Audi;A4 Allroad;2.0L TDI 143 hp;;1968;143;4200;320;1750;6.2;164;16.5;MT 6;4wd;cast iron;aluminium;17;225;55;gasoleo;;0
+Audi;A4 Allroad;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.3;166;16.5;MT 6;4wd;cast iron;aluminium;17;225;55;gasoleo;1705;0
+Audi;A4 Allroad;3.0L V6 TDI 240 hp;;2967;239;4400;500;1500;7.2;189;16.8;MT 6;4wd;cast iron;aluminium;17;225;55;gasoleo;1805;0
+Audi;A4 Allroad;3.0L V6 TDI 240 hp;;2967;239;4400;500;1500;7.1;189;16.8;DCT 7;4wd;cast iron;aluminium;17;225;55;gasoleo;1840;0
+Audi;A4 Allroad;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.9;179;9.6;MT 6;4wd;cast iron;aluminium;17;225;55;gasolina;1690;0
+Audi;A4 Allroad;2.0L TFSI 211 hp;;1984;211;6000;350;1500;8.1;182;9.6;DCT 7;4wd;cast iron;aluminium;17;225;55;gasolina;1725;0
+Audi;A5;2.0L TFSI 180 hp;;1984;180;4000;320;1500;6.4;149;9.6;MT 6;2wd;cast iron;aluminium;17;225;50;gasolina;1495;0
+Audi;A5;2.0L TFSI 180 hp;;1984;180;4000;320;1500;7.1;167;9.6;hpT;2wd;cast iron;aluminium;17;225;50;gasolina;1535;0
+Audi;A5;2.0L TFSI 211 hp;;1984;211;6000;350;1500;6.4;149;9.6;MT 6;2wd;cast iron;aluminium;17;225;50;gasolina;1495;0
+Audi;A5;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.1;167;9.6;hpT;2wd;cast iron;aluminium;17;225;50;gasolina;1540;0
+Audi;A5;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.3;169;9.6;MT 6;4wd;cast iron;aluminium;17;225;50;gasolina;1565;0
+Audi;A5;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.4;172;9.6;DCT 7;4wd;cast iron;aluminium;17;225;50;gasolina;;0
+Audi;A5;3.2L V6 FSI 265 hp;;3123;265;6500;330;3250;8.2;192;12.5;hpT;2wd;aluminium;aluminium;17;225;50;gasolina;1575;0
+Audi;A5;3.2L V6 FSI 265 hp;;3123;265;6500;330;3250;9.1;214;12.5;MT 6;4wd;aluminium;aluminium;17;225;50;gasolina;1610;0
+Audi;A5;3.2L V6 FSI 265 hp;;3123;265;6500;330;3250;9.2;213;12.5;AT 6;4wd;aluminium;aluminium;17;225;50;gasolina;1645;0
+Audi;A5;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.1;134;16.5;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1545;0
+Audi;A5;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.7;149;16.5;MT 6;4wd;cast iron;aluminium;17;225;50;gasoleo;1610;0
+Audi;A5;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.0;159;16.8;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1625;0
+Audi;A5;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.4;167;16.8;hpT;2wd;cast iron;aluminium;17;225;50;gasoleo;1650;0
+Audi;A5;3.0L V6 TDI 239 hp;;2967;239;4000;500;1500;6.6;173;17.0;MT 6;4wd;cast iron;aluminium;17;225;50;gasoleo;1685;0
+Audi;A5;3.0L V6 TDI 239 hp;;2967;239;4000;500;1500;6.9;182;17.0;AT 6;4wd;cast iron;aluminium;17;225;50;gasoleo;1725;0
+Audi;S5;4.2L V8 350 hp;;4163;354;7000;440;3500;12.1;288;11.0;MT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1715;0
+Audi;S5;4.2L V8 350 hp;;4163;354;7000;440;3500;10.1;256;11.0;AT 6;4wd;aluminium;aluminium;18;245;40;gasolina;1750;0
+Audi;A5 Cabrio;2.0L TFSI 180 hp;;1984;180;4000;320;1500;7.4;174;9.6;hpT;2wd;cast iron;aluminium;17;225;50;gasolina;1730;0
+Audi;A5 Cabrio;2.0L TFSI 211 hp;;1984;211;6000;350;1500;6.7;156;9.6;MT 6;2wd;cast iron;aluminium;17;225;50;gasolina;1705;0
+Audi;A5 Cabrio;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.4;174;9.6;hpT;2wd;cast iron;aluminium;17;225;50;gasolina;1730;0
+Audi;A5 Cabrio;2.0L TFSI 211 hp;;1984;211;6000;350;1500;7.7;177;9.6;DCT 7;4wd;cast iron;aluminium;17;225;50;gasolina;1810;0
+Audi;A5 Cabrio;3.2L V6 FSI 265 hp;;3123;265;6500;330;3250;8.6;199;12.5;hpT;2wd;aluminium;aluminium;17;225;50;gasolina;1785;0
+Audi;A5 Cabrio;3.2L V6 FSI 265 hp;;3123;265;6500;330;3250;9.5;219;12.5;DCT 7;4wd;aluminium;aluminium;17;225;50;gasolina;1860;0
+Audi;A5 Cabrio;2.0L TDI 170 hp;;1968;170;4200;350;1750;5.7;144;16.5;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1735;0
+Audi;A5 Cabrio;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.2;164;16.8;MT 6;2wd;cast iron;aluminium;17;225;50;gasoleo;1835;0
+Audi;A5 Cabrio;2.7L V6 TDI 190 hp;;2698;190;3500;400;1400;6.5;169;16.8;hpT;2wd;cast iron;aluminium;17;225;50;gasoleo;1860;0
+Audi;A5 Cabrio;3.0L V6 TDI 239 hp;;2967;239;4400;500;1500;6.8;179;16.8;DCT 7;4wd;cast iron;aluminium;17;225;50;gasoleo;1935;0
+Audi;S5 Cabrio;3.0L V6 TFSI 330 hp;;2995;333;7000;440;2900;10.3;224;10.3;DCT 7;4wd;aluminium;aluminium;18;245;40;gasolina;1950;0
+Audi;Q5;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.7;175;16.5;MT 6;4wd;cast iron;aluminium;17;235;65;gasoleo;1805;0
+Audi;Q5;2.0L TDI 170 hp;;1968;170;4200;350;1750;6.8;179;16.5;DCT 7;4wd;cast iron;aluminium;17;235;65;gasoleo;1845;0
+Audi;Q5;3.0L V6 TDI 239 hp;;2967;239;4400;500;1500;7.5;199;16.8;DCT 7;4wd;cast iron;aluminium;18;235;60;gasoleo;1940;0
+Audi;Q5;2.0L TFSI 211 hp;;1984;211;6000;350;1500;8.3;192;9.6;MT 6;4wd;cast iron;aluminium;18;235;60;gasolina;1770;0
+Audi;Q5;2.0L TFSI 211 hp;;1984;211;6000;350;1500;8.5;197;9.6;DCT 7;4wd;cast iron;aluminium;18;235;60;gasolina;1815;0
+Audi;Q6;3.2L V6 FSI 265 hp;;3197;271;6500;330;3000;9.3;218;12.5;DCT 7;4wd;aluminium;aluminium;18;235;60;gasolina;1870;0

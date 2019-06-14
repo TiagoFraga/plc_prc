@@ -1,0 +1,78 @@
+### GearBoxes ###
+
+:cv_AT_5 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AT 5".
+
+:cv_AT_4 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AT 4".
+
+:cv_MT_6 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "MT 6".
+
+:cv_hpT rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "hpT".
+
+:cv_AT_6 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AT 6".
+
+:cv_AMT_6 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AMT 6".
+
+:cv_AMT_5 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AMT 5".
+
+:cv_AT_7 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AT 7".
+
+:cv_MT_6_with_reductor__2_6_ rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "MT 6 with reductor (2.6)".
+
+:cv_AT_5_with_reductor__2_6_ rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AT 5 with reductor (2.6)".
+
+:cv_DCT_6 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "DCT 6".
+
+:cv_MT_with_reductor__1_9_ rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "MT with reductor (1.9)".
+
+:cv_AT_with_reductor__1_9_ rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AT with reductor (1.9)".
+
+:cv_DCT_7 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "DCT 7".
+
+:cv_MT_6_or_AT_5 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "MT 6 or AT 5".
+
+:cv_MT_6_or_AT_4 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "MT 6 or AT 4".
+
+:cv_DCT_5 rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "DCT 5".
+
+:cv_MT_6_with_reductor__2_66_ rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "MT 6 with reductor (2.66)".
+
+:cv_AT_6_with_reductor__2_66_ rdf:type owl:NamedIndividual , :CaixaVelocidades; 
+	:descricao "";
+	:tipo "AT 6 with reductor (2.66)".
+
